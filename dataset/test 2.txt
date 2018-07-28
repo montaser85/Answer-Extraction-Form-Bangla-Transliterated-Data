@@ -1,0 +1,1210 @@
+1 A unit er subject 20 ta.
+2 SUST a exam 100 marks er.
+3 attendance 40 percent thaka lage.
+4 Vul answer a .25 number kata jabe.
+5 orientation 20 tarikhe hobe.
+6 migration vortir 7 din por.
+7 SUST er exam 18 tarikh.
+8 vorti fee 2000 taka.
+9 attendance 40 percent thaka lage.
+10 Biology te 20 marks.
+11 B unit a subject 15 ta.
+12 Hall fee 300 taka.
+13 SUST a exam 100 marks er.
+14 exam a mobile rakha jabe na.
+15 Oceanography notun department.
+16 SUST a exam 100 marks er.
+17 CSE department a 100 ta seat.
+18 B unit a subject 15 ta.
+19 Jeff apple ta Fred ke dilo.
+20 masters program 2 bochor er.
+21 result exam er 3 din pore dibe.
+22 exam a mobile rakha jabe na.
+23 B unit a subject 15 ta.
+24 exam a short question ashbe.
+25 masters program 2 bochor er.
+26 student organization ache 20 ta.
+27 Boys hall 3 ta.
+28 SUST a hall 5 ta.
+29 Vul answer a .25 number kata jabe.
+30 GPA er upor total mark 30.
+31 architecture er exam 25 marks er
+32 exam a mcq question thakbe.
+33 migration vortir 7 din por.
+34 2 unit er exam eki din a hobe.
+35 A unit er subject 20 ta.
+36 semester fee 1805 taka.
+37 maths a 20 marks.
+38 chemistry te 20 marks.
+39 exam er 15 minutes age center a thaka lagbe.
+40 CSE department a 100 ta seat.
+41 B2 unit a subject 10 ta.
+42 chemistry te marks koto? 	20	38
+1 GPA er upor total mark 30.
+2 Oceanography notun department.
+3 exam a mcq thakbe
+4 Hall fee 300 taka.
+5 migration vortir 7 din por.
+6 Hall fee 300 taka.
+7 Oceanography notun department.
+8 exam a mcq question thakbe.
+9 architecture 5 bochorer course.
+10 orientation march 15 tarikhe hobe
+11 Biology te 20 marks.
+12 Hall fee 300 taka.
+13 architecture 5 bochorer course.
+14 A unit er subject 20 ta.
+15 physics a 20 marks.
+16 Hall fee 300 taka.
+17 SUST er exam 18 tarikh.
+18 semester fee 1805 taka.
+19 sust website a sob info ache.
+20 Hall fee 300 taka.
+21 Hall fee 300 taka.
+22 semester fee 1805 taka.
+23 2 unit er exam eki din a hobe.
+24 architecture 5 bochorer course.
+25 semester fee 1805 taka.
+26 Hall fee 300 taka.
+27 vorti fee 2000 taka.
+28 weekend 2 din er.
+29 sust website a sob info ache.
+30 Biology te 20 marks.
+31 migration vortir 7 din por.
+32 weekend 2 din er.
+33 2 unit er exam eki din a hobe.
+34 CSE department a 100 ta seat.
+35 orientation 20 tarikhe hobe.
+36 GPA er upor total mark 30.
+37 semester fee 1805 taka.
+38 semester fee 1805 taka.
+39 migration vortir 7 din por.
+40 architecture er exam 25 marks er
+41 GPA er upor total mark 30.
+42 semester fee 1805 taka.
+43 orientation march 15 tarikhe hobe
+44 semester fee 1805 taka.
+45 semester fee 1805 taka.
+46 exam a mcq question thakbe.
+47 exam a mcq question thakbe.
+48 Vul answer a .25 number kata jabe.
+49 exam a mcq thakbe
+50 Biology te 20 marks.
+51 architecture er exam 25 marks er
+52 SUST a exam 100 marks er.
+53 2 unit er exam eki din a hobe.
+54 physics a 20 marks.
+55 masters program 2 bochor er.
+56 exam a 1 ta rough paper deya hoy.
+57 exam er time 10 ta.
+58 CSE department a 100 seat.
+59 migration vortir 7 din por.
+60 CSE te seat koyta? 	100	58
+61 handball maath 1 ta.
+62 football maath 1 ta.
+63 SWE ar CSE alada department.
+64 2 unit er exam eki din a hobe.
+65 sust website a sob info ache.
+66 football maath koyta? 	1	62
+1 A unit er subject 20 ta.
+2 SUST a exam 100 marks er.
+3 attendance 40 percent thaka lage.
+4 Vul answer a .25 number kata jabe.
+5 orientation 20 tarikhe hobe.
+6 migration vortir 7 din por.
+7 SUST er exam 18 tarikh.
+8 vorti fee 2000 taka.
+9 attendance 40 percent thaka lage.
+10 Biology te 20 marks.
+11 B unit a subject 15 ta.
+12 Hall fee 300 taka.
+13 SUST a exam 100 marks er.
+14 exam a mobile rakha jabe na.
+15 Oceanography notun department.
+16 SUST a exam 100 marks er.
+17 CSE department a 100 ta seat.
+18 B unit a subject 15 ta.
+19 Jeff apple ta Fred ke dilo.
+20 masters program 2 bochor er.
+21 result exam er 3 din pore dibe.
+22 exam a mobile rakha jabe na.
+23 B unit a subject 15 ta.
+24 exam a short question ashbe.
+25 masters program 2 bochor er.
+26 student organization ache 20 ta.
+27 Boys hall 3 ta.
+28 SUST a hall 5 ta.
+29 Vul answer a .25 number kata jabe.
+30 GPA er upor total mark 30.
+31 architecture er exam 25 marks er
+32 exam a 70 ta mcq question thakbe.
+33 migration vortir 7 din por.
+34 2 unit er exam eki din a hobe.
+35 A unit er subject 20 ta.
+36 semester fee 1805 taka.
+37 maths a 20 marks.
+38 chemistry te 20 marks.
+39 exam er 15 minutes age center a thaka lagbe.
+40 CSE department a 100 ta seat.
+41 B2 unit a subject 10 ta.
+42 exam a mcq koyta? 	70	32
+1 GPA er upor total mark 30.
+2 Oceanography notun department.
+3 exam a mcq thakbe
+4 Hall fee 300 taka.
+5 migration vortir 7 din por.
+6 Hall fee 300 taka.
+7 Oceanography notun department.
+8 exam a mcq question thakbe.
+9 architecture 5 bochorer course.
+10 orientation march 15 tarikhe hobe
+11 Biology te 20 marks.
+12 Hall fee 300 taka.
+13 architecture 5 bochorer course.
+14 A unit er subject 20 ta.
+15 physics a 20 marks.
+16 Hall fee 300 taka.
+17 SUST er exam 18 tarikh.
+18 semester fee 1805 taka.
+19 sust website a sob info ache.
+20 Hall fee 300 taka.
+21 Hall fee 300 taka.
+22 semester fee 1805 taka.
+23 2 unit er exam eki din a hobe.
+24 architecture 5 bochorer course.
+25 semester fee 1805 taka.
+26 Hall fee 300 taka.
+27 vorti fee 2000 taka.
+28 weekend 2 din er.
+29 sust website a sob info ache.
+30 Biology te 20 marks.
+31 migration vortir 7 din por.
+32 weekend 2 din er.
+33 2 unit er exam eki din a hobe.
+34 CSE department a 100 ta seat.
+35 orientation 20 tarikhe hobe.
+36 GPA er upor total mark 30.
+37 semester fee 1805 taka.
+38 semester fee 1805 taka.
+39 migration vortir 7 din por.
+40 architecture er exam 25 marks er
+41 GPA er upor total mark 30.
+42 semester fee 1805 taka.
+43 orientation march 15 tarikhe hobe
+44 semester fee 1805 taka.
+45 semester fee 1805 taka.
+46 exam a mcq question thakbe.
+47 exam a mcq question thakbe.
+48 Vul answer a .25 number kata jabe.
+49 exam a mcq thakbe
+50 Biology te 20 marks.
+51 architecture er exam 25 marks er
+52 SUST a exam 100 marks er.
+53 2 unit er exam eki din a hobe.
+54 physics a 20 marks.
+55 masters program 2 bochor er.
+56 exam a 1 ta rough paper deya hoy.
+57 exam er time 10 ta.
+58 CSE department a 100 seat.
+59 migration vortir 7 din por.
+60 CSE te seat koyta? 	100	58
+61 handball maath 1 ta.
+62 football maath 1 ta.
+63 SWE ar CSE alada department.
+64 2 unit er exam eki din a hobe.
+65 sust website a sob info ache.
+66 exam koy din a hobe? 	1	64
+1 GPA er upor total mark 30.
+2 Oceanography notun department.
+3 exam a mcq thakbe
+4 Hall fee 300 taka.
+5 migration vortir 7 din por.
+6 Hall fee 300 taka.
+7 Oceanography notun department.
+8 exam a mcq question thakbe.
+9 architecture 5 bochorer course.
+10 orientation march 15 tarikhe hobe
+11 Biology te 20 marks.
+12 Hall fee 300 taka.
+13 architecture 5 bochorer course.
+14 A unit er subject 20 ta.
+15 physics a 20 marks.
+16 Hall fee 300 taka.
+17 SUST er exam 18 tarikh.
+18 semester fee 1805 taka.
+19 sust website a sob info ache.
+20 Hall fee 300 taka.
+21 Hall fee 300 taka.
+22 semester fee 1805 taka.
+23 2 unit er exam eki din a hobe.
+24 architecture 5 bochorer course.
+25 semester fee 1805 taka.
+26 Hall fee 300 taka.
+27 vorti fee 2000 taka.
+28 weekend 2 din er.
+29 sust website a sob info ache.
+30 Biology te 20 marks.
+31 migration vortir 7 din por.
+32 weekend 2 din er.
+33 weekend koy din er? 	2	32
+1 GPA er upor total mark 30.
+2 Oceanography notun department.
+3 exam a mcq thakbe
+4 Hall fee 300 taka.
+5 migration vortir 7 din por.
+6 Hall fee 300 taka.
+7 Oceanography notun department.
+8 exam a mcq question thakbe.
+9 architecture 5 bochorer course.
+10 orientation march 15 tarikhe hobe
+11 Biology te 20 marks.
+12 Hall fee 300 taka.
+13 architecture 5 bochorer course.
+14 A unit er subject 20 ta.
+15 physics a 20 marks.
+16 Hall fee 300 taka.
+17 SUST er exam 18 tarikh.
+18 semester fee 1805 taka.
+19 sust website a sob info ache.
+20 sob info kothay? 	website	19
+1 GPA er upor total mark 30.
+2 Oceanography notun department.
+3 exam a mcq thakbe
+4 Hall fee 300 taka.
+5 migration vortir 7 din por.
+6 Hall fee 300 taka.
+7 Oceanography notun department.
+8 exam a mcq question thakbe.
+9 architecture 5 bochorer course.
+10 orientation march 15 tarikhe hobe
+11 Biology te 20 marks.
+12 Hall fee 300 taka.
+13 architecture 5 bochorer course.
+14 A unit er subject 20 ta.
+15 physics a 20 marks.
+16 Hall fee 300 taka.
+17 SUST er exam 18 tarikh.
+18 semester fee 1805 taka.
+19 sust website a sob info ache.
+20 Hall fee 300 taka.
+21 Hall fee 300 taka.
+22 semester fee 1805 taka.
+23 2 unit er exam eki din a hobe.
+24 architecture 5 bochorer course.
+25 semester fee 1805 taka.
+26 Hall fee 300 taka.
+27 vorti fee 2000 taka.
+28 weekend 2 din er.
+29 sust website a sob info ache.
+30 Biology te 20 marks.
+31 migration vortir 7 din por.
+32 weekend 2 din er.
+33 2 unit er exam eki din a hobe.
+34 CSE department a 100 ta seat.
+35 orientation 20 tarikhe hobe.
+36 GPA er upor total mark 30.
+37 semester fee 1805 taka.
+38 semester fee 1805 taka.
+39 migration vortir 7 din por.
+40 architecture er exam 25 marks er
+41 GPA er upor total mark 30.
+42 semester fee 1805 taka.
+43 orientation march 15 tarikhe hobe
+44 semester fee 1805 taka.
+45 semester fee 1805 taka.
+46 exam a mcq question thakbe.
+47 exam a mcq question thakbe.
+48 Vul answer a .25 number kata jabe.
+49 exam a mcq thakbe
+50 Biology te 20 marks.
+51 architecture er exam 25 marks er
+52 SUST a exam 100 marks er.
+53 2 unit er exam eki din a hobe.
+54 physics a 20 marks.
+55 ki type question ashbe? 	mcq	49
+1 GPA er upor total mark 30.
+2 Oceanography notun department.
+3 exam a mcq thakbe
+4 Hall fee 300 taka.
+5 migration vortir 7 din por.
+6 Hall fee 300 taka.
+7 Oceanography notun department.
+8 exam a mcq question thakbe.
+9 architecture 5 bochorer course.
+10 orientation march 15 tarikhe hobe
+11 Biology te 20 marks.
+12 Hall fee 300 taka.
+13 architecture 5 bochorer course.
+14 A unit er subject 20 ta.
+15 physics a 20 marks.
+16 Hall fee 300 taka.
+17 SUST er exam 18 tarikh.
+18 semester fee 1805 taka.
+19 sust website a sob info ache.
+20 Hall fee 300 taka.
+21 Hall fee 300 taka.
+22 semester fee 1805 taka.
+23 2 unit er exam eki din a hobe.
+24 architecture 5 bochorer course.
+25 semester fee 1805 taka.
+26 Hall fee 300 taka.
+27 exam kobe? 	18	17
+1 GPA er upor total mark 30.
+2 Oceanography notun department.
+3 exam a mcq thakbe
+4 Hall fee 300 taka.
+5 migration vortir 7 din por.
+6 Hall fee 300 taka.
+7 Oceanography notun department.
+8 exam a mcq question thakbe.
+9 architecture 5 bochorer course.
+10 orientation march 15 tarikhe hobe
+11 Biology te 20 marks.
+12 Hall fee 300 taka.
+13 architecture 5 bochorer course.
+14 A unit er subject 20 ta.
+15 physics a 20 marks.
+16 Hall fee 300 taka.
+17 SUST er exam 18 tarikh.
+18 semester fee 1805 taka.
+19 sust website a sob info ache.
+20 Hall fee 300 taka.
+21 Hall fee 300 taka.
+22 semester fee 1805 taka.
+23 2 unit er exam eki din a hobe.
+24 architecture 5 bochorer course.
+25 semester fee 1805 taka.
+26 Hall fee 300 taka.
+27 vorti fee 2000 taka.
+28 weekend 2 din er.
+29 sust website a sob info ache.
+30 Biology te 20 marks.
+31 migration vortir 7 din por.
+32 weekend 2 din er.
+33 2 unit er exam eki din a hobe.
+34 CSE department a 100 ta seat.
+35 orientation 20 tarikhe hobe.
+36 GPA er upor total mark 30.
+37 semester fee 1805 taka.
+38 migration koy din por? 	7	31
+1 GPA er upor total mark 30.
+2 Oceanography notun department.
+3 exam a mcq thakbe
+4 Hall fee 300 taka.
+5 migration vortir 7 din por.
+6 Hall fee 300 taka.
+7 Oceanography notun department.
+8 exam a mcq question thakbe.
+9 architecture 5 bochorer course.
+10 orientation march 15 tarikhe hobe
+11 Biology te 20 marks.
+12 Hall fee 300 taka.
+13 architecture 5 bochorer course.
+14 A unit er subject 20 ta.
+15 A unit a subject koyta? 	20	14
+1 GPA er upor total mark 30.
+2 Oceanography notun department.
+3 exam a mcq thakbe
+4 Hall fee 300 taka.
+5 migration vortir 7 din por.
+6 Hall fee 300 taka.
+7 Oceanography notun department.
+8 exam a mcq question thakbe.
+9 architecture 5 bochorer course.
+10 orientation march 15 tarikhe hobe
+11 Biology te 20 marks.
+12 Hall fee 300 taka.
+13 architecture 5 bochorer course.
+14 A unit er subject 20 ta.
+15 physics a 20 marks.
+16 Biology te koto marks? 	20	11
+1 GPA er upor total mark 30.
+2 Oceanography notun department.
+3 exam a mcq thakbe
+4 Hall fee 300 taka.
+5 migration vortir 7 din por.
+6 Hall fee 300 taka.
+7 Oceanography notun department.
+8 exam a mcq question thakbe.
+9 architecture 5 bochorer course.
+10 orientation march 15 tarikhe hobe
+11 Biology te 20 marks.
+12 Hall fee 300 taka.
+13 architecture 5 bochorer course.
+14 A unit er subject 20 ta.
+15 physics a 20 marks.
+16 Hall fee 300 taka.
+17 SUST er exam 18 tarikh.
+18 semester fee 1805 taka.
+19 sust website a sob info ache.
+20 Hall fee 300 taka.
+21 Hall fee 300 taka.
+22 semester fee 1805 taka.
+23 2 unit er exam eki din a hobe.
+24 architecture 5 bochorer course.
+25 semester fee 1805 taka.
+26 Hall fee 300 taka.
+27 vorti fee 2000 taka.
+28 weekend 2 din er.
+29 sust website a sob info ache.
+30 Biology te 20 marks.
+31 migration vortir 7 din por.
+32 weekend 2 din er.
+33 2 unit er exam eki din a hobe.
+34 CSE department a 100 ta seat.
+35 orientation 20 tarikhe hobe.
+36 GPA er upor total mark 30.
+37 Physics a koto marks? 	20	15
+1 GPA er upor total mark 30.
+2 Oceanography notun department.
+3 exam a mcq thakbe
+4 Hall fee 300 taka.
+5 migration vortir 7 din por.
+6 Hall fee 300 taka.
+7 Oceanography notun department.
+8 exam a mcq question thakbe.
+9 architecture 5 bochorer course.
+10 orientation march 15 tarikhe hobe
+11 Biology te 20 marks.
+12 Hall fee 300 taka.
+13 architecture 5 bochorer course.
+14 A unit er subject 20 ta.
+15 physics a 20 marks.
+16 Hall fee 300 taka.
+17 SUST er exam 18 tarikh.
+18 semester fee 1805 taka.
+19 sust website a sob info ache.
+20 Hall fee 300 taka.
+21 Hall fee 300 taka.
+22 semester fee 1805 taka.
+23 2 unit er exam eki din a hobe.
+24 architecture 5 bochorer course.
+25 semester fee 1805 taka.
+26 Hall fee 300 taka.
+27 vorti fee 2000 taka.
+28 weekend 2 din er.
+29 sust website a sob info ache.
+30 Biology te 20 marks.
+31 migration vortir 7 din por.
+32 weekend 2 din er.
+33 2 unit er exam eki din a hobe.
+34 CSE department a 100 ta seat.
+35 orientation 20 tarikhe hobe.
+36 GPA er upor total mark 30.
+37 semester fee 1805 taka.
+38 semester fee 1805 taka.
+39 migration vortir 7 din por.
+40 architecture er exam 25 marks er
+41 GPA er upor total mark 30.
+42 semester fee 1805 taka.
+43 orientation march 15 tarikhe hobe
+44 semester fee 1805 taka.
+45 semester fee 1805 taka.
+46 exam a mcq question thakbe.
+47 exam a mcq question thakbe.
+48 Vul answer a .25 number kata jabe.
+49 negative marking koto? 	.25	48
+1 GPA er upor total mark 30.
+2 Oceanography notun department.
+3 exam a mcq thakbe
+4 Hall fee 300 taka.
+5 migration vortir 7 din por.
+6 Hall fee 300 taka.
+7 Oceanography notun department.
+8 exam a mcq question thakbe.
+9 architecture 5 bochorer course.
+10 orientation march 15 tarikhe hobe
+11 Biology te 20 marks.
+12 Hall fee 300 taka.
+13 architecture 5 bochorer course.
+14 A unit er subject 20 ta.
+15 physics a 20 marks.
+16 Hall fee 300 taka.
+17 SUST er exam 18 tarikh.
+18 semester fee 1805 taka.
+19 sust website a sob info ache.
+20 Hall fee 300 taka.
+21 Hall fee 300 taka.
+22 semester fee 1805 taka.
+23 2 unit er exam eki din a hobe.
+24 architecture 5 bochorer course.
+25 semester fee 1805 taka.
+26 Hall fee 300 taka.
+27 vorti fee 2000 taka.
+28 weekend 2 din er.
+29 sust website a sob info ache.
+30 Biology te 20 marks.
+31 migration vortir 7 din por.
+32 weekend 2 din er.
+33 2 unit er exam eki din a hobe.
+34 CSE department a 100 ta seat.
+35 orientation 20 tarikhe hobe.
+36 GPA er upor total mark 30.
+37 semester fee 1805 taka.
+38 weekend koy din er? 	2	32
+1 GPA er upor total mark 30.
+2 Oceanography notun department.
+3 exam a mcq thakbe
+4 Hall fee 300 taka.
+5 migration vortir 7 din por.
+6 Hall fee 300 taka.
+7 Oceanography notun department.
+8 exam a mcq question thakbe.
+9 architecture 5 bochorer course.
+10 orientation march 15 tarikhe hobe
+11 GPA theke koto marks? 	30	1
+1 GPA er upor total mark 30.
+2 Oceanography notun department.
+3 exam a mcq thakbe
+4 Hall fee 300 taka.
+5 migration vortir 7 din por.
+6 Hall fee 300 taka.
+7 Oceanography notun department.
+8 exam a mcq question thakbe.
+9 architecture 5 bochorer course.
+10 orientation march 15 tarikhe hobe
+11 Biology te 20 marks.
+12 Hall fee 300 taka.
+13 architecture 5 bochorer course.
+14 A unit er subject 20 ta.
+15 physics a 20 marks.
+16 Hall fee 300 taka.
+17 SUST er exam 18 tarikh.
+18 semester fee 1805 taka.
+19 sust website a sob info ache.
+20 Hall fee 300 taka.
+21 Hall fee 300 taka.
+22 semester fee 1805 taka.
+23 2 unit er exam eki din a hobe.
+24 architecture 5 bochorer course.
+25 semester fee 1805 taka.
+26 Hall fee 300 taka.
+27 vorti fee 2000 taka.
+28 weekend 2 din er.
+29 sust website a sob info ache.
+30 Biology te 20 marks.
+31 migration vortir 7 din por.
+32 weekend 2 din er.
+33 2 unit er exam eki din a hobe.
+34 CSE department a 100 ta seat.
+35 orientation 20 tarikhe hobe.
+36 GPA er upor total mark 30.
+37 semester fee 1805 taka.
+38 semester fee 1805 taka.
+39 migration vortir 7 din por.
+40 architecture er exam 25 marks er
+41 GPA er upor total mark 30.
+42 semester fee 1805 taka.
+43 orientation march 15 tarikhe hobe
+44 semester fee 1805 taka.
+45 semester fee 1805 taka.
+46 exam a mcq question thakbe.
+47 exam a mcq question thakbe.
+48 Vul answer a .25 number kata jabe.
+49 exam a mcq thakbe
+50 exam a ki thakbe? 	mcq	49
+1 GPA er upor total mark 30.
+2 Oceanography notun department.
+3 exam a mcq thakbe
+4 Hall fee 300 taka.
+5 migration vortir 7 din por.
+6 Hall fee 300 taka.
+7 Oceanography notun department.
+8 exam a mcq question thakbe.
+9 architecture 5 bochorer course.
+10 orientation march 15 tarikhe hobe
+11 GPA theke koto marks? 	30	1
+1 GPA er upor total mark 30.
+2 Oceanography notun department.
+3 exam a mcq thakbe
+4 Hall fee 300 taka.
+5 migration vortir 7 din por.
+6 Hall fee 300 taka.
+7 Oceanography notun department.
+8 exam a mcq question thakbe.
+9 architecture 5 bochorer course.
+10 orientation march 15 tarikhe hobe
+11 Biology te 20 marks.
+12 Hall fee 300 taka.
+13 architecture 5 bochorer course.
+14 A unit er subject 20 ta.
+15 physics a 20 marks.
+16 Hall fee 300 taka.
+17 SUST er exam 18 tarikh.
+18 semester fee 1805 taka.
+19 sust website a sob info ache.
+20 Hall fee 300 taka.
+21 Hall fee 300 taka.
+22 notun department konta? 	oceanography	2
+1 GPA er upor total mark 30.
+2 Oceanography notun department.
+3 exam a mcq thakbe
+4 Hall fee 300 taka.
+5 migration vortir 7 din por.
+6 Hall fee 300 taka.
+7 Oceanography notun department.
+8 exam a mcq question thakbe.
+9 architecture 5 bochorer course.
+10 orientation march 15 tarikhe hobe
+11 GPA theke koto marks? 	30	1
+1 GPA er upor total mark 30.
+2 Oceanography notun department.
+3 exam a mcq thakbe
+4 Hall fee 300 taka.
+5 migration vortir 7 din por.
+6 Hall fee 300 taka.
+7 Oceanography notun department.
+8 exam a mcq question thakbe.
+9 architecture 5 bochorer course.
+10 orientation march 15 tarikhe hobe
+11 Biology te 20 marks.
+12 Hall fee 300 taka.
+13 architecture 5 bochorer course.
+14 A unit er subject 20 ta.
+15 physics a 20 marks.
+16 Hall fee 300 taka.
+17 SUST er exam 18 tarikh.
+18 semester fee 1805 taka.
+19 sust website a sob info ache.
+20 Hall fee 300 taka.
+21 Hall fee 300 taka.
+22 semester fee 1805 taka.
+23 2 unit er exam eki din a hobe.
+24 architecture 5 bochorer course.
+25 semester fee 1805 taka.
+26 Hall fee 300 taka.
+27 vorti fee 2000 taka.
+28 weekend 2 din er.
+29 sust website a sob info ache.
+30 Biology te 20 marks.
+31 migration vortir 7 din por.
+32 weekend 2 din er.
+33 vorti fee koto? 	2000	27
+1 GPA er upor total mark 30.
+2 Oceanography notun department.
+3 exam a mcq thakbe
+4 Hall fee 300 taka.
+5 migration vortir 7 din por.
+6 Hall fee 300 taka.
+7 Oceanography notun department.
+8 exam a mcq question thakbe.
+9 architecture 5 bochorer course.
+10 orientation march 15 tarikhe hobe
+11 GPA theke koto marks? 	30	1
+1 GPA er upor total mark 30.
+2 Oceanography notun department.
+3 exam a mcq thakbe
+4 Hall fee 300 taka.
+5 migration vortir 7 din por.
+6 Hall fee 300 taka.
+7 Oceanography notun department.
+8 exam a mcq question thakbe.
+9 architecture 5 bochorer course.
+10 orientation march 15 tarikhe hobe
+11 Biology te 20 marks.
+12 Hall fee 300 taka.
+13 architecture 5 bochorer course.
+14 A unit er subject 20 ta.
+15 physics a 20 marks.
+16 Hall fee 300 taka.
+17 SUST er exam 18 tarikh.
+18 semester fee 1805 taka.
+19 sust website a sob info ache.
+20 Hall fee 300 taka.
+21 physics a koto number? 	20	15
+1 GPA er upor total mark 30.
+2 Oceanography notun department.
+3 exam a mcq thakbe
+4 Hall fee 300 taka.
+5 migration vortir 7 din por.
+6 Hall fee 300 taka.
+7 Oceanography notun department.
+8 exam a mcq question thakbe.
+9 architecture 5 bochorer course.
+10 orientation march 15 tarikhe hobe
+11 GPA theke koto marks? 	30	1
+1 GPA er upor total mark 30.
+2 Oceanography notun department.
+3 exam a mcq thakbe
+4 Hall fee 300 taka.
+5 migration vortir 7 din por.
+6 Hall fee 300 taka.
+7 Oceanography notun department.
+8 exam a mcq question thakbe.
+9 architecture 5 bochorer course.
+10 orientation march 15 tarikhe hobe
+11 Biology te 20 marks.
+12 Hall fee 300 taka.
+13 architecture 5 bochorer course.
+14 A unit er subject 20 ta.
+15 physics a 20 marks.
+16 Hall fee 300 taka.
+17 SUST er exam 18 tarikh.
+18 semester fee 1805 taka.
+19 sust website a sob info ache.
+20 Hall fee 300 taka.
+21 Hall fee 300 taka.
+22 semester fee 1805 taka.
+23 2 unit er exam eki din a hobe.
+24 architecture 5 bochorer course.
+25 semester fee 1805 taka.
+26 Hall fee 300 taka.
+27 vorti fee 2000 taka.
+28 weekend 2 din er.
+29 architecture koy bochorer course? 	5	24
+1 GPA er upor total mark 30.
+2 Oceanography notun department.
+3 exam a mcq thakbe
+4 Hall fee 300 taka.
+5 migration vortir 7 din por.
+6 Hall fee 300 taka.
+7 Oceanography notun department.
+8 exam a mcq question thakbe.
+9 architecture 5 bochorer course.
+10 orientation march 15 tarikhe hobe
+11 GPA theke koto marks? 	30	1
+1 GPA er upor total mark 30.
+2 Oceanography notun department.
+3 exam a mcq thakbe
+4 Hall fee 300 taka.
+5 migration vortir 7 din por.
+6 Hall fee 300 taka.
+7 Oceanography notun department.
+8 exam a mcq question thakbe.
+9 architecture 5 bochorer course.
+10 orientation march 15 tarikhe hobe
+11 Biology te 20 marks.
+12 Hall fee 300 taka.
+13 architecture 5 bochorer course.
+14 A unit er subject 20 ta.
+15 physics a 20 marks.
+16 Hall fee 300 taka.
+17 SUST er exam 18 tarikh.
+18 semester fee 1805 taka.
+19 sust website a sob info ache.
+20 Hall fee 300 taka.
+21 Hall fee 300 taka.
+22 semester fee 1805 taka.
+23 2 unit er exam eki din a hobe.
+24 architecture 5 bochorer course.
+25 semester fee 1805 taka.
+26 Hall fee 300 taka.
+27 vorti fee 2000 taka.
+28 weekend 2 din er.
+29 sust website a sob info ache.
+30 Biology te 20 marks.
+31 migration vortir 7 din por.
+32 weekend 2 din er.
+33 2 unit er exam eki din a hobe.
+34 CSE department a 100 ta seat.
+35 orientation 20 tarikhe hobe.
+36 GPA er upor total mark 30.
+37 semester fee 1805 taka.
+38 exam shokal 10 tay.
+39 migration vortir 7 din por.
+40 architecture er exam 25 marks er
+41 GPA er upor total mark 30.
+42 semester fee 1805 taka.
+43 exam koytay? 	10	38
+1 GPA er upor total mark 30.
+2 Oceanography notun department.
+3 exam a mcq thakbe
+4 Hall fee 300 taka.
+5 migration vortir 7 din por.
+6 Hall fee 300 taka.
+7 Oceanography notun department.
+8 exam a mcq question thakbe.
+9 architecture 5 bochorer course.
+10 orientation march 15 tarikhe hobe
+11 GPA theke koto marks? 	30	1
+1 GPA er upor total mark 30.
+2 Oceanography notun department.
+3 exam a mcq thakbe
+4 Hall fee 300 taka.
+5 migration vortir 7 din por.
+6 Hall fee 300 taka.
+7 Oceanography notun department.
+8 exam a mcq question thakbe.
+9 architecture 5 bochorer course.
+10 orientation march 15 tarikhe hobe
+11 Biology te 20 marks.
+12 Hall fee 300 taka.
+13 architecture 5 bochorer course.
+14 A unit er subject 20 ta.
+15 physics a 20 marks.
+16 Hall fee 300 taka.
+17 SUST er exam 18 tarikh.
+18 semester fee 1805 taka.
+19 sust website a sob info ache.
+20 Hall fee 300 taka.
+21 bachelor program 4 bochorer.
+22 semester fee 1805 taka.
+23 2 unit er exam eki din a hobe.
+24 architecture 5 bochorer course.
+25 semester fee 1805 taka.
+26 Hall fee 300 taka.
+27 vorti fee 2000 taka.
+28 weekend 2 din er.
+29 sust website a sob info ache.
+30 Biology te 20 marks.
+31 migration vortir 7 din por.
+32 weekend 2 din er.
+33 2 unit er exam eki din a hobe.
+34 CSE department a 100 ta seat.
+35 orientation 20 tarikhe hobe.
+36 GPA er upor total mark 30.
+37 semester fee 1805 taka.
+38 semester fee 1805 taka.
+39 migration vortir 7 din por.
+40 architecture er exam 25 marks er
+41 GPA er upor total mark 30.
+42 semester fee 1805 taka.
+43 orientation march 15 tarikhe hobe
+44 semester fee 1805 taka.
+45 semester fee 1805 taka.
+46 exam a mcq question thakbe.
+47 exam a mcq question thakbe.
+48 Vul answer a .25 number kata jabe.
+49 exam a mcq thakbe.
+50 bachelor program koy bochorer? 	4	21
+1 GPA er upor total mark 30.
+2 Oceanography notun department.
+3 exam a mcq thakbe
+4 Hall fee 300 taka.
+5 migration vortir 7 din por.
+6 Hall fee 300 taka.
+7 Oceanography notun department.
+8 exam a mcq question thakbe.
+9 architecture 5 bochorer course.
+10 orientation march 15 tarikhe hobe
+11 GPA theke koto marks? 	30	1
+1 GPA er upor total mark 30.
+2 Oceanography notun department.
+3 exam a mcq thakbe
+4 Hall fee 300 taka.
+5 migration vortir 7 din por.
+6 Hall fee 300 taka.
+7 Oceanography notun department.
+8 exam a mcq question thakbe.
+9 architecture 5 bochorer course.
+10 orientation march 15 tarikhe hobe
+11 Biology te 20 marks.
+12 Hall fee 300 taka.
+13 architecture 5 bochorer course.
+14 A unit er subject 20 ta.
+15 physics a 20 marks.
+16 Hall fee 300 taka.
+17 SUST er exam 18 tarikh.
+18 semester fee 1805 taka.
+19 sust website a sob info ache.
+20 Hall fee 300 taka.
+21 bachelor program 4 bochorer.
+22 semester fee 1805 taka.
+23 2 unit er exam eki din a hobe.
+24 architecture 5 bochorer course.
+25 semester fee 1805 taka.
+26 Hall fee 300 taka.
+27 vorti fee 2000 taka.
+28 weekend 2 din er.
+29 sust website a sob info ache.
+30 Biology te 20 marks.
+31 migration vortir 7 din por.
+32 weekend 2 din er.
+33 2 unit er exam eki din a hobe.
+34 CSE department a 100 ta seat.
+35 orientation 20 tarikhe hobe.
+36 GPA er upor total mark 30.
+37 semester fee 1805 taka.
+38 semester fee 1805 taka.
+39 migration vortir 7 din por.
+40 architecture er exam 25 marks er
+41 GPA er upor total mark 30.
+42 semester fee 1805 taka.
+43 orientation march 15 tarikhe hobe
+44 semester fee 1805 taka.
+45 semester fee 1805 taka.
+46 exam a mcq question thakbe.
+47 exam a mcq question thakbe.
+48 Vul answer a .25 number kata jabe.
+49 exam a mcq thakbe
+50 vul answer a koto kata jabe? 	.25	48
+1 GPA er upor total mark 30.
+2 Oceanography notun department.
+3 exam a mcq thakbe
+4 Hall fee 300 taka.
+5 migration vortir 7 din por.
+6 Hall fee 300 taka.
+7 Oceanography notun department.
+8 exam a mcq question thakbe.
+9 architecture 5 bochorer course.
+10 orientation march 15 tarikhe hobe
+11 GPA theke koto marks? 	30	1
+1 GPA er upor total mark 30.
+2 Oceanography notun department.
+3 exam a mcq thakbe
+4 Hall fee 300 taka.
+5 migration vortir 7 din por.
+6 Hall fee 300 taka.
+7 Oceanography notun department.
+8 exam a mcq question thakbe.
+9 architecture 5 bochorer course.
+10 orientation march 15 tarikhe hobe
+11 Biology te 20 marks.
+12 Hall fee 300 taka.
+13 architecture 5 bochorer course.
+14 A unit er subject 20 ta.
+15 physics a 20 marks.
+16 Hall fee 300 taka.
+17 SUST er exam 18 tarikh.
+18 semester fee 1805 taka.
+19 sust website a sob info ache.
+20 Hall fee 300 taka.
+21 bachelor program 4 bochorer.
+22 semester fee 1805 taka.
+23 2 unit er exam eki din a hobe.
+24 CSE department a 100 seat.
+25 sob info kothay pabo? 	website	19
+1 SUST er exam 18 tarikh.
+2 architecture er exam 25 marks er.
+3 exam a 70 ta mcq thakbe.
+4 A unit er subject 20 ta.
+5 Hall fee 300 taka.
+6 weekend 2 din er.
+7 class start hobe 25 tarikh.
+8 vorti fee 2000 taka.
+9 koyta mcq thakbe? 	70	3
+10 maths a 20 marks.
+11 architecture 5 bochorer course.
+12 weekend koy din? 	2	6
+13 GPA er upor total mark 30.
+14 exam a mcq question thakbe.
+15 Admit hote 2 copy photo lagbe.
+16 GPA er upor total mark 30.
+17 Oceanography notun department.
+18 CSE department a 100 ta seat.
+19 Hall fee 300 taka.
+20 B unit a subject 15 ta.
+21 exam a 1 ta rough paper deya hoy.
+22 academic building ache 5 ta.
+23 koy copy photo lagbe? 	2	15
+1 A unit er subject 20 ta.
+2 SUST a exam 100 marks er.
+3 attendance 40 percent thaka lage.
+4 Vul answer a .25 number kata jabe.
+5 orientation 20 tarikhe hobe.
+6 migration vortir 7 din por.
+7 SUST er exam 18 tarikh.
+8 vorti fee 2000 taka.
+9 attendance 40 percent thaka lage.
+10 Biology te 20 marks.
+11 B unit a subject 15 ta.
+12 Hall fee 300 taka.
+13 SUST a exam 100 marks er.
+14 exam a mobile rakha jabe na.
+15 Oceanography notun department.
+16 SUST a exam 100 marks er.
+17 CSE department a 100 ta seat.
+18 B unit a subject 15 ta.
+19 Jeff apple ta Fred ke dilo.
+20 masters program 2 bochor er.
+21 attendance koto percent thaka lage? 	40	9
+1 GPA er upor total mark 30.
+2 Oceanography notun department.
+3 exam a mcq thakbe
+4 Hall fee 300 taka.
+5 migration vortir 7 din por.
+6 Hall fee 300 taka.
+7 Oceanography notun department.
+8 exam a mcq question thakbe.
+9 architecture 5 bochorer course.
+10 orientation march 15 tarikhe hobe
+11 Biology te 20 marks.
+12 Hall fee 300 taka.
+13 architecture 5 bochorer course.
+14 A unit er subject 20 ta.
+15 physics a 20 marks.
+16 Hall fee 300 taka.
+17 SUST er exam 18 tarikh.
+18 semester fee 1805 taka.
+19 sust website a sob info ache.
+20 Hall fee 300 taka.
+21 Hall fee 300 taka.
+22 semester fee 1805 taka.
+23 2 unit er exam eki din a hobe.
+24 architecture 5 bochorer course.
+25 semester fee 1805 taka.
+26 Hall fee 300 taka.
+27 vorti fee 2000 taka.
+28 weekend 2 din er.
+29 sust website a sob info ache.
+30 Biology te 20 marks.
+31 migration vortir 7 din por.
+32 weekend 2 din er.
+33 2 unit er exam eki din a hobe.
+34 CSE department a 100 ta seat.
+35 exam koto tarikhe hobe? 	18	17
+1 chemistry te 20 marks.
+2 physics a 20 marks.
+3 attendance 40 percent thaka lage.
+4 Admit hote 2 copy photo lagbe.
+5 GPA er upor total mark 30.
+6 Oceanography notun department.
+7 exam a mcq thakbe.
+8 Hall fee 300 taka.
+9 semester fee 1805 taka.
+10 physics a 20 marks.
+11 Biology te 20 marks.
+12 physics a 20 marks.
+13 exam a mcq question thakbe.
+14 architecture er exam 25 marks er
+15 weekend 2 din er.
+16 2 unit er exam eki din a hobe.
+17 chemistry te 20 marks.
+18 Diploma certificate thakle exam deya jabe.
+19 Hall fee 300 taka.
+20 migration vortir 7 din por.
+21 chemistry te koto marks? 	20	1 
+1 Oceanography notun department.
+2 Hall fee 300 taka.
+3 exam a 70 ta mcq thakbe.
+4 Diploma certificate thakle exam deya jabe.
+5 GPA er upor total mark 30.
+6 weekend 2 din er.
+7 SUST a hall 5 ta.
+8 admission website a admit card paben.
+9 Diploma certificate thakle exam deya jabe.
+10 exam 90 minutes er.
+11 koyta mcq thakbe? 	70	3
+1 Diploma certificate thakle exam deya jabe.
+2 exam a 1 ta rough paper deya hoy.
+3 vorti fee 2000 taka.
+4 exam a 1 ta rough paper deya hoy.
+5 Bill dudh ta rakhlo.
+6 Diploma certificate thakle exam deya jabe.
+7 migration vortir 7 din por.
+8 Oceanography notun department.
+9 vorti fee koto taka? 	2000	3
+1 attendance 40 percent thaka lage.
+2 physics a 20 marks.
+3 CSE department a 100 ta seat.
+4 SUST er exam 18 tarikh.
+5 attendance 40 percent thaka lage.
+6 architecture er exam 25 marks er
+7 exam a mcq question thakbe.
+8 architecture er exam 25 marks er
+9 weekend 2 din er.
+10 exam a mcq question thakbe.
+11 semester fee 1805 taka.
+12 migration vortir 7 din por.
+13 SUST er exam 18 tarikh.
+14 Diploma certificate thakle exam deya jabe.
+15 attendance 40 percent thaka lage.
+16 2 bar exam deya jabe.
+17 attendance koto percent rakha lagbe? 	40	15
+1 GPA er upor total mark 30.
+2 CSE department a 100 ta seat.
+3 exam a mcq question thakbe.
+4 vorti form 1000 taka.
+5 exam a mcq thakbe.
+6 exam hall a 15 minutes age ashte hobe.
+7 GPA theke koto marks? 	30	1
+1 SUST er exam 18 tarikh.
+2 CSE department a 100 ta seat.
+3 orientation march 15 tarikhe hobe.
+4 vorti fee 2000 taka.
+5 orientation 20 tarikhe hobe.
+6 SUST a exam 100 marks er.
+7 semester fee 1805 taka.
+8 Vul answer a .25 number kata jabe.
+9 weekend 2 din er.
+10 GPA er upor total mark 30.
+11 exam a 1 ta rough paper deya hoy.
+12 exam a 1 ta rough paper deya hoy.
+13 2 unit er exam eki din a hobe.
+14 SUST a exam 100 marks er.
+15 weekend 2 din er.
+16 Hall fee 300 taka.
+17 academic building ache 5 ta.
+18 sust a mot department ache 30 ta
+19 orientation kobe? 	15	3
+1 bachelor program 2 bochor er.
+2 CSE department a 100 ta seat.
+3 Hall fee 300 taka.
+4 orientation march 15 tarikhe hobe.
+5 bachelor program koy bochorer? 	2	1
+1 orientation 20 tarikhe hobe.
+2 attendance 40 percent thaka lage.
+3 bachelor program 4 bochor er.
+4 orientation march 15 tarikhe hobe.
+5 exam a mcq question thakbe.
+6 masters program 2 bochor er.
+7 weekend 2 din er.
+8 GPA er upor total mark 30.
+9 migration vortir 7 din por.
+10 exam a 70 ta mcq thakbe.
+11 semester fee 1805 taka.
+12 maths a 20 marks.
+13 CSE department a 100 ta seat.
+14 Hall fee 300 taka.
+15 academic building ache 5 ta.
+16 exam a 1 ta rough paper deya hoy.
+17 koyta mcq thakbe? 	70	10
+1 architecture er exam 25 marks er
+2 Migration vortir 7 din por.
+3 SUST website a sob info ache.
+4 migration vortir 7 din por.
+5 Fred shekhan theke football ta nilo.
+6 A unit er subject 20 ta.
+7 physics a 20 marks.
+8 SUST a hall 5 ta.
+9 exam er 3 din age admit card dibe there.
+10 exam a mcq question thakbe.
+11 chemistry te 20 marks.
+12 orientation 20 tarikhe hobe.
+13 exam a 1 ta rough paper deya hoy.
+14 migration vortir 7 din por.
+15 academic building ache 5 ta.
+16 4 percent quota ache.
+17 architecture exam koto marks er? 	25	1
+1 Hall fee 300 taka.
+2 CSE department a 100 ta seat.
+3 2 unit er exam eki din a hobe.
+4 exam a mcq thakbe.
+5 Oceanography notun department.
+6 GPA er upor total mark 30.
+7 Biology te 20 marks.
+8 weekend 2 din er.
+9 maths a 20 marks.
+10 weekend 2 din er.
+11 semester fee 1805 taka.
+12 attendance 40 percent thaka lage.
+13 exam a 1 ta rough paper deya hoy.
+14 semester fee 1805 taka there.
+15 chemistry te 20 marks.
+16 architecture er exam 25 marks er
+17 exam a mcq question thakbe.
+18 exam a mcq thakbe.
+19 vorti fee 2000 taka.
+20 2 unit er exam eki din a hobe.
+21 Vul answer a .25 number kata jabe.
+22 Admit hote 2 copy photo lagbe.
+23 SUST er exam 18 tarikh.
+24 physics a 20 marks.
+25 orientation march 15 tarikhe hobe.
+26 exam a mcq thakbe.
+27 attendance 40 percent thaka lage.
+28 architecture 5 bochorer course.
+29 Biology te 20 marks.
+30 academic building ache 5 ta.
+31 Biology te koto marks? 	20	7
+1 chemistry te 20 marks.
+2 SUST a hall 5 ta.
+3 vorti fee 2000 taka.
+4 SUST website a sob info ache.
+5 Oceanography notun department.
+6 student organization ache 20 ta.
+7 B unit a subject 15 ta.
+8 masters program 2 bochor er.
+9 orientation 20 tarikhe hobe.
+10 maths a 20 marks.
+11 orientation kobe? 	20	9

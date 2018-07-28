@@ -1,0 +1,24 @@
+Description of dataset:
+Train 1: This dataset is the transliterated version of the famous BABI train dataset. It has 6k sentences.
+Test 1: This dataset is the transliterated version of the famous BABI train dataset. It has 6k sentences.
+****
+Train 2: Training dataset regarding SUST admission test. It has 2k sentences.
+Test 2: A test dataset regarding SUST admission test. It has 1200 sentences.
+
+****
+Accuracy :
+
+Case 1 : 
+Training Dataset : Train 1
+Test Dataset : Test 1
+Accuracy: 84.1%
+
+Case 2: 
+Training Dataset : Train 1
+Test Dataset : Test 2
+Accuracy: 80.7 %
+
+Case 3: 
+Training Dataset : Train 2
+Test Dataset : Test 2
+Accuracy: 77.32 %

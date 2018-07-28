@@ -1,0 +1,6038 @@
+1 Bill dokan a gelo.
+2 Bill shekhan the kolom ta nilo.
+3 Bill kaaj a gelo.
+4 Bill kolom ta fred ke dilo.
+5 Bill ki dilo Fred ke? 	kolom	4
+6 Fred kolom ta Bill ke dilo
+7 Jeff dokan a gelo.
+8 kolom ta ke nilo? 	Bill	6
+9 Bill dokan a gelo.
+10 Bill shekhan theke dudh ta nilo.
+11 kolom ta ke nilo? 	Bill	6
+12 Fred bagan a gelo.
+13 Fred baranda te gelo.
+14 Bill kaaj a gelo.
+15 Jeff baranda te gelo.
+16 Jeff chad a gelo.
+17 Bill dokan a gelo.
+18 Fred chad a gelo.
+19 Mary rannaghor a gelo.
+20 Jeff shekhan theke kola ta nilo.
+21 Jeff kola ta Fred ke dilo.
+22 Jeff kola ta kake dilo? 	Fred	21
+23 Bill chad a gelo.
+24 Bill dudh ta rekhe dilo.
+25 kola ta ke nilo? 	Fred	21
+1 Mary bagan a gelo.
+2 Mary rannaghor a gelo.
+3 Bill dokan a gelo.
+4 Bill baranda te gelo.
+5 Jeff kaaj a gelo.
+6 Fred baranda te gelo.
+7 Bill chad a gelo.
+8 Jeff bagan a gelo.
+9 Jeff rannaghor a gelo.
+10 Fred bagan a gelo.
+11 Mary shekhan a kolom ta pelo.
+12 Mary kolom ta Jeff ke dilo.
+13 Mary ki dilo Jeff ke? 	kolom	12
+14 Bill baranda te gelo.
+15 Jeff kaaj a gelo.
+16 Mary ki dilo Jeff ke? 	kolom	12
+17 Fred chad a gelo.
+18 Mary shekhan theke dudh ta nilo.
+19 Mary ki dilo Jeff ke? 	kolom	12
+20 Fred rannaghor a gelo.
+21 Mary dudh ta Fred ke dilo.
+22 Fred ke dudh ke dilo? 	Mary	21
+23 Fred baranda te gelo.
+24 Jeff dokan a gelo.
+25 Mary kake dudh dilo? 	Fred	21
+1 Fred bagan a gelo.
+2 Jeff shekhan theke dudh ta nilo.
+3 Bill rannaghor a gelo.
+4 Jeff dudh ta Bill ke dilo.
+5 dudh ta ke pelo?? 	Bill	4
+6 Bill dudh ta Jeff ke dilo.
+7 Jeff dudh ta Bill ke dilo.
+8 dudh ta ke dilo? 	Jeff	7
+9 Bill dudh ta Jeff ke dilo.
+10 Jeff dudh ta rakhlo.
+11 dudh ta ke pelo? 	Jeff	9
+12 Jeff dokan a gelo.
+13 Mary baranda te gelo
+14 Bill ki dilo Jeff ke? 	milk	9
+15 Bill shekhan theke dudh ta nilo.
+16 Fred dokan a gelo.
+17 Fred rannaghor a gelo.
+18 Fred kaaj a gelo.
+19 Jeff bagan a gelo.
+20 Bill dudh ta rekhe dilo.
+21 Fred dokan a gelo.
+22 Mary kaaj a gelo.
+23 Jeff kaaj a gelo.
+24 Jeff shekhan theke kolom ta nilo.
+25 Bill shekhan theke dudh ta nilo.
+26 Jeff kolom ta Mary ke dilo.
+27 Jeff kolom ta kake dilo? 	Mary	26
+1 Fred baranda te gelo.
+2 Bill chad a gelo.
+3 Mary rannaghor a gelo.
+4 Mary chad a gelo.
+5 Fred chad a gelo.
+6 Bill baranda te gelo.
+7 Bill bagan a gelo.
+8 Jeff rannaghor a gelo.
+9 Jeff kaaj a gelo.
+10 Jeff dokan a gelo.
+11 Mary dokan a gelo.
+12 Bill shekhan theke kola ta nilo.
+13 Bill baranda te gelo.
+14 Jeff rannaghor a gelo.
+15 Mary shekhan theke kolom ta nilo.
+16 Bill rannaghor a gelo.
+17 Bill kola ta Jeff ke dilo.
+18 Jeff kola ta rekhe dilo.
+19 Bill ki dilo Jeff ke? 	kola	17
+20 Jeff shekhan theke kola ta nilo.
+21 Mary kolom ta rekhe dilo.
+22 kola ta ke dilo? 	Bill	17
+23 Jeff kola ta Bill ke dilo.
+24 Fred rannaghor a gelo.
+25 Jeff ki dilo Bill ke? 	kola	23
+26 Fred kaaj a gelo.
+27 Bill kola ta Jeff ke dilo.
+28 Bill kake kola ta dilo? 	Jeff	27
+29 Jeff kola ta Bill ke dilo.
+30 Mary shekhan a kolom ta pelo.
+31 Jeff ki dilo Bill ke? 	kola	29
+1 Mary shekhan theke dudh ta nilo.
+2 Jeff baranda te gelo.
+3 Mary dudh ta Jeff ke dilo.
+4 Jeff dudh ta rekhe dilo.
+5 Mary kake dudh dilo? 	Jeff	3
+6 Mary rannaghor a gelo.
+7 Jeff bagan a gelo.
+8 dudh ta ke dilo? 	Mary	3
+9 Bill bagan a gelo.
+10 Mary chad a gelo.
+11 Mary dokan a gelo.
+12 Bill dokan a gelo.
+13 Jeff chad a gelo.
+14 Jeff kaaj a gelo.
+15 Fred rannaghor a gelo.
+16 Fred shekhan a kolom ta pelo.
+17 Fred kolom ta rekhe dilo.
+18 Fred shekhan the kolom ta nilo.
+19 Jeff chad a gelo.
+20 Bill rannaghor a gelo.
+21 Fred kolom ta rekhe dilo.
+22 Fred chad a gelo.
+23 Bill bagan a gelo.
+24 Fred shekhan theke kola ta nilo.
+25 Fred kola ta Jeff ke dilo.
+26 Mary baranda te gelo.
+27 Fred kola ta kake dilo? 	Jeff	25
+28 Fred bagan a gelo.
+29 Mary shekhan theke dudh ta nilo.
+30 kola ta ke dilo? 	Fred	25
+31 Mary chad a gelo.
+32 Mary rannaghor a gelo.
+33 Fred rannaghor a gelo.
+34 Mary dudh ta Fred ke dilo.
+35 Mary kake dudh dilo? 	Fred	34
+1 Jeff shekhan theke dudh ta nilo.
+2 Jeff dudh ta Bill ke dilo.
+3 Jeff dudh ta kake dilo? 	Bill	2
+4 Mary chad a gelo.
+5 Mary baranda te gelo.
+6 dudh ta ke pelo?? 	Bill	2
+7 Bill rannaghor a gelo.
+8 Fred shekhan theke kola ta nilo.
+9 Jeff ki dilo Bill ke? 	milk	2
+10 Fred kola ta rekhe dilo.
+11 Mary chad a gelo.
+12 Bill baranda te gelo
+13 Bill rannaghor a gelo.
+14 Bill chad a gelo.
+15 Mary shekhan a kolom ta pelo.
+16 Mary dokan a gelo.
+17 Mary kolom ta rekhe dilo.
+18 Fred shekhan a kolom ta pelo.
+19 Fred kolom ta Mary ke dilo.
+20 ke kolom ta Mary ke dilo? 	Fred	19
+21 Mary kolom ta Fred ke dilo.
+22 Mary shekhan theke kola ta nilo.
+23 ke kolom ta fred ke dilo? 	Mary	21
+1 Jeff kaaj a gelo.
+2 Mary rannaghor a gelo.
+3 Mary chad a gelo.
+4 Bill rannaghor a gelo.
+5 Mary bagan a gelo.
+6 Bill dokan a gelo.
+7 Bill rannaghor a gelo.
+8 Mary chad a gelo.
+9 Mary rannaghor a gelo.
+10 Jeff dokan a gelo.
+11 Fred baranda te gelo
+12 Fred bagan a gelo.
+13 Mary dokan a gelo.
+14 Jeff shekhan theke kola ta nilo.
+15 Jeff kola ta rekhe dilo.
+16 Mary bagan a gelo.
+17 Bill chad a gelo.
+18 Mary dokan a gelo.
+19 Bill shekhan theke dudh ta nilo.
+20 Mary shekhan theke kola ta nilo.
+21 Jeff bagan a gelo.
+22 Fred dokan a gelo.
+23 Mary kola ta rekhe dilo.
+24 Fred shekhan theke kolom ta nilo.
+25 Fred kolom ta Mary ke dilo.
+26 Fred shekhan theke kola ta nilo.
+27 kolom ta ke nilo? 	Mary	25
+28 Mary bagan a gelo.
+29 Jeff baranda te gelo.
+30 Fred ki Dilo Mary ke? 	kolom	25
+31 Bill kaaj a gelo.
+32 Mary kolom ta rekhe dilo.
+33 Fred bagan a gelo.
+34 Fred kola ta Marye ke dilo.
+35 kola ta ke nilo? 	Mary	34
+36 Bill dudh ta rekhe dilo.
+37 Mary kola ta Fred ke dilo.
+38 Mary kola ta kake dilo? 	Fred	37
+39 Fred kola ta Mary ke dilo.
+40 Fred chad a gelo.
+41 Fred ki Dilo Mary ke? 	kola	39
+1 Bill shekhan theke kola ta nilo.
+2 Bill shekhan a kolom ta pelo.
+3 Jeff chad a gelo.
+4 Bill kola ta Jeff ke dilo.
+5 Bill ki dilo Jeff ke? 	kola	4
+6 Jeff kola ta Bill ke dilo.
+7 Bill kola ta Jeff ke dilo.
+8 Bill ki dilo Jeff ke? 	kola	7
+9 Jeff kola ta Bill ke dilo.
+10 Bill kola ta Jeff ke dilo.
+11 Bill ki dilo Jeff ke? 	kola	10
+12 Jeff kola ta rekhe dilo.
+13 Bill kolom ta jeff ke dilo.
+14 Bill ki dilo Jeff ke? 	kola	10
+15 Jeff kolom ta Bill ke dilo.
+16 Mary shekhan theke dudh ta nilo.
+17 Bill ki dilo Jeff ke? 	kola	10
+1 Mary shekhan theke kolom ta nilo.
+2 Bill bagan a gelo.
+3 Fred dokan a gelo.
+4 Mary kolom ta rekhe dilo there.
+5 Jeff rannaghor a gelo.
+6 Mary shekhan theke kolom ta nilo.
+7 Mary kolom ta jeff ke dilo.
+8 Jeff baranda te gelo.
+9 Mary ki dilo Jeff ke? 	kolom	7
+10 Jeff bagan a gelo.
+11 Bill dokan a gelo.
+12 kolom ta ke nilo? 	Jeff	7
+13 Fred baranda te gelo
+14 Fred shekhan theke kola ta nilo.
+15 Mary kaaj a gelo.
+16 Mary dokan a gelo.
+17 Mary baranda te gelo.
+18 Mary chad a gelo.
+19 Jeff kolom ta rekhe dilo.
+20 Bill bagan a gelo.
+21 Fred bagan a gelo.
+22 Jeff shekhan theke kolom ta nilo.
+23 Fred kola ta rekhe dilo.
+24 Jeff kolom ta rekhe dilo.
+25 Mary shekhan theke dudh ta nilo.
+26 Jeff shekhan theke kola ta nilo.
+27 Bill shekhan the kolom ta nilo.
+28 Mary dudh ta rekhe dilo.
+29 Jeff rannaghor a gelo.
+30 Fred kaaj a gelo.
+31 Bill rannaghor a gelo.
+32 Jeff kola ta rekhe dilo.
+33 Bill kolom ta jeff ke dilo.
+34 Mary bagan a gelo.
+35 kolom ta ke nilo? 	Jeff	33
+36 Mary dokan a gelo.
+37 Jeff kolom ta Bill ke dilo.
+38 Jeff ki dilo Bill ke? 	kolom	37
+39 Bill shekhan theke kola ta nilo.
+40 Bill kola ta Jeff ke dilo.
+41 kolom ta ke nilo? 	Bill	37
+1 Bill dokan a gelo.
+2 Mary chad a gelo.
+3 Mary shekhan a kolom ta pelo.
+4 Fred kaaj a gelo.
+5 Fred shekhan theke kola ta nilo.
+6 Mary kaaj a gelo.
+7 Bill baranda te gelo.
+8 Mary dokan a gelo.
+9 Mary kaaj a gelo.
+10 Fred kola ta Marye ke dilo.
+11 Fred ki Dilo Mary ke? 	kola	10
+12 Mary kola ta Fred ke dilo.
+13 Fred bagan a gelo.
+14 kola ta ke nilo? 	Fred	12
+15 Bill rannaghor a gelo.
+16 Fred shekhan theke dudh ta nilo.
+17 Mary kola ta kake dilo? 	Fred	12
+18 Mary kolom ta rekhe dilo there.
+19 Mary shekhan theke kolom ta nilo.
+20 Fred kola ta rekhe dilo.
+21 Bill baranda te gelo.
+22 Jeff chad a gelo.
+23 Bill kaaj a gelo.
+24 Mary kolom ta Bill ke dilo.
+25 Bill kolom ta Mary ke dilo.
+26 Bill ki dilo Mary ke? 	kolom	25
+27 Fred kaaj a gelo.
+28 Mary kolom ta Fred ke dilo.
+29 Mary ki dilo Fred ke? 	kolom	28
+1 Jeff kaaj a gelo.
+2 Jeff baranda te gelo
+3 Mary bagan a gelo.
+4 Bill kaaj a gelo.
+5 Jeff rannaghor a gelo.
+6 Mary baranda te gelo
+7 Mary chad a gelo.
+8 Mary rannaghor a gelo.
+9 Bill chad a gelo.
+10 Bill dokan a gelo.
+11 Mary chad a gelo.
+12 Mary shekhan theke dudh ta nilo.
+13 Bill baranda te gelo.
+14 Mary bagan a gelo.
+15 Mary baranda te gelo.
+16 Mary dudh ta Bill ke dilo.
+17 Mary kake dudh dilo? 	Bill	16
+18 Bill dudh ta Mary ke dilo.
+19 Fred bagan a gelo.
+20 Bill ki dilo Mary ke? 	milk	18
+21 Bill shekhan theke kolom ta nilo.
+22 Fred shekhan theke kola ta nilo.
+23 Bill ki dilo Mary ke? 	milk	18
+24 Bill kolom ta Mary ke dilo.
+25 Mary kolom ta Bill ke dilo.
+26 Mary ki dilo Bill ke? 	kolom	25
+27 Bill kolom ta Mary ke dilo.
+28 Fred kola ta rekhe dilo.
+29 ke kolom ta Mary ke dilo? 	Bill	27
+1 Bill shekhan theke kolom ta nilo.
+2 Fred bagan a gelo.
+3 Fred chad a gelo.
+4 Mary baranda te gelo.
+5 Bill kolom ta rekhe dilo.
+6 Bill shekhan theke kolom ta nilo.
+7 Mary chad a gelo.
+8 Jeff baranda te gelo.
+9 Bill kaaj a gelo.
+10 Mary rannaghor a gelo.
+11 Mary kaaj a gelo.
+12 Mary rannaghor a gelo.
+13 Jeff shekhan theke kola ta nilo.
+14 Bill kolom ta rekhe dilo.
+15 Jeff dokan a gelo.
+16 Fred shekhan theke dudh ta nilo.
+17 Jeff rannaghor a gelo.
+18 Jeff chad a gelo.
+19 Jeff dokan a gelo.
+20 Bill shekhan the kolom ta nilo.
+21 Bill baranda te gelo.
+22 Jeff kola ta rekhe dilo.
+23 Jeff baranda te gelo.
+24 Bill kolom ta Jeff ke dilo.
+25 Bill ki dilo Jeff ke? 	kolom	24
+26 Jeff kolom ta Bill ke dilo.
+27 Fred dudh ta rekhe dilo.
+28 ke kolom ta Bill ke dilo? 	Jeff	26
+29 Bill kolom ta Jeff ke dilo.
+30 Jeff kolom ta Bill ke dilo
+31 Jeff ki dilo Bill ke? 	kolom	30
+32 Fred shekhan theke dudh ta nilo.
+33 Mary chad a gelo.
+34 Jeff ki dilo Bill ke? 	kolom	30
+35 Jeff bagan a gelo.
+36 Fred kaaj a gelo.
+37 Jeff ki dilo Bill ke? 	kolom	30
+1 Jeff dokan a gelo.
+2 Bill baranda te gelo.
+3 Jeff kaaj a gelo.
+4 Bill shekhan theke kola ta nilo.
+5 Mary baranda te gelo.
+6 Bill kaaj a gelo.
+7 Bill kola ta Jeff ke dilo.
+8 Bill shekhan theke dudh ta nilo.
+9 ke kola ta Jeff ke dilo? 	Bill	7
+10 Jeff kola ta Bill ke dilo.
+11 Bill kola ta Jeff ke dilo.
+12 Bill ki dilo Jeff ke? 	kola	11
+13 Bill shekhan the kolom ta nilo.
+14 Jeff kola ta Bill ke dilo.
+15 Jeff ki dilo Bill ke? 	kola	14
+16 Bill kola ta Jeff ke dilo.
+17 Bill dokan a gelo.
+18 Bill ki dilo Jeff ke? 	kola	16
+19 Jeff baranda te gelo.
+20 Jeff kola ta Mary ke dilo.
+21 kola ta ke nilo? 	Mary	20
+1 Bill rannaghor a gelo.
+2 Mary bagan a gelo.
+3 Jeff baranda te gelo.
+4 Mary baranda te gelo.
+5 Mary dokan a gelo.
+6 Fred shekhan theke kolom ta nilo.
+7 Bill shekhan theke dudh ta nilo.
+8 Fred shekhan theke kola ta nilo.
+9 Bill dudh ta rekhe dilo.
+10 Jeff bagan a gelo.
+11 Jeff baranda te gelo.
+12 Fred chad a gelo.
+13 Jeff dokan a gelo.
+14 Jeff bagan a gelo.
+15 Fred kolom ta rekhe dilo.
+16 Fred shekhan the kolom ta nilo.
+17 Fred rannaghor a gelo.
+18 Fred shekhan theke dudh ta nilo.
+19 Fred kola ta Bill ke dilo.
+20 Bill kola ta Fred ke dilo.
+21 Bill kake kola ta dilo? 	Fred	20
+22 Fred kola ta Bill ke dilo.
+23 Bill baranda te gelo.
+24 kola ta ke dilo? to Bill? 	Fred	22
+25 Fred kaaj a gelo.
+26 Mary baranda te gelo.
+27 Fred ki dilo Bill ke? 	kola	22
+28 Bill kola ta rekhe dilo.
+29 Bill dokan a gelo.
+30 Mary chad a gelo.
+31 Mary rannaghor a gelo.
+32 Bill kaaj a gelo.
+33 Fred kolom ta Bill ke dilo.
+34 Fred ki dilo Bill ke? 	kolom	33
+35 Bill kolom ta Fred ke dilo.
+36 Fred kolom ta Bill ke dilo.
+37 Fred ki dilo Bill ke? 	kolom	36
+1 Bill shekhan theke kola ta nilo.
+2 Jeff dokan a gelo.
+3 Bill bagan a gelo.
+4 Bill kola ta rekhe dilo.
+5 Bill kaaj a gelo.
+6 Mary baranda te gelo.
+7 Fred baranda te gelo.
+8 Bill bagan a gelo.
+9 Fred chad a gelo.
+10 Jeff rannaghor a gelo.
+11 Bill shekhan theke kola ta nilo.
+12 Mary rannaghor a gelo.
+13 Mary dokan a gelo.
+14 Fred bagan a gelo.
+15 Bill kola ta Fred ke dilo.
+16 Bill chad a gelo.
+17 ke kola ta Fred ke dilo. 	Bill	15
+18 Fred kola ta rekhe dilo.
+19 Fred baranda te gelo.
+20 ke kola ta Fred ke dilo. 	Bill	15
+21 Bill bagan a gelo.
+22 Bill shekhan theke kola ta nilo.
+23 Bill dokan a gelo.
+24 Bill kola ta rekhe dilo.
+25 Bill kaaj a gelo.
+26 Mary shekhan theke kola ta nilo.
+27 Mary rannaghor a gelo.
+28 Fred shekhan theke dudh ta nilo.
+29 Fred kaaj a gelo.
+30 Bill chad a gelo.
+31 Fred bagan a gelo.
+32 Mary kola ta Jeff ke dilo.
+33 Mary kola ta kake dilo? 	Jeff	32
+34 Jeffkola ta Mary ke dilo.
+35 Mary kola ta Jeff ke dilo.
+36 kola ta ke nilo? 	Jeff	35
+37 Fred dudh ta rekhe dilo.
+38 Jeffkola ta Mary ke dilo.
+39 Jeff ki dilo Mary ke? 	kola	38
+1 Fred shekhan theke kolom ta nilo.
+2 Jeff shekhan theke kola ta nilo.
+3 Jeff kola ta rekhe dilo.
+4 Bill shekhan theke kola ta nilo.
+5 Mary rannaghor a gelo.
+6 Mary baranda te gelo.
+7 Bill bagan a gelo.
+8 Fred bagan a gelo.
+9 Bill kola ta Fred ke dilo.
+10 Fred kola ta rekhe dilo.
+11 kola ta ke nilo? 	Fred	9
+12 Fred baranda te gelo.
+13 Fred kolom ta Mary ke dilo.
+14 Bill ki dilo Fred ke? 	kola	9
+15 Jeff bagan a gelo.
+16 Bill shekhan theke kola ta nilo.
+17 kolom ta ke dilo? 	Fred	13
+18 Mary dokan a gelo.
+19 Mary rannaghor a gelo.
+20 kolom ta ke dilo? 	Fred	13
+21 Bill kola ta Jeff ke dilo.
+22 Fred dokan a gelo.
+23 Bill ki dilo Jeff ke? 	kola	21
+1 Fred baranda te gelo.
+2 Mary shekhan theke dudh ta nilo.
+3 Jeff shekhan the kolom ta nilo.
+4 Jeff kolom ta fred ke dilo.
+5 Jeff ki dilo Fred ke? 	kolom	4
+6 Fred kolom ta jeff ke dilo.
+7 Jeff kolom ta fred ke dilo.
+8 kolom ta ke nilo?? 	Fred	7
+9 Jeff kaaj a gelo.
+10 Jeff chad a gelo.
+11 kolom ta ke nilo? 	Fred	7
+12 Mary dudh ta Jeff ke dilo.
+13 Jeff dudh ta Mary ke dilo.
+14 Jeff ki dilo Mary ke? 	milk	13
+15 Mary dudh ta Jeff ke dilo.
+16 Jeff dudh ta Mary ke dilo.
+17 Jeff ki dilo Mary ke? 	milk	16
+1 Mary kaaj a gelo.
+2 Bill rannaghor a gelo.
+3 Fred shekhan theke dudh ta nilo.
+4 Mary rannaghor a gelo.
+5 Jeff kaaj a gelo.
+6 Jeff shekhan the kolom ta nilo.
+7 Mary baranda te gelo.
+8 Mary bagan a gelo.
+9 Jeff baranda te gelo.
+10 Jeff kolom ta rekhe dilo.
+11 Mary baranda te gelo.
+12 Jeff shekhan theke kolom ta nilo.
+13 Jeff kolom ta Mary ke dilo.
+14 Fred bagan a gelo.
+15 Jeff ki dilo Mary ke? 	kolom	13
+16 Mary kolom ta jeff ke dilo.
+17 Fred baranda te gelo.
+18 kolom ta ke dilo to Jeff? 	Mary	16
+19 Jeff kolom ta Mary ke dilo.
+20 Mary kolom ta Fred ke dilo.
+21 Mary ki dilo Fred ke? 	kolom	20
+22 Fred kolom ta Mary ke dilo.
+23 Bill dokan a gelo.
+24 kolom ta ke nilo?? 	Mary	22
+25 Bill shekhan theke kola ta nilo.
+26 Bill chad a gelo.
+27 kolom ta ke nilo? 	Mary	22
+1 Jeff bagan a gelo.
+2 Jeff shekhan theke kola ta nilo.
+3 Bill kaaj a gelo.
+4 Jeff kola ta rekhe dilo.
+5 Jeff chad a gelo.
+6 Bill shekhan theke dudh ta nilo.
+7 Mary rannaghor a gelo.
+8 Jeff shekhan the kolom ta nilo.
+9 Jeff kolom ta rekhe dilo.
+10 Bill dudh ta rekhe dilo.
+11 Bill shekhan theke dudh ta nilo.
+12 Mary bagan a gelo.
+13 Fred rannaghor a gelo.
+14 Jeff dokan a gelo.
+15 Jeff chad a gelo.
+16 Jeff dokan a gelo.
+17 Jeff rannaghor a gelo.
+18 Mary shekhan theke kola ta nilo.
+19 Fred chad a gelo.
+20 Mary kola ta rekhe dilo.
+21 Bill baranda te gelo.
+22 Fred baranda te gelo.
+23 Mary shekhan theke kola ta nilo.
+24 Bill dudh ta rekhe dilo.
+25 Bill shekhan theke dudh ta nilo.
+26 Fred rannaghor a gelo.
+27 Bill kaaj a gelo.
+28 Fred chad a gelo.
+29 Fred shekhan theke kolom ta nilo.
+30 Mary kaaj a gelo.
+31 Bill dudh ta rekhe dilo.
+32 Jeff bagan a gelo.
+33 Mary kola ta Bill ke dilo.
+34 Bill shekhan theke dudh ta nilo.
+35 kola ta ke nilo? 	Bill	33
+36 Bill kola ta rekhe dilo.
+37 Bill chad a gelo.
+38 Mary kola ta kake dilo? 	Bill	33
+39 Fred kolom ta Bill ke dilo
+40 Bill kolom ta Fred ke dilo.
+41 Bill ki dilo Fred ke?? 	kolom	40
+42 Mary shekhan theke kola ta nilo.
+43 Fred kolom ta Bill ke dilo.
+44 Fred ki dilo Bill ke? 	kolom	43
+45 Bill kolom ta fred ke dilo.
+46 Fred kolom ta Bill ke dilo
+47 kolom ta ke dilo? 	Fred	46
+1 Bill baranda te gelo
+2 Mary baranda te gelo.
+3 Fred bagan a gelo.
+4 Mary dokan a gelo.
+5 Jeff bagan a gelo.
+6 Bill shekhan theke kolom ta nilo.
+7 Jeff kaaj a gelo.
+8 Bill kolom ta rekhe dilo.
+9 Bill shekhan theke kolom ta nilo.
+10 Mary kaaj a gelo.
+11 Bill dokan a gelo.
+12 Fred chad a gelo.
+13 Mary dokan a gelo.
+14 Bill kolom ta rekhe dilo.
+15 Mary baranda te gelo
+16 Mary bagan a gelo.
+17 Bill rannaghor a gelo.
+18 Mary kaaj a gelo.
+19 Mary bagan a gelo.
+20 Fred shekhan theke dudh ta nilo.
+21 Mary baranda te gelo.
+22 Fred kaaj a gelo.
+23 Fred dudh ta Jeff ke dilo.
+24 Jeff dudh ta Fred ke dilo.
+25 dudh ta ke dilo? 	Jeff	24
+26 Fred dudh ta Jeff ke dilo.
+27 Jeff dudh ta Fred ke dilo.
+28 Jeff dudh ta kake dilo? 	Fred	27
+29 Jeff chad a gelo.
+30 Jeff dokan a gelo.
+31 Jeff dudh ta kake dilo? 	Fred	27
+32 Bill bagan a gelo.
+33 Fred bagan a gelo.
+34 dudh ta ke pelo? 	Fred	27
+35 Fred dudh ta Bill ke dilo.
+36 Bill dudh ta rekhe dilo.
+37 dudh ta ke pelo?? 	Bill	35
+1 Mary rannaghor a gelo.
+2 Jeff dokan a gelo.
+3 Jeff baranda te gelo.
+4 Mary bagan a gelo.
+5 Jeff shekhan a kolom ta pelo.
+6 Mary chad a gelo.
+7 Jeff kolom ta rekhe dilo.
+8 Bill kaaj a gelo.
+9 Mary rannaghor a gelo.
+10 Jeff shekhan theke kolom ta nilo.
+11 Jeff dokan a gelo.
+12 Jeff baranda te gelo
+13 Mary chad a gelo.
+14 Jeff kaaj a gelo.
+15 Jeff kolom ta Bill ke dilo
+16 Fred kaaj a gelo.
+17 Jeff ki dilo Bill ke? 	kolom	15
+18 Jeff bagan a gelo.
+19 Bill kolom ta Fred ke dilo.
+20 Bill ki dilo Fred ke? 	kolom	19
+21 Fred kolom ta Bill ke dilo.
+22 Bill kolom ta Fred ke dilo.
+23 Bill ki dilo Fred ke? 	kolom	22
+24 Fred kolom ta Bill ke dilo.
+25 Bill kolom ta fred ke dilo.
+26 kolom ta ke dilo? 	Bill	25
+27 Fred kolom ta Bill ke dilo
+28 Bill handed the kolom to Fred.
+29 Bill ki dilo Fred ke? 	kolom	28
+1 Fred chad a gelo.
+2 Jeff chad a gelo.
+3 Mary chad a gelo.
+4 Fred kaaj a gelo.
+5 Fred dokan a gelo.
+6 Mary kaaj a gelo.
+7 Jeff shekhan theke dudh ta nilo.
+8 Bill bagan a gelo.
+9 Mary rannaghor a gelo.
+10 Fred kaaj a gelo.
+11 Mary kaaj a gelo.
+12 Jeff dudh ta rekhe dilo.
+13 Jeff shekhan theke dudh ta nilo.
+14 Bill dokan a gelo.
+15 Mary rannaghor a gelo.
+16 Jeff rannaghor a gelo.
+17 Jeff dudh ta Mary ke dilo.
+18 Mary dudh ta Jeff ke dilo.
+19 Mary kake dudh dilo? 	Jeff	18
+20 Jeff dudh ta Mary ke dilo.
+21 Mary shekhan a kolom ta pelo.
+22 Jeff ki dilo Mary ke? 	milk	20
+23 Bill chad a gelo.
+24 Fred bagan a gelo.
+25 Jeff dudh ta kake dilo? 	Mary	20
+26 Fred shekhan theke kola ta nilo.
+27 Mary kolom ta Jeff ke dilo.
+28 kolom ta ke dilo? 	Mary	27
+29 Fred kola ta rekhe dilo.
+30 Jeff kolom ta rekhe dilo.
+31 kolom ta ke nilo? 	Jeff	27
+1 Jeff chad a gelo.
+2 Jeff bagan a gelo.
+3 Fred chad a gelo.
+4 Jeff baranda te gelo.
+5 Fred dokan a gelo.
+6 Jeff kaaj a gelo.
+7 Jeff shekhan the kolom ta nilo.
+8 Mary dokan a gelo.
+9 Fred rannaghor a gelo.
+10 Fred baranda te gelo.
+11 Jeff shekhan theke dudh ta nilo.
+12 Fred rannaghor a gelo.
+13 Mary chad a gelo.
+14 Mary shekhan theke kola ta nilo.
+15 Jeff rannaghor a gelo.
+16 Jeff handed the kolom to Fred.
+17 Jeff ki dilo Fred ke? 	kolom	16
+18 Mary kola ta rekhe dilo.
+19 Fred kolom ta Bill ke dilo
+20 Fred ki dilo Bill ke? 	kolom	19
+21 Fred baranda te gelo.
+22 Bill kolom ta Jeff ke dilo.
+23 kolom ta ke dilo? 	Bill	22
+24 Mary rannaghor a gelo.
+25 Jeff kolom ta Mary ke dilo.
+26 kolom ta ke nilo? 	Mary	25
+27 Mary kolom ta Bill ke dilo.
+28 Bill kolom ta Mary ke dilo.
+29 Bill ki dilo Mary ke? 	kolom	28
+1 Mary chad a gelo.
+2 Jeff shekhan theke kola ta nilo.
+3 Bill dokan a gelo.
+4 Jeff dokan a gelo.
+5 Jeff kola ta Bill ke dilo.
+6 Bill kola ta Jeff ke dilo.
+7 kola ta ke nilo? 	Jeff	6
+8 Jeff kola ta Bill ke dilo.
+9 Bill kola ta Jeff ke dilo.
+10 kola ta ke dilo?? 	Bill	9
+11 Jeff shekhan the kolom ta nilo.
+12 Jeff kola ta Bill ke dilo.
+13 Jeff ki dilo Bill ke? 	kola	12
+14 Mary rannaghor a gelo.
+15 Bill kola ta Jeff ke dilo.
+16 Bill ki dilo Jeff ke? 	kola	15
+17 Mary chad a gelo.
+18 Mary baranda te gelo.
+19 kola ta ke nilo? 	Jeff	15
+1 Bill kaaj a gelo.
+2 Jeff baranda te gelo
+3 Jeff kaaj a gelo.
+4 Bill dokan a gelo.
+5 Fred baranda te gelo.
+6 Fred chad a gelo.
+7 Fred shekhan theke kolom ta nilo.
+8 Mary kaaj a gelo.
+9 Bill kaaj a gelo.
+10 Fred shekhan theke dudh ta nilo.
+11 Fred kaaj a gelo.
+12 Jeff bagan a gelo.
+13 Fred kolom ta Mary ke dilo.
+14 Mary kolom ta fred ke dilo.
+15 kolom ta ke dilo? 	Mary	14
+16 Fred kolom ta Mary ke dilo.
+17 Mary kolom ta rekhe dilo.
+18 Fred footbal ta kake dilo? 	Mary	16
+19 Fred dudh ta Mary ke dilo.
+20 Bill rannaghor a gelo.
+21 ke kolom ta Mary ke dilo? 	Fred	16
+22 Bill bagan a gelo.
+23 Mary dudh ta Fred ke dilo.
+24 Mary ki dilo Fred ke? 	milk	23
+25 Fred dudh ta rekhe dilo.
+26 Mary bagan a gelo.
+27 dudh ta ke dilo? 	Mary	23
+1 Fred shekhan theke kola ta nilo.
+2 Bill rannaghor a gelo.
+3 Bill shekhan theke dudh ta nilo.
+4 Jeff rannaghor a gelo.
+5 Bill dudh ta Jeff ke dilo.
+6 Jeff dudh ta Bill ke dilo.
+7 Jeff dudh ta kake dilo? 	Bill	6
+8 Bill dudh ta Jeff ke dilo.
+9 Jeff dudh ta Bill ke dilo.
+10 Jeff dudh ta kake dilo? 	Bill	9
+11 Fred kola ta rekhe dilo.
+12 Bill dudh ta rekhe dilo.
+13 Jeff ki dilo Bill ke? 	milk	9
+14 Mary rannaghor a gelo.
+15 Bill shekhan theke dudh ta nilo.
+16 Jeff ki dilo Bill ke? 	milk	9
+17 Fred shekhan theke kola ta nilo.
+18 Bill dudh ta Mary ke dilo.
+19 Bill dudh ta kake dilo? 	Mary	18
+1 Mary baranda te gelo.
+2 Fred kaaj a gelo.
+3 Mary rannaghor a gelo.
+4 Bill bagan a gelo.
+5 Bill dokan a gelo.
+6 Bill shekhan theke kola ta nilo.
+7 Jeff dokan a gelo.
+8 Bill kola ta rekhe dilo.
+9 Mary bagan a gelo.
+10 Jeff shekhan theke kola ta nilo.
+11 Jeff kola ta Bill ke dilo.
+12 Bill kola ta rekhe dilo.
+13 kola ta ke dilo? to Bill? 	Jeff	11
+14 Bill chad a gelo.
+15 Bill kaaj a gelo.
+16 Jeff ki dilo Bill ke? 	kola	11
+17 Bill baranda te gelo
+18 Bill kaaj a gelo.
+19 Bill dokan a gelo.
+20 Jeff shekhan theke kola ta nilo.
+21 Jeff kola ta Bill ke dilo.
+22 Bill kola ta Jeff ke dilo.
+23 kola ta ke nilo? 	Jeff	22
+24 Jeff kola ta Bill ke dilo.
+25 Bill kola ta Jeff ke dilo.
+26 kola ta ke nilo? 	Jeff	25
+27 Jeff kola ta Bill ke dilo.
+28 Mary rannaghor a gelo.
+29 kola ta ke dilo? to Bill? 	Jeff	27
+1 Fred bagan a gelo.
+2 Fred rannaghor a gelo.
+3 Bill rannaghor a gelo.
+4 Bill dokan a gelo.
+5 Mary rannaghor a gelo.
+6 Fred baranda te gelo.
+7 Bill kaaj a gelo.
+8 Jeff chad a gelo.
+9 Bill baranda te gelo.
+10 Jeff dokan a gelo.
+11 Fred bagan a gelo.
+12 Fred shekhan theke kola ta nilo.
+13 Bill rannaghor a gelo.
+14 Bill dokan a gelo.
+15 Fred kaaj a gelo.
+16 Fred kola ta rekhe dilo.
+17 Fred dokan a gelo.
+18 Bill bagan a gelo.
+19 Bill dokan a gelo.
+20 Jeff chad a gelo.
+21 Fred baranda te gelo.
+22 Fred rannaghor a gelo.
+23 Mary bagan a gelo.
+24 Mary chad a gelo.
+25 Fred dokan a gelo.
+26 Mary dokan a gelo.
+27 Fred kaaj a gelo.
+28 Mary bagan a gelo.
+29 Mary dokan a gelo.
+30 Fred shekhan the kolom ta nilo.
+31 Fred shekhan theke dudh ta nilo.
+32 Mary rannaghor a gelo.
+33 Mary chad a gelo.
+34 Bill chad a gelo.
+35 Fred shekhan theke kola ta nilo.
+36 Mary rannaghor a gelo.
+37 Fred kola ta rekhe dilo.
+38 Bill rannaghor a gelo.
+39 Fred dokan a gelo.
+40 Fred dudh ta rekhe dilo.
+41 Mary dokan a gelo.
+42 Jeff bagan a gelo.
+43 Fred kolom ta rekhe dilo.
+44 Mary shekhan the kolom ta nilo.
+45 Mary kolom ta rekhe dilo.
+46 Fred kaaj a gelo.
+47 Fred shekhan theke kola ta nilo.
+48 Bill kaaj a gelo.
+49 Jeff kaaj a gelo.
+50 Mary rannaghor a gelo.
+51 Fred kola ta Bill ke dilo.
+52 Bill kola ta Fred ke dilo.
+53 kola ta ke dilo?? 	Bill	52
+54 Fred kola ta Bill ke dilo.
+55 Bill kola ta Fred ke dilo.
+56 Bill ki dilo Fred ke?? 	kola	55
+57 Fred kola ta Bill ke dilo.
+58 Bill kola ta Fred ke dilo.
+59 Bill ki dilo Fred ke?? 	kola	58
+60 Bill bagan a gelo.
+61 Fred baranda te gelo.
+62 Bill kake kola ta dilo? 	Fred	58
+63 Bill chad a gelo.
+64 Jeff bagan a gelo.
+65 Bill ki dilo Fred ke?? 	kola	58
+1 Bill rannaghor a gelo.
+2 Fred bagan a gelo.
+3 Mary rannaghor a gelo.
+4 Jeff baranda te gelo.
+5 Fred dokan a gelo.
+6 Jeff shekhan the kolom ta nilo.
+7 Fred rannaghor a gelo.
+8 Fred kaaj a gelo.
+9 Jeff kolom ta rekhe dilo.
+10 Jeff kaaj a gelo.
+11 Fred dokan a gelo.
+12 Jeff chad a gelo.
+13 Fred chad a gelo.
+14 Bill bagan a gelo.
+15 Fred rannaghor a gelo.
+16 Fred chad a gelo.
+17 Bill rannaghor a gelo.
+18 Fred kaaj a gelo.
+19 Jeff baranda te gelo.
+20 Jeff shekhan theke kolom ta nilo.
+21 Fred baranda te gelo.
+22 Jeff kolom ta fred ke dilo.
+23 Jeff ki dilo Fred ke? 	kolom	22
+24 Fred gave the kolom to Jeff.
+25 Mary bagan a gelo.
+26 Fred ki dilo Jeff ke? 	kolom	24
+27 Jeff kolom ta rekhe dilo.
+28 Bill chad a gelo.
+29 Fred footbal ta kake dilo? 	Jeff	24
+30 Mary chad a gelo.
+31 Jeff kaaj a gelo.
+32 Jeff chad a gelo.
+33 Fred chad a gelo.
+34 Jeff rannaghor a gelo.
+35 Jeff bagan a gelo.
+36 Bill bagan a gelo.
+37 Mary bagan a gelo.
+38 Bill baranda te gelo.
+39 Jeff baranda te gelo.
+40 Bill shekhan a kolom ta pelo.
+41 Jeff kaaj a gelo.
+42 Bill kolom ta rekhe dilo.
+43 Bill shekhan the kolom ta nilo.
+44 Fred bagan a gelo.
+45 Bill kolom ta rekhe dilo.
+46 Mary rannaghor a gelo.
+47 Bill shekhan theke kolom ta nilo.
+48 Bill kolom ta rekhe dilo.
+49 Fred kaaj a gelo.
+50 Bill rannaghor a gelo.
+51 Fred shekhan theke dudh ta nilo.
+52 Bill kaaj a gelo.
+53 Bill shekhan theke kola ta nilo.
+54 Bill kola ta Fred ke dilo.
+55 Fred kola ta Bill ke dilo.
+56 kola ta ke dilo?? 	Fred	55
+57 Bill kola ta Fred ke dilo.
+58 Fred dudh ta rekhe dilo.
+59 Bill ki dilo Fred ke?? 	kola	57
+1 Fred shekhan theke kolom ta nilo.
+2 Mary rannaghor a gelo.
+3 Mary baranda te gelo.
+4 Jeff rannaghor a gelo.
+5 Fred kolom ta Jeff ke dilo.
+6 Jeff kolom ta fred ke dilo.
+7 Jeff ki dilo Fred ke? 	kolom	6
+8 Bill shekhan theke kola ta nilo.
+9 Fred kolom ta jeff ke dilo.
+10 kolom ta ke dilo? 	Fred	9
+11 Jeff handed the kolom to Fred.
+12 Bill rannaghor a gelo.
+13 Jeff ki dilo Fred ke? 	kolom	11
+14 Bill kola ta Fred ke dilo.
+15 Fred kola ta Bill ke dilo.
+16 Jeff kolom ta kake dilo? 	Fred	11
+17 Bill kola ta rekhe dilo.
+18 Bill shekhan theke kola ta nilo.
+19 Fred ki dilo Bill ke? 	kola	15
+1 Fred baranda te gelo
+2 Jeff shekhan theke dudh ta nilo.
+3 Jeff dudh ta rakhlo.
+4 Jeff shekhan theke dudh ta nilo.
+5 Jeff dudh ta rekhe dilo.
+6 Mary baranda te gelo.
+7 Mary dokan a gelo.
+8 Bill chad a gelo.
+9 Fred bagan a gelo.
+10 Bill kaaj a gelo.
+11 Bill rannaghor a gelo.
+12 Mary chad a gelo.
+13 Mary kaaj a gelo.
+14 Jeff bagan a gelo.
+15 Mary baranda te gelo
+16 Jeff kaaj a gelo.
+17 Fred shekhan theke kola ta nilo.
+18 Jeff shekhan theke dudh ta nilo.
+19 Bill dokan a gelo.
+20 Mary chad a gelo.
+21 Fred kola ta rekhe dilo.
+22 Fred dokan a gelo.
+23 Jeff dudh ta rekhe dilo.
+24 Bill rannaghor a gelo.
+25 Bill baranda te gelo.
+26 Mary dokan a gelo.
+27 Bill rannaghor a gelo.
+28 Mary rannaghor a gelo.
+29 Fred kaaj a gelo.
+30 Fred chad a gelo.
+31 Fred kaaj a gelo.
+32 Fred shekhan theke dudh ta nilo.
+33 Fred dudh ta Jeff ke dilo.
+34 Jeff dudh ta Fred ke dilo.
+35 Jeff dudh ta kake dilo? 	Fred	34
+36 Fred dudh ta Jeff ke dilo.
+37 Jeff dudh ta Fred ke dilo.
+38 Fred ke dudh ke dilo? 	Jeff	37
+39 Fred dudh ta Jeff ke dilo.
+40 Jeff rannaghor a gelo.
+41 ke did Fred give the milk to? 	Jeff	39
+42 Fred dokan a gelo.
+43 Jeff dudh ta Mary ke dilo.
+44 Jeff ki dilo Mary ke? 	milk	43
+45 Mary dudh ta rekhe dilo.
+46 Bill kaaj a gelo.
+47 dudh ta ke pelo?? 	Mary	43
+1 Jeff baranda te gelo.
+2 Fred shekhan theke kola ta nilo.
+3 Mary bagan a gelo.
+4 Fred kola ta rekhe dilo.
+5 Fred shekhan theke kola ta nilo.
+6 Jeff dokan a gelo.
+7 Fred kola ta rekhe dilo.
+8 Fred dokan a gelo.
+9 Bill chad a gelo.
+10 Jeff kaaj a gelo.
+11 Mary shekhan theke dudh ta nilo.
+12 Fred chad a gelo.
+13 Fred bagan a gelo.
+14 Mary dudh ta Fred ke dilo.
+15 Fred ke dudh ke dilo? 	Mary	14
+16 Fred dudh ta rekhe dilo.
+17 Jeff dokan a gelo.
+18 Mary ki dilo Fred ke? 	milk	14
+19 Mary shekhan theke dudh ta nilo.
+20 Mary dudh ta rekhe dilo.
+21 Mary ki dilo Fred ke? 	milk	14
+22 Bill shekhan a kolom ta pelo.
+23 Fred shekhan theke dudh ta nilo.
+24 Fred dudh ta Mary ke dilo.
+25 Mary dudh ta rekhe dilo.
+26 Fred ki Dilo Mary ke? 	milk	24
+27 Bill kolom ta rekhe dilo.
+28 Mary chad a gelo.
+29 Fred ki Dilo Mary ke? 	milk	24
+1 Bill shekhan theke dudh ta nilo.
+2 Bill dudh ta rakhlo.
+3 Bill dokan a gelo.
+4 Bill rannaghor a gelo.
+5 Mary kaaj a gelo.
+6 Bill bagan a gelo.
+7 Mary baranda te gelo.
+8 Jeff dokan a gelo.
+9 Mary shekhan theke dudh ta nilo.
+10 Mary chad a gelo.
+11 Fred kaaj a gelo.
+12 Fred shekhan theke kola ta nilo.
+13 Fred shekhan theke kolom ta nilo.
+14 Fred baranda te gelo.
+15 Jeff rannaghor a gelo.
+16 Jeff dokan a gelo.
+17 Fred kola ta rekhe dilo.
+18 Fred kolom ta rekhe dilo.
+19 Mary baranda te gelo.
+20 Fred rannaghor a gelo.
+21 Bill kaaj a gelo.
+22 Mary rannaghor a gelo.
+23 Bill rannaghor a gelo.
+24 Mary dudh ta rakhlo.
+25 Mary chad a gelo.
+26 Bill shekhan theke dudh ta nilo.
+27 Jeff bagan a gelo.
+28 Bill bagan a gelo.
+29 Bill dudh ta Jeff ke dilo.
+30 Jeff dudh ta rekhe dilo.
+31 dudh ta ke pelo?? 	Jeff	29
+32 Mary kaaj a gelo.
+33 Jeff shekhan theke dudh ta nilo.
+34 Bill ki dilo Jeff ke? 	milk	29
+35 Jeff dokan a gelo.
+36 Mary dokan a gelo.
+37 Jeff dudh ta rekhe dilo.
+38 Bill chad a gelo.
+39 Bill dokan a gelo.
+40 Bill rannaghor a gelo.
+41 Jeff shekhan theke dudh ta nilo.
+42 Jeff dudh ta rekhe dilo.
+43 Jeff shekhan theke dudh ta nilo.
+44 Jeff dudh ta Mary ke dilo.
+45 Jeff ki dilo Mary ke? 	milk	44
+46 Mary dudh ta Jeff ke dilo.
+47 Jeff dudh ta rakhlo.
+48 Mary kake dudh dilo? 	Jeff	46
+49 Mary chad a gelo.
+50 Bill kaaj a gelo.
+51 Mary ki dilo Jeff ke? 	milk	46
+1 Mary kaaj a gelo.
+2 Bill shekhan theke dudh ta nilo.
+3 Bill dudh ta Mary ke dilo.
+4 Fred shekhan theke kola ta nilo.
+5 Bill dudh ta kake dilo? 	Mary	3
+6 Mary dudh ta Bill ke dilo.
+7 Fred kola ta rekhe dilo.
+8 dudh ta ke dilo? 	Mary	6
+9 Bill baranda te gelo
+10 Fred baranda te gelo.
+11 Mary kake dudh dilo? 	Bill	6
+12 Bill dudh ta Fred ke dilo.
+13 Mary dokan a gelo.
+14 dudh ta ke pelo? 	Fred	12
+15 Fred dudh ta Bill ke dilo.
+16 Bill shekhan the kolom ta nilo.
+17 dudh ta ke pelo? 	Bill	15
+1 Mary shekhan theke dudh ta nilo.
+2 Mary shekhan theke kola ta nilo.
+3 Jeff rannaghor a gelo.
+4 Mary kola ta Fred ke dilo.
+5 kola ta ke dilo? 	Mary	4
+6 Fred kola ta Mary ke dilo.
+7 Mary kola ta Fred ke dilo.
+8 Mary ki dilo Fred ke? 	kola	7
+9 Jeff dokan a gelo.
+10 Jeff kaaj a gelo.
+11 Mary kola ta kake dilo? 	Fred	7
+12 Fredkola ta Mary ke dilo.
+13 Jeff dokan a gelo.
+14 kola ta ke dilo?? 	Fred	12
+15 Mary kola ta Fred ke dilo.
+16 Mary baranda te gelo.
+17 kola ta ke dilo?? 	Mary	15
+1 Mary kaaj a gelo.
+2 Jeff dokan a gelo.
+3 Mary rannaghor a gelo.
+4 Bill dokan a gelo.
+5 Mary dokan a gelo.
+6 Fred chad a gelo.
+7 Fred dokan a gelo.
+8 Bill chad a gelo.
+9 Jeff chad a gelo.
+10 Fred bagan a gelo.
+11 Bill baranda te gelo.
+12 Fred shekhan a kolom ta pelo.
+13 Bill kaaj a gelo.
+14 Jeff dokan a gelo.
+15 Fred shekhan theke dudh ta nilo.
+16 Mary bagan a gelo.
+17 Bill dokan a gelo.
+18 Fred baranda te gelo.
+19 Fred kaaj a gelo.
+20 Jeff baranda te gelo.
+21 Bill kaaj a gelo.
+22 Bill baranda te gelo.
+23 Fred kolom ta rekhe dilo.
+24 Fred rannaghor a gelo.
+25 Mary baranda te gelo.
+26 Jeff kaaj a gelo.
+27 Fred baranda te gelo
+28 Bill chad a gelo.
+29 Bill bagan a gelo.
+30 Fred dudh ta Mary ke dilo.
+31 Fred ki Dilo Mary ke? 	milk	30
+32 Mary dudh ta rekhe dilo.
+33 Jeff shekhan a kolom ta pelo.
+34 dudh ta ke dilo? to Mary? 	Fred	30
+35 Mary shekhan theke dudh ta nilo.
+36 Mary dudh ta Fred ke dilo.
+37 Mary ki dilo Fred ke? 	milk	36
+38 Fred dudh ta Mary ke dilo.
+39 Jeff kolom ta rekhe dilo.
+40 Fred ki Dilo Mary ke? 	milk	38
+41 Mary dudh ta Fred ke dilo.
+42 Fred kaaj a gelo.
+43 Mary ki dilo Fred ke? 	milk	41
+1 Mary rannaghor a gelo.
+2 Bill shekhan theke dudh ta nilo.
+3 Fred shekhan theke kola ta nilo.
+4 Bill baranda te gelo.
+5 Fred kola ta rekhe dilo there.
+6 Bill bagan a gelo.
+7 Bill dudh ta Fred ke dilo.
+8 Fred dudh ta Bill ke dilo.
+9 dudh ta ke dilo? to Bill? 	Fred	8
+10 Bill shekhan theke kola ta nilo.
+11 Bill chad a gelo.
+12 Fred ki dilo Bill ke? 	milk	8
+13 Bill kaaj a gelo.
+14 Bill dudh ta rekhe dilo.
+15 Fred ki dilo Bill ke? 	milk	8
+16 Mary bagan a gelo.
+17 Bill bagan a gelo.
+18 Mary kaaj a gelo.
+19 Jeff dokan a gelo.
+20 Bill kola ta Fred ke dilo.
+21 Fred kola ta Bill ke dilo.
+22 Fred kola ta kake dilo? 	Bill	21
+23 Mary rannaghor a gelo.
+24 Jeff rannaghor a gelo.
+25 kola ta ke nilo? 	Bill	21
+1 Bill shekhan theke kola ta nilo.
+2 Fred bagan a gelo.
+3 Fred shekhan theke kolom ta nilo.
+4 Fred dokan a gelo.
+5 Fred kolom ta Mary ke dilo.
+6 Mary kolom ta Fred ke dilo.
+7 Mary ki dilo Fred ke? 	kolom	6
+8 Fred kolom ta Mary ke dilo.
+9 Bill chad a gelo.
+10 ke kolom ta Mary ke dilo? 	Fred	8
+11 Bill shekhan theke dudh ta nilo.
+12 Mary kolom ta Fred ke dilo.
+13 kolom ta ke nilo?? 	Fred	12
+14 Bill baranda te gelo.
+15 Bill chad a gelo.
+16 Mary ki dilo Fred ke? 	kolom	12
+17 Fred kolom ta Mary ke dilo.
+18 Mary kolom ta rekhe dilo.
+19 ke kolom ta Mary ke dilo? 	Fred	17
+1 Mary shekhan theke kola ta nilo.
+2 Fred shekhan theke dudh ta nilo.
+3 Fred dudh ta rekhe dilo.
+4 Mary kola ta rekhe dilo there.
+5 Fred chad a gelo.
+6 Fred kaaj a gelo.
+7 Bill bagan a gelo.
+8 Jeff shekhan a kolom ta pelo.
+9 Mary kaaj a gelo.
+10 Jeff kolom ta Bill ke dilo.
+11 ke kolom ta Bill ke dilo? 	Jeff	10
+12 Bill kolom ta rekhe dilo.
+13 Bill rannaghor a gelo.
+14 Jeff kolom ta kake dilo? 	Bill	10
+15 Mary rannaghor a gelo.
+16 Jeff kaaj a gelo.
+17 Jeff ki dilo Bill ke? 	kolom	10
+18 Bill shekhan theke dudh ta nilo.
+19 Bill dudh ta Mary ke dilo.
+20 dudh ta ke dilo? to Mary? 	Bill	19
+21 Mary dudh ta Bill ke dilo.
+22 Bill dudh ta rekhe dilo.
+23 dudh ta ke dilo? to Bill? 	Mary	21
+1 Mary rannaghor a gelo.
+2 Bill kaaj a gelo.
+3 Mary baranda te gelo
+4 Bill chad a gelo.
+5 Mary shekhan a kolom ta pelo.
+6 Jeff shekhan theke kola ta nilo.
+7 Mary kolom ta rekhe dilo.
+8 Jeff kola ta rekhe dilo.
+9 Fred rannaghor a gelo.
+10 Mary bagan a gelo.
+11 Jeff baranda te gelo.
+12 Jeff kaaj a gelo.
+13 Jeff dokan a gelo.
+14 Jeff shekhan theke dudh ta nilo.
+15 Jeff bagan a gelo.
+16 Jeff dudh ta Mary ke dilo.
+17 Jeff ki dilo Mary ke? 	milk	16
+18 Mary kaaj a gelo.
+19 Jeff baranda te gelo.
+20 dudh ta ke dilo? to Mary? 	Jeff	16
+21 Mary shekhan theke kola ta nilo.
+22 Fred bagan a gelo.
+23 dudh ta ke dilo? to Mary? 	Jeff	16
+24 Bill rannaghor a gelo.
+25 Mary kola ta rekhe dilo there.
+26 Jeff chad a gelo.
+27 Mary baranda te gelo
+28 Fred chad a gelo.
+29 Fred dokan a gelo.
+30 Mary shekhan the kolom ta nilo.
+31 Mary bagan a gelo.
+32 Mary rannaghor a gelo.
+33 Mary kolom ta Bill ke dilo.
+34 Mary ki dilo Bill ke? 	kolom	33
+35 Bill kolom ta Mary ke dilo.
+36 Jeff bagan a gelo.
+37 ke kolom ta Mary ke dilo? 	Bill	35
+1 Mary shekhan theke kolom ta nilo.
+2 Jeff bagan a gelo.
+3 Jeff rannaghor a gelo.
+4 Mary kolom ta Fred ke dilo.
+5 Mary kolom ta kake dilo? 	Fred	4
+6 Fred chad a gelo.
+7 Fred kolom ta Bill ke dilo
+8 Fred ki dilo Bill ke? 	kolom	7
+9 Bill kolom ta Fred ke dilo.
+10 Fred kolom ta rekhe dilo.
+11 kolom ta ke dilo? 	Bill	9
+12 Bill shekhan theke kolom ta nilo.
+13 Bill rannaghor a gelo.
+14 kolom ta ke dilo? 	Bill	9
+15 Bill kolom ta Jeff ke dilo.
+16 Mary baranda te gelo.
+17 Bill ki dilo Jeff ke? 	kolom	15
+1 Mary shekhan theke kola ta nilo.
+2 Jeff shekhan theke dudh ta nilo.
+3 Mary shekhan a kolom ta pelo.
+4 Jeff dudh ta Bill ke dilo.
+5 Jeff dudh ta kake dilo? 	Bill	4
+6 Fred baranda te gelo.
+7 Bill dudh ta rekhe dilo.
+8 Jeff ki dilo Bill ke? 	milk	4
+9 Mary kola ta rekhe dilo.
+10 Jeff bagan a gelo.
+11 Jeff ki dilo Bill ke? 	milk	4
+12 Fred kaaj a gelo.
+13 Mary baranda te gelo
+14 Jeff rannaghor a gelo.
+15 Jeff shekhan theke kola ta nilo.
+16 Mary kaaj a gelo.
+17 Mary kolom ta Fred ke dilo.
+18 kolom ta ke dilo? 	Mary	17
+19 Fred kolom ta Mary ke dilo.
+20 Mary dokan a gelo.
+21 ke kolom ta Mary ke dilo? 	Fred	19
+1 Fred dokan a gelo.
+2 Fred rannaghor a gelo.
+3 Jeff rannaghor a gelo.
+4 Mary baranda te gelo
+5 Mary shekhan a kolom ta pelo.
+6 Jeff dokan a gelo.
+7 Bill rannaghor a gelo.
+8 Bill dokan a gelo.
+9 Mary kolom ta rekhe dilo.
+10 Mary kaaj a gelo.
+11 Mary baranda te gelo.
+12 Mary shekhan theke kolom ta nilo.
+13 Bill chad a gelo.
+14 Fred bagan a gelo.
+15 Mary dokan a gelo.
+16 Mary kolom ta Jeff ke dilo.
+17 Mary ki dilo Jeff ke? 	kolom	16
+18 Fred shekhan theke dudh ta nilo.
+19 Jeff kolom ta Mary ke dilo.
+20 Jeff ki dilo Mary ke? 	kolom	19
+21 Mary kolom ta Jeff ke dilo.
+22 Bill shekhan theke kola ta nilo.
+23 kolom ta ke dilo? 	Mary	21
+24 Mary baranda te gelo.
+25 Fred dudh ta rakhlo.
+26 kolom ta ke dilo to Jeff? 	Mary	21
+27 Fred shekhan theke dudh ta nilo.
+28 Fred kaaj a gelo.
+29 Mary bagan a gelo.
+30 Bill kola ta rekhe dilo.
+31 Bill bagan a gelo.
+32 Jeff baranda te gelo.
+33 Fred chad a gelo.
+34 Fred dudh ta rekhe dilo.
+35 Mary rannaghor a gelo.
+36 Fred shekhan theke kola ta nilo.
+37 Fred bagan a gelo.
+38 Fred kola ta Bill ke dilo.
+39 kola ta ke dilo?? 	Fred	38
+1 Bill baranda te gelo.
+2 Fred kaaj a gelo.
+3 Fred shekhan theke kolom ta nilo.
+4 Bill rannaghor a gelo.
+5 Fred shekhan theke dudh ta nilo.
+6 Mary kaaj a gelo.
+7 Fred kolom ta Mary ke dilo.
+8 Fred baranda te gelo.
+9 Fred ki Dilo Mary ke? 	kolom	7
+10 Mary kolom ta rekhe dilo there.
+11 Fred dudh ta rekhe dilo.
+12 Fred ki Dilo Mary ke? 	kolom	7
+13 Fred dokan a gelo.
+14 Fred rannaghor a gelo.
+15 Jeff dokan a gelo.
+16 Fred dokan a gelo.
+17 Jeff chad a gelo.
+18 Fred bagan a gelo.
+19 Bill kaaj a gelo.
+20 Jeff shekhan theke kola ta nilo.
+21 Bill shekhan theke kolom ta nilo.
+22 Bill kolom ta Mary ke dilo.
+23 Bill ki dilo Mary ke? 	kolom	22
+24 Jeff rannaghor a gelo.
+25 Jeff dokan a gelo.
+26 kolom ta ke dilo? 	Bill	22
+27 Mary kolom ta Bill ke dilo
+28 Jeff kola ta rekhe dilo.
+29 Mary ki dilo Bill ke? 	kolom	27
+1 Bill rannaghor a gelo.
+2 Jeff bagan a gelo.
+3 Bill dokan a gelo.
+4 Jeff rannaghor a gelo.
+5 Bill chad a gelo.
+6 Fred chad a gelo.
+7 Bill baranda te gelo.
+8 Fred baranda te gelo.
+9 Bill dokan a gelo.
+10 Mary dokan a gelo.
+11 Jeff shekhan theke kola ta nilo.
+12 Bill kaaj a gelo.
+13 Jeff bagan a gelo.
+14 Jeff kola ta rekhe dilo.
+15 Jeff chad a gelo.
+16 Jeff bagan a gelo.
+17 Fred bagan a gelo.
+18 Jeff shekhan theke kola ta nilo.
+19 Jeff kola ta Fred ke dilo.
+20 Fred kola ta Jeff ke dilo.
+21 kola ta ke nilo? 	Jeff	20
+22 Jeff kola ta rekhe dilo.
+23 Jeff shekhan theke kola ta nilo.
+24 Fred ki dilo Jeff ke? 	kola	20
+25 Jeff shekhan the kolom ta nilo.
+26 Jeff kolom ta rekhe dilo.
+27 Fred ki dilo Jeff ke? 	kola	20
+28 Jeff kaaj a gelo.
+29 Jeff rannaghor a gelo.
+30 Fred dokan a gelo.
+31 Fred kaaj a gelo.
+32 Mary shekhan theke dudh ta nilo.
+33 Fred chad a gelo.
+34 Mary rannaghor a gelo.
+35 Bill rannaghor a gelo.
+36 Mary bagan a gelo.
+37 Jeff kola ta Bill ke dilo.
+38 kola ta ke dilo? to Bill? 	Jeff	37
+39 Bill kola ta Jeff ke dilo.
+40 Fred bagan a gelo.
+41 kola ta ke dilo?? 	Bill	39
+1 Fred dokan a gelo.
+2 Jeff chad a gelo.
+3 Jeff baranda te gelo
+4 Bill kaaj a gelo.
+5 Fred chad a gelo.
+6 Fred shekhan theke dudh ta nilo.
+7 Jeff chad a gelo.
+8 Fred rannaghor a gelo.
+9 Fred dudh ta rekhe dilo.
+10 Mary baranda te gelo
+11 Mary dokan a gelo.
+12 Fred shekhan theke dudh ta nilo.
+13 Fred dudh ta rekhe dilo.
+14 Bill rannaghor a gelo.
+15 Mary chad a gelo.
+16 Fred shekhan theke dudh ta nilo.
+17 Bill baranda te gelo.
+18 Mary bagan a gelo.
+19 Fred dudh ta rakhlo.
+20 Fred shekhan theke dudh ta nilo.
+21 Bill kaaj a gelo.
+22 Mary shekhan theke kola ta nilo.
+23 Mary rannaghor a gelo.
+24 Fred dudh ta rekhe dilo.
+25 Mary kola ta rekhe dilo.
+26 Fred shekhan theke dudh ta nilo.
+27 Fred baranda te gelo.
+28 Mary kaaj a gelo.
+29 Fred dudh ta rakhlo.
+30 Mary dokan a gelo.
+31 Fred chad a gelo.
+32 Mary kaaj a gelo.
+33 Mary rannaghor a gelo.
+34 Fred bagan a gelo.
+35 Bill chad a gelo.
+36 Fred dokan a gelo.
+37 Mary shekhan theke kola ta nilo.
+38 Mary kola ta rekhe dilo.
+39 Fred chad a gelo.
+40 Fred kaaj a gelo.
+41 Fred dokan a gelo.
+42 Mary shekhan theke kola ta nilo.
+43 Mary baranda te gelo
+44 Mary kola ta rekhe dilo.
+45 Mary shekhan theke kola ta nilo.
+46 Mary shekhan theke dudh ta nilo.
+47 Fred rannaghor a gelo.
+48 Jeff rannaghor a gelo.
+49 Jeff baranda te gelo
+50 Mary dokan a gelo.
+51 Fred kaaj a gelo.
+52 Jeff bagan a gelo.
+53 Mary rannaghor a gelo.
+54 Mary chad a gelo.
+55 Jeff shekhan the kolom ta nilo.
+56 Mary kola ta Bill ke dilo.
+57 kola ta ke dilo?? 	Mary	56
+58 Bill kola ta Mary ke dilo.
+59 Fred chad a gelo.
+60 kola ta ke dilo?? 	Bill	58
+61 Mary kola ta Fred ke dilo.
+62 Fred kola ta Marye ke dilo.
+63 kola ta ke dilo? to Mary? 	Fred	62
+64 Mary rannaghor a gelo.
+65 Mary dudh ta rakhlo.
+66 kola ta ke dilo?? 	Fred	62
+67 Bill dokan a gelo.
+68 Mary shekhan theke dudh ta nilo.
+69 Fred ki Dilo Mary ke? 	kola	62
+1 Fred rannaghor a gelo.
+2 Jeff shekhan the kolom ta nilo.
+3 Mary shekhan theke kola ta nilo.
+4 Jeff kolom ta rekhe dilo.
+5 Mary dokan a gelo.
+6 Mary kola ta Jeff ke dilo.
+7 Mary kola ta kake dilo? 	Jeff	6
+8 Fred shekhan theke dudh ta nilo.
+9 Fred dudh ta rakhlo.
+10 Mary ki dilo Jeff ke? 	kola	6
+11 Jeff handed the kola to Mary.
+12 Mary kola ta Jeff ke dilo.
+13 Mary ki dilo Jeff ke? 	kola	12
+14 Jeff kola ta Mary ke dilo.
+15 Mary shekhan theke kolom ta nilo.
+16 kola ta ke nilo? 	Mary	14
+17 Mary kolom ta rekhe dilo.
+18 Jeff kaaj a gelo.
+19 Jeff kola ta kake dilo?? 	Mary	14
+1 Bill bagan a gelo.
+2 Mary chad a gelo.
+3 Bill dokan a gelo.
+4 Jeff dokan a gelo.
+5 Fred dokan a gelo.
+6 Jeff chad a gelo.
+7 Jeff baranda te gelo.
+8 Bill kaaj a gelo.
+9 Mary bagan a gelo.
+10 Mary chad a gelo.
+11 Mary dokan a gelo.
+12 Mary chad a gelo.
+13 Fred rannaghor a gelo.
+14 Fred kaaj a gelo.
+15 Mary kaaj a gelo.
+16 Mary rannaghor a gelo.
+17 Bill bagan a gelo.
+18 Bill shekhan theke dudh ta nilo.
+19 Bill kaaj a gelo.
+20 Bill dudh ta Fred ke dilo.
+21 dudh ta ke dilo?? 	Bill	20
+22 Mary shekhan a kolom ta pelo.
+23 Fred dudh ta Bill ke dilo.
+24 dudh ta ke dilo? to Bill? 	Fred	23
+25 Mary chad a gelo.
+26 Mary kolom ta rekhe dilo.
+27 Fred ki dilo Bill ke? 	milk	23
+28 Fred dokan a gelo.
+29 Jeff kaaj a gelo.
+30 dudh ta ke dilo? to Bill? 	Fred	23
+31 Bill dudh ta Jeff ke dilo.
+32 Bill chad a gelo.
+33 Bill ki dilo Jeff ke? 	milk	31
+1 Mary shekhan a kolom ta pelo.
+2 Mary kolom ta Fred ke dilo.
+3 kolom ta ke nilo?? 	Fred	2
+4 Bill rannaghor a gelo.
+5 Jeff dokan a gelo.
+6 ke kolom ta fred ke dilo? 	Mary	2
+7 Fred kolom ta Mary ke dilo.
+8 Mary kolom ta Fred ke dilo.
+9 kolom ta ke dilo? 	Mary	8
+10 Fred kolom ta Mary ke dilo.
+11 Mary kolom ta rekhe dilo.
+12 ke kolom ta Mary ke dilo? 	Fred	10
+13 Fred shekhan a kolom ta pelo.
+14 Fred kolom ta rekhe dilo.
+15 Fred ki Dilo Mary ke? 	kolom	10
+1 Bill kaaj a gelo.
+2 Mary shekhan theke dudh ta nilo.
+3 Mary dudh ta Fred ke dilo.
+4 Fred dudh ta Mary ke dilo.
+5 dudh ta ke dilo? to Mary? 	Fred	4
+6 Mary dudh ta rekhe dilo.
+7 Jeff dokan a gelo.
+8 dudh ta ke dilo? to Mary? 	Fred	4
+9 Bill bagan a gelo.
+10 Mary baranda te gelo.
+11 dudh ta ke dilo?? 	Fred	4
+12 Jeff rannaghor a gelo.
+13 Jeff dokan a gelo.
+14 Mary shekhan the kolom ta nilo.
+15 Fred shekhan theke dudh ta nilo.
+16 Mary kolom ta rekhe dilo.
+17 Fred chad a gelo.
+18 Fred dudh ta rekhe dilo.
+19 Mary kaaj a gelo.
+20 Bill kaaj a gelo.
+21 Mary dokan a gelo.
+22 Jeff baranda te gelo.
+23 Mary chad a gelo.
+24 Fred shekhan theke kola ta nilo.
+25 Fred kola ta Marye ke dilo.
+26 kola ta ke dilo?? 	Fred	25
+27 Mary kola ta Fred ke dilo.
+28 Mary shekhan theke dudh ta nilo.
+29 Mary ki dilo Fred ke? 	kola	27
+1 Jeff chad a gelo.
+2 Bill kaaj a gelo.
+3 Jeff baranda te gelo.
+4 Bill shekhan theke dudh ta nilo.
+5 Bill dudh ta rekhe dilo.
+6 Mary kaaj a gelo.
+7 Jeff kaaj a gelo.
+8 Fred shekhan a kolom ta pelo.
+9 Bill shekhan theke dudh ta nilo.
+10 Bill dudh ta Mary ke dilo.
+11 dudh ta ke dilo? to Mary? 	Bill	10
+12 Mary dudh ta Bill ke dilo.
+13 Bill dudh ta rekhe dilo.
+14 dudh ta ke dilo? to Bill? 	Mary	12
+15 Bill rannaghor a gelo.
+16 Bill shekhan theke kola ta nilo.
+17 dudh ta ke dilo? to Bill? 	Mary	12
+18 Fred kolom ta rekhe dilo.
+19 Mary bagan a gelo.
+20 Fred rannaghor a gelo.
+21 Fred kaaj a gelo.
+22 Fred shekhan theke dudh ta nilo.
+23 Fred dudh ta Jeff ke dilo.
+24 Fred ki dilo Jeff ke? 	milk	23
+25 Fred chad a gelo.
+26 Bill kaaj a gelo.
+27 dudh ta ke pelo?? 	Jeff	23
+1 Bill shekhan theke dudh ta nilo.
+2 Bill shekhan theke kolom ta nilo.
+3 Fred baranda te gelo.
+4 Bill kolom ta rekhe dilo.
+5 Bill dudh ta rakhlo.
+6 Bill shekhan theke dudh ta nilo.
+7 Bill dudh ta Fred ke dilo.
+8 Jeff chad a gelo.
+9 dudh ta ke pelo?? 	Fred	7
+10 Fred shekhan theke kolom ta nilo.
+11 Bill rannaghor a gelo.
+12 Fred ke dudh ke dilo? 	Bill	7
+13 Fred kolom ta rekhe dilo.
+14 Fred rannaghor a gelo.
+15 Fred dudh ta Bill ke dilo.
+16 Bill dudh ta Fred ke dilo.
+17 dudh ta ke pelo?? 	Fred	16
+18 Fred dudh ta Bill ke dilo.
+19 Bill dudh ta Fred ke dilo.
+20 Bill dudh ta kake dilo? 	Fred	19
+21 Fred bagan a gelo.
+22 Mary bagan a gelo.
+23 dudh ta ke pelo?? 	Fred	19
+1 Bill dokan a gelo.
+2 Mary chad a gelo.
+3 Fred bagan a gelo.
+4 Bill baranda te gelo.
+5 Bill dokan a gelo.
+6 Fred kaaj a gelo.
+7 Fred rannaghor a gelo.
+8 Fred kaaj a gelo.
+9 Mary kaaj a gelo.
+10 Fred rannaghor a gelo.
+11 Mary bagan a gelo.
+12 Fred chad a gelo.
+13 Bill baranda te gelo.
+14 Bill shekhan theke dudh ta nilo.
+15 Bill dokan a gelo.
+16 Bill dudh ta Jeff ke dilo.
+17 Bill ki dilo Jeff ke? 	milk	16
+18 Jeff dudh ta Bill ke dilo.
+19 Jeff chad a gelo.
+20 dudh ta ke pelo?? 	Bill	18
+21 Bill rannaghor a gelo.
+22 Bill shekhan theke kola ta nilo.
+23 Jeff dudh ta kake dilo? 	Bill	18
+24 Jeff rannaghor a gelo.
+25 Bill kola ta Jeff ke dilo.
+26 Bill ki dilo Jeff ke? 	kola	25
+27 Jeff bagan a gelo.
+28 Jeff kola ta Mary ke dilo.
+29 Jeff kola ta kake dilo?? 	Mary	28
+1 Fred dokan a gelo.
+2 Fred bagan a gelo.
+3 Mary shekhan theke dudh ta nilo.
+4 Bill shekhan theke kola ta nilo.
+5 Jeff baranda te gelo.
+6 Mary dudh ta Jeff ke dilo.
+7 Mary ki dilo Jeff ke? 	milk	6
+8 Jeff dudh ta Mary ke dilo.
+9 Bill bagan a gelo.
+10 dudh ta ke dilo?? 	Jeff	8
+11 Bill kola ta Fred ke dilo.
+12 Fred kola ta Bill ke dilo.
+13 dudh ta ke dilo?? 	Jeff	8
+14 Jeff chad a gelo.
+15 Mary bagan a gelo.
+16 kola ta ke dilo?? 	Fred	12
+17 Billkola ta Mary ke dilo.
+18 Mary kola ta Fred ke dilo.
+19 Mary ki dilo Fred ke? 	kola	18
+1 Bill baranda te gelo.
+2 Fred bagan a gelo.
+3 Mary baranda te gelo.
+4 Fred baranda te gelo.
+5 Bill chad a gelo.
+6 Jeff bagan a gelo.
+7 Mary bagan a gelo.
+8 Jeff rannaghor a gelo.
+9 Bill shekhan a kolom ta pelo.
+10 Fred dokan a gelo.
+11 Bill kolom ta rekhe dilo.
+12 Bill shekhan theke kolom ta nilo.
+13 Mary rannaghor a gelo.
+14 Jeff bagan a gelo.
+15 Mary kaaj a gelo.
+16 Bill kaaj a gelo.
+17 Bill kolom ta Mary ke dilo.
+18 Mary kolom ta Bill ke dilo
+19 Mary kolom ta kake dilo? 	Bill	18
+20 Bill kolom ta Mary ke dilo.
+21 Mary kolom ta Bill ke dilo.
+22 ke kolom ta Bill ke dilo? 	Mary	21
+23 Bill dokan a gelo.
+24 Bill shekhan theke kola ta nilo.
+25 Mary ki dilo Bill ke? 	kolom	21
+26 Bill kola ta Fred ke dilo.
+27 Fred kola ta Bill ke dilo.
+28 kola ta ke nilo? 	Bill	27
+29 Jeff chad a gelo.
+30 Bill kola ta Fred ke dilo.
+31 kola ta ke dilo?? 	Bill	30
+1 Jeff shekhan the kolom ta nilo.
+2 Fred bagan a gelo.
+3 Jeff kolom ta Bill ke dilo.
+4 Mary baranda te gelo.
+5 ke kolom ta Bill ke dilo? 	Jeff	3
+6 Fred kaaj a gelo.
+7 Mary rannaghor a gelo.
+8 kolom ta ke nilo?? 	Bill	3
+9 Bill kolom ta rekhe dilo.
+10 Mary chad a gelo.
+11 Fred bagan a gelo.
+12 Fred kaaj a gelo.
+13 Fred chad a gelo.
+14 Bill shekhan theke kolom ta nilo.
+15 Jeff bagan a gelo.
+16 Jeff dokan a gelo.
+17 Fred dokan a gelo.
+18 Bill kolom ta rekhe dilo there.
+19 Fred bagan a gelo.
+20 Jeff baranda te gelo
+21 Jeff dokan a gelo.
+22 Mary bagan a gelo.
+23 Jeff shekhan theke dudh ta nilo.
+24 Bill bagan a gelo.
+25 Bill rannaghor a gelo.
+26 Jeff baranda te gelo.
+27 Fred chad a gelo.
+28 Mary dokan a gelo.
+29 Bill shekhan theke kola ta nilo.
+30 Jeff dokan a gelo.
+31 Jeff dudh ta Mary ke dilo.
+32 Mary dudh ta Jeff ke dilo.
+33 dudh ta ke dilo? to Jeff? 	Mary	32
+34 Jeff baranda te gelo
+35 Fred baranda te gelo.
+36 dudh ta ke dilo? to Jeff? 	Mary	32
+37 Jeff shekhan the kolom ta nilo.
+38 Jeff kolom ta rekhe dilo there.
+39 dudh ta ke dilo?? 	Mary	32
+1 Bill chad a gelo.
+2 Bill dokan a gelo.
+3 Fred shekhan theke kola ta nilo.
+4 Mary baranda te gelo.
+5 Mary shekhan theke dudh ta nilo.
+6 Fred kola ta rekhe dilo.
+7 Mary kaaj a gelo.
+8 Fred dokan a gelo.
+9 Fred chad a gelo.
+10 Jeff baranda te gelo.
+11 Mary shekhan the kolom ta nilo.
+12 Mary kolom ta rekhe dilo.
+13 Fred bagan a gelo.
+14 Bill kaaj a gelo.
+15 Mary dudh ta Bill ke dilo.
+16 Bill shekhan theke kolom ta nilo.
+17 dudh ta ke dilo? to Bill? 	Mary	15
+18 Bill kolom ta Mary ke dilo.
+19 Fred shekhan theke kola ta nilo.
+20 dudh ta ke dilo?? 	Mary	15
+21 Mary kolom ta rekhe dilo.
+22 Fred kaaj a gelo.
+23 ke kolom ta Mary ke dilo? 	Bill	18
+24 Jeff bagan a gelo.
+25 Fred kola ta Marye ke dilo.
+26 kola ta ke nilo? 	Mary	25
+27 Bill dokan a gelo.
+28 Jeff baranda te gelo.
+29 Fred ki Dilo Mary ke? 	kola	25
+1 Fred kaaj a gelo.
+2 Jeff shekhan theke dudh ta nilo.
+3 Jeff dudh ta rekhe dilo.
+4 Fred chad a gelo.
+5 Fred shekhan theke kolom ta nilo.
+6 Bill rannaghor a gelo.
+7 Mary chad a gelo.
+8 Jeff kaaj a gelo.
+9 Fred kolom ta rekhe dilo there.
+10 Fred rannaghor a gelo.
+11 Bill bagan a gelo.
+12 Bill chad a gelo.
+13 Bill shekhan theke kolom ta nilo.
+14 Fred chad a gelo.
+15 Bill kolom ta Mary ke dilo.
+16 Mary kolom ta Fred ke dilo.
+17 Mary ki dilo Fred ke? 	kolom	16
+18 Fred kolom ta Mary ke dilo.
+19 Mary dokan a gelo.
+20 kolom ta ke dilo? 	Fred	18
+21 Mary shekhan theke dudh ta nilo.
+22 Mary kaaj a gelo.
+23 kolom ta ke dilo? 	Fred	18
+24 Mary gave the kolom to Jeff.
+25 Mary dokan a gelo.
+26 Mary ki dilo Jeff ke? 	kolom	24
+27 Mary dudh ta rekhe dilo.
+28 Mary kaaj a gelo.
+29 Mary kolom ta kake dilo? 	Jeff	24
+1 Fred shekhan the kolom ta nilo.
+2 Mary bagan a gelo.
+3 Jeff dokan a gelo.
+4 Jeff chad a gelo.
+5 Fred kolom ta rekhe dilo.
+6 Jeff rannaghor a gelo.
+7 Fred chad a gelo.
+8 Mary dokan a gelo.
+9 Mary bagan a gelo.
+10 Mary dokan a gelo.
+11 Bill dokan a gelo.
+12 Mary rannaghor a gelo.
+13 Jeff shekhan theke dudh ta nilo.
+14 Fred rannaghor a gelo.
+15 Mary shekhan a kolom ta pelo.
+16 Jeff baranda te gelo.
+17 Mary baranda te gelo.
+18 Mary gave the kolom to Jeff.
+19 kolom ta ke dilo? 	Mary	18
+20 Mary kaaj a gelo.
+21 Mary rannaghor a gelo.
+22 Mary ki dilo Jeff ke? 	kolom	18
+23 Fred chad a gelo.
+24 Jeff dudh ta rekhe dilo.
+25 kolom ta ke dilo? 	Mary	18
+26 Jeff shekhan theke dudh ta nilo.
+27 Bill rannaghor a gelo.
+28 Jeff kolom ta rekhe dilo.
+29 Fred baranda te gelo.
+30 Jeff shekhan theke kolom ta nilo.
+31 Fred rannaghor a gelo.
+32 Fred chad a gelo.
+33 Mary kaaj a gelo.
+34 Mary shekhan theke kola ta nilo.
+35 Bill bagan a gelo.
+36 Jeff dokan a gelo.
+37 Fred kaaj a gelo.
+38 Mary kola ta Fred ke dilo.
+39 Fred rannaghor a gelo.
+40 Mary kola ta kake dilo? 	Fred	38
+41 Mary rannaghor a gelo.
+42 Jeff chad a gelo.
+43 kola ta ke dilo?? 	Mary	38
+1 Bill kaaj a gelo.
+2 Fred bagan a gelo.
+3 Mary rannaghor a gelo.
+4 Jeff baranda te gelo.
+5 Jeff chad a gelo.
+6 Mary shekhan theke kolom ta nilo.
+7 Mary dokan a gelo.
+8 Mary kaaj a gelo.
+9 Mary kolom ta rekhe dilo.
+10 Bill shekhan a kolom ta pelo.
+11 Mary shekhan theke kola ta nilo.
+12 Bill dokan a gelo.
+13 Bill kolom ta rekhe dilo.
+14 Mary kola ta rekhe dilo there.
+15 Bill bagan a gelo.
+16 Fred kaaj a gelo.
+17 Fred rannaghor a gelo.
+18 Jeff baranda te gelo.
+19 Fred baranda te gelo.
+20 Mary rannaghor a gelo.
+21 Jeff rannaghor a gelo.
+22 Jeff dokan a gelo.
+23 Bill baranda te gelo.
+24 Mary chad a gelo.
+25 Mary baranda te gelo.
+26 Jeff baranda te gelo.
+27 Bill dokan a gelo.
+28 Bill shekhan the kolom ta nilo.
+29 Mary dokan a gelo.
+30 Bill kolom ta Mary ke dilo.
+31 Bill ki dilo Mary ke? 	kolom	30
+32 Fred rannaghor a gelo.
+33 Bill chad a gelo.
+34 kolom ta ke dilo? 	Bill	30
+35 Jeff chad a gelo.
+36 Mary shekhan theke dudh ta nilo.
+37 Bill ki dilo Mary ke? 	kolom	30
+38 Bill rannaghor a gelo.
+39 Bill baranda te gelo.
+40 Mary dudh ta rekhe dilo.
+41 Mary kolom ta rekhe dilo there.
+42 Fred dokan a gelo.
+43 Fred shekhan the kolom ta nilo.
+44 Bill dokan a gelo.
+45 Fred kolom ta Mary ke dilo.
+46 ke kolom ta Mary ke dilo? 	Fred	45
+47 Fred shekhan theke dudh ta nilo.
+48 Mary kolom ta fred ke dilo.
+49 Mary kolom ta kake dilo? 	Fred	48
+1 Bill bagan a gelo.
+2 Jeff kaaj a gelo.
+3 Fred baranda te gelo.
+4 Jeff shekhan theke kolom ta nilo.
+5 Jeff chad a gelo.
+6 Jeff kolom ta rekhe dilo.
+7 Jeff shekhan theke kola ta nilo.
+8 Jeff shekhan the kolom ta nilo.
+9 Bill chad a gelo.
+10 Jeff kola ta Bill ke dilo.
+11 Jeff ki dilo Bill ke? 	kola	10
+12 Mary dokan a gelo.
+13 Jeff kolom ta rekhe dilo.
+14 kola ta ke nilo? 	Bill	10
+15 Bill kola ta Jeff ke dilo.
+16 Mary shekhan theke dudh ta nilo.
+17 kola ta ke nilo? 	Jeff	15
+18 Jeff kola ta Bill ke dilo.
+19 Bill kola ta Jeff ke dilo.
+20 kola ta ke nilo? 	Jeff	19
+21 Bill baranda te gelo.
+22 Jeff shekhan the kolom ta nilo.
+23 kola ta ke nilo? 	Jeff	19
+1 Fred baranda te gelo.
+2 Fred dokan a gelo.
+3 Fred baranda te gelo
+4 Mary shekhan theke kola ta nilo.
+5 Jeff kaaj a gelo.
+6 Jeff dokan a gelo.
+7 Jeff kaaj a gelo.
+8 Mary dokan a gelo.
+9 Mary chad a gelo.
+10 Mary kola ta rekhe dilo.
+11 Fred kaaj a gelo.
+12 Jeff bagan a gelo.
+13 Jeff kaaj a gelo.
+14 Fred chad a gelo.
+15 Bill bagan a gelo.
+16 Mary shekhan theke kola ta nilo.
+17 Mary kola ta Fred ke dilo.
+18 Jeff shekhan theke kolom ta nilo.
+19 Mary kola ta kake dilo? 	Fred	17
+20 Fredkola ta Mary ke dilo.
+21 Mary kola ta Fred ke dilo.
+22 Mary kola ta kake dilo? 	Fred	21
+23 Jeff shekhan theke dudh ta nilo.
+24 Fredkola ta Mary ke dilo.
+25 Fred ki Dilo Mary ke? 	kola	24
+26 Mary kola ta Fred ke dilo.
+27 Fred baranda te gelo.
+28 Mary ki dilo Fred ke? 	kola	26
+29 Jeff chad a gelo.
+30 Jeff kolom ta Mary ke dilo.
+31 ke kolom ta Mary ke dilo? 	Jeff	30
+1 Mary shekhan theke kola ta nilo.
+2 Mary kola ta rekhe dilo.
+3 Mary shekhan theke kola ta nilo.
+4 Mary kola ta rekhe dilo there.
+5 Fred rannaghor a gelo.
+6 Fred dokan a gelo.
+7 Bill shekhan theke kola ta nilo.
+8 Bill kola ta Mary ke dilo.
+9 Bill ki dilo Mary ke? 	kola	8
+10 Mary kola ta Bill ke dilo.
+11 Jeff baranda te gelo.
+12 Mary ki dilo Bill ke? 	kola	10
+13 Bill kola ta rekhe dilo there.
+14 Bill shekhan theke kola ta nilo.
+15 Mary ki dilo Bill ke? 	kola	10
+16 Bill handed the kola to Mary.
+17 Mary kola ta Bill ke dilo.
+18 Mary kola ta kake dilo? 	Bill	17
+19 Mary bagan a gelo.
+20 Bill dokan a gelo.
+21 kola ta ke dilo?? 	Mary	17
+1 Mary rannaghor a gelo.
+2 Fred rannaghor a gelo.
+3 Jeff bagan a gelo.
+4 Bill dokan a gelo.
+5 Jeff rannaghor a gelo.
+6 Bill shekhan theke kola ta nilo.
+7 Fred dokan a gelo.
+8 Jeff kaaj a gelo.
+9 Bill kola ta Fred ke dilo.
+10 Fred kola ta Bill ke dilo.
+11 Fred kola ta kake dilo? 	Bill	10
+12 Bill kola ta rekhe dilo.
+13 Jeff bagan a gelo.
+14 Fred ki dilo Bill ke? 	kola	10
+15 Bill baranda te gelo.
+16 Fred shekhan theke kola ta nilo.
+17 Fred ki dilo Bill ke? 	kola	10
+18 Mary dokan a gelo.
+19 Fred kola ta rekhe dilo.
+20 Jeff rannaghor a gelo.
+21 Fred shekhan theke kola ta nilo.
+22 Fred kola ta Mary ke dilo.
+23 Mary kola ta Fred ke dilo.
+24 ke kola ta Fred ke dilo. 	Mary	23
+25 Fred kola ta Marye ke dilo.
+26 Bill shekhan theke kolom ta nilo.
+27 Fred ki Dilo Mary ke? 	kola	25
+1 Mary rannaghor a gelo.
+2 Mary chad a gelo.
+3 Jeff rannaghor a gelo.
+4 Jeff dokan a gelo.
+5 Mary baranda te gelo.
+6 Jeff chad a gelo.
+7 Jeff rannaghor a gelo.
+8 Mary dokan a gelo.
+9 Fred rannaghor a gelo.
+10 Bill bagan a gelo.
+11 Jeff dokan a gelo.
+12 Fred shekhan theke kola ta nilo.
+13 Fred kola ta rekhe dilo.
+14 Bill dokan a gelo.
+15 Mary baranda te gelo.
+16 Bill rannaghor a gelo.
+17 Bill dokan a gelo.
+18 Mary kaaj a gelo.
+19 Fred kaaj a gelo.
+20 Mary bagan a gelo.
+21 Fred rannaghor a gelo.
+22 Bill bagan a gelo.
+23 Jeff rannaghor a gelo.
+24 Fred shekhan theke kola ta nilo.
+25 Fred kaaj a gelo.
+26 Mary shekhan theke dudh ta nilo.
+27 Mary dudh ta Bill ke dilo.
+28 Mary dokan a gelo.
+29 Mary ki dilo Bill ke? 	milk	27
+30 Jeff chad a gelo.
+31 Jeff dokan a gelo.
+32 dudh ta ke pelo?? 	Bill	27
+33 Fred kola ta rekhe dilo.
+34 Bill shekhan a kolom ta pelo.
+35 Fred rannaghor a gelo.
+36 Bill kolom ta rekhe dilo.
+37 Bill shekhan theke kolom ta nilo.
+38 Jeff rannaghor a gelo.
+39 Bill dudh ta rekhe dilo.
+40 Jeff baranda te gelo
+41 Bill kolom ta rekhe dilo.
+42 Fred chad a gelo.
+43 Mary rannaghor a gelo.
+44 Mary dokan a gelo.
+45 Fred dokan a gelo.
+46 Bill dokan a gelo.
+47 Jeff bagan a gelo.
+48 Mary rannaghor a gelo.
+49 Mary bagan a gelo.
+50 Fred chad a gelo.
+51 Mary baranda te gelo
+52 Mary dokan a gelo.
+53 Jeff shekhan theke kolom ta nilo.
+54 Jeff shekhan theke dudh ta nilo.
+55 Bill rannaghor a gelo.
+56 Mary bagan a gelo.
+57 Fred rannaghor a gelo.
+58 Jeff kolom ta Mary ke dilo.
+59 kolom ta ke dilo? 	Jeff	58
+60 Bill kaaj a gelo.
+61 Mary baranda te gelo.
+62 Jeff ki dilo Mary ke? 	kolom	58
+63 Fred kaaj a gelo.
+64 Mary chad a gelo.
+65 Jeff kolom ta kake dilo? 	Mary	58
+1 Fred shekhan theke kolom ta nilo.
+2 Fred kolom ta jeff ke dilo.
+3 Fred footbal ta kake dilo? 	Jeff	2
+4 Jeff kolom ta Fred ke dilo.
+5 Fred kaaj a gelo.
+6 Jeff kolom ta kake dilo? 	Fred	4
+7 Mary kaaj a gelo.
+8 Bill dokan a gelo.
+9 kolom ta ke nilo?? 	Fred	4
+10 Fred kolom ta Mary ke dilo.
+11 Jeff rannaghor a gelo.
+12 Fred ki Dilo Mary ke? 	kolom	10
+13 Bill chad a gelo.
+14 Mary kolom ta fred ke dilo.
+15 kolom ta ke nilo?? 	Fred	14
+1 Mary dokan a gelo.
+2 Jeff bagan a gelo.
+3 Jeff baranda te gelo.
+4 Mary shekhan theke dudh ta nilo.
+5 Mary shekhan the kolom ta nilo.
+6 Mary shekhan theke kola ta nilo.
+7 Jeff rannaghor a gelo.
+8 Bill bagan a gelo.
+9 Bill rannaghor a gelo.
+10 Fred bagan a gelo.
+11 Mary kolom ta rekhe dilo.
+12 Mary rannaghor a gelo.
+13 Jeff dokan a gelo.
+14 Bill dokan a gelo.
+15 Bill bagan a gelo.
+16 Fred kaaj a gelo.
+17 Mary dudh ta rekhe dilo.
+18 Bill dokan a gelo.
+19 Mary kaaj a gelo.
+20 Mary dokan a gelo.
+21 Jeff shekhan theke kolom ta nilo.
+22 Mary chad a gelo.
+23 Mary bagan a gelo.
+24 Jeff kolom ta Bill ke dilo
+25 Jeff kolom ta kake dilo? 	Bill	24
+26 Mary rannaghor a gelo.
+27 Bill gave the kolom to Jeff.
+28 kolom ta ke dilo to Jeff? 	Bill	27
+29 Mary kola ta rekhe dilo.
+30 Jeff kolom ta Bill ke dilo.
+31 kolom ta ke dilo? 	Jeff	30
+32 Bill kolom ta jeff ke dilo.
+33 Jeff chad a gelo.
+34 kolom ta ke nilo?? 	Jeff	32
+35 Bill bagan a gelo.
+36 Jeff kolom ta rekhe dilo.
+37 kolom ta ke dilo? 	Bill	32
+1 Mary rannaghor a gelo.
+2 Jeff bagan a gelo.
+3 Mary kaaj a gelo.
+4 Bill shekhan a kolom ta pelo.
+5 Bill kolom ta fred ke dilo.
+6 Jeff kaaj a gelo.
+7 Bill ki dilo Fred ke?? 	kolom	5
+8 Fred kolom ta rekhe dilo.
+9 Bill kaaj a gelo.
+10 ke kolom ta fred ke dilo? 	Bill	5
+11 Fred shekhan a kolom ta pelo.
+12 Mary shekhan theke kola ta nilo.
+13 Mary chad a gelo.
+14 Mary kaaj a gelo.
+15 Fred rannaghor a gelo.
+16 Mary kola ta rekhe dilo.
+17 Bill rannaghor a gelo.
+18 Jeff shekhan theke kola ta nilo.
+19 Jeff kola ta rekhe dilo.
+20 Fred kolom ta Bill ke dilo
+21 Fred footbal ta kake dilo? 	Bill	20
+22 Bill handed the kolom to Fred.
+23 Mary dokan a gelo.
+24 ke kolom ta fred ke dilo? 	Bill	22
+25 Fred kolom ta Bill ke dilo.
+26 Bill kolom ta Fred ke dilo.
+27 kolom ta ke nilo?? 	Fred	26
+1 Mary dokan a gelo.
+2 Fred shekhan theke dudh ta nilo.
+3 Mary rannaghor a gelo.
+4 Fred chad a gelo.
+5 Mary bagan a gelo.
+6 Bill baranda te gelo
+7 Fred dudh ta rakhlo.
+8 Jeff chad a gelo.
+9 Fred bagan a gelo.
+10 Jeff rannaghor a gelo.
+11 Mary chad a gelo.
+12 Mary kaaj a gelo.
+13 Mary shekhan a kolom ta pelo.
+14 Fred baranda te gelo
+15 Jeff shekhan theke kola ta nilo.
+16 Bill kaaj a gelo.
+17 Mary rannaghor a gelo.
+18 Bill baranda te gelo.
+19 Jeffkola ta Mary ke dilo.
+20 Mary kola ta rekhe dilo.
+21 Jeff ki dilo Mary ke? 	kola	19
+22 Jeff shekhan theke kola ta nilo.
+23 Jeff kola ta Mary ke dilo.
+24 kola ta ke dilo?? 	Jeff	23
+25 Fred dokan a gelo.
+26 Mary kola ta Jeff ke dilo.
+27 kola ta ke dilo?? 	Mary	26
+28 Jeff kola ta Mary ke dilo.
+29 Mary kola ta Jeff ke dilo.
+30 Mary ki dilo Jeff ke? 	kola	29
+31 Jeff handed the kola to Mary.
+32 Mary baranda te gelo.
+33 Jeff ki dilo Mary ke? 	kola	31
+1 Mary dokan a gelo.
+2 Fred dokan a gelo.
+3 Jeff chad a gelo.
+4 Bill dokan a gelo.
+5 Fred baranda te gelo.
+6 Jeff shekhan theke kola ta nilo.
+7 Bill rannaghor a gelo.
+8 Fred chad a gelo.
+9 Fred baranda te gelo.
+10 Fred kaaj a gelo.
+11 Bill bagan a gelo.
+12 Mary rannaghor a gelo.
+13 Jeff shekhan a kolom ta pelo.
+14 Mary shekhan theke dudh ta nilo.
+15 Jeff kaaj a gelo.
+16 Jeff kola ta Fred ke dilo.
+17 Jeff ki dilo Fred ke? 	kola	16
+18 Mary kaaj a gelo.
+19 Fredkola ta Mary ke dilo.
+20 Fred ki Dilo Mary ke? 	kola	19
+21 Jeff kolom ta rekhe dilo.
+22 Jeff rannaghor a gelo.
+23 Fred ki Dilo Mary ke? 	kola	19
+24 Mary kola ta rekhe dilo.
+25 Fred shekhan theke kola ta nilo.
+26 Fred kola ta kake dilo? 	Mary	19
+27 Fred shekhan the kolom ta nilo.
+28 Mary dudh ta rekhe dilo.
+29 Fred kola ta Mary ke dilo.
+30 Jeff bagan a gelo.
+31 Fred ki Dilo Mary ke? 	kola	29
+1 Fred shekhan theke dudh ta nilo.
+2 Fred chad a gelo.
+3 Bill chad a gelo.
+4 Fred dudh ta Bill ke dilo.
+5 dudh ta ke dilo? to Bill? 	Fred	4
+6 Bill shekhan theke kolom ta nilo.
+7 Bill handed the kolom to Fred.
+8 ke did Bill give the kolom to? 	Fred	7
+9 Fred kolom ta rekhe dilo.
+10 Bill shekhan the kolom ta nilo.
+11 Fred ki dilo Bill ke? 	milk	4
+12 Bill kolom ta Fred ke dilo.
+13 Fred kolom ta Bill ke dilo
+14 kolom ta ke nilo?? 	Bill	13
+15 Bill kolom ta rekhe dilo.
+16 Fred shekhan theke kolom ta nilo.
+17 Fred ki dilo Bill ke? 	kolom	13
+1 Fred shekhan theke kolom ta nilo.
+2 Jeff dokan a gelo.
+3 Fred kolom ta rekhe dilo.
+4 Mary shekhan theke kola ta nilo.
+5 Mary kola ta rekhe dilo.
+6 Fred dokan a gelo.
+7 Mary shekhan theke kola ta nilo.
+8 Jeff bagan a gelo.
+9 Mary kola ta rekhe dilo.
+10 Mary shekhan theke kola ta nilo.
+11 Fred chad a gelo.
+12 Mary kola ta rekhe dilo.
+13 Mary baranda te gelo.
+14 Fred rannaghor a gelo.
+15 Bill rannaghor a gelo.
+16 Jeff dokan a gelo.
+17 Fred baranda te gelo
+18 Jeff bagan a gelo.
+19 Jeff rannaghor a gelo.
+20 Jeff baranda te gelo.
+21 Jeff kaaj a gelo.
+22 Bill shekhan theke kola ta nilo.
+23 Bill kola ta rekhe dilo.
+24 Bill shekhan theke kola ta nilo.
+25 Bill kola ta rekhe dilo.
+26 Mary chad a gelo.
+27 Fred rannaghor a gelo.
+28 Bill chad a gelo.
+29 Fred bagan a gelo.
+30 Jeff shekhan theke dudh ta nilo.
+31 Jeff dudh ta rekhe dilo.
+32 Jeff shekhan a kolom ta pelo.
+33 Bill kaaj a gelo.
+34 Jeff kolom ta Bill ke dilo.
+35 Jeff ki dilo Bill ke? 	kolom	34
+36 Bill kolom ta rekhe dilo.
+37 Jeff shekhan theke dudh ta nilo.
+38 Jeff ki dilo Bill ke? 	kolom	34
+39 Jeff dudh ta rekhe dilo.
+40 Fred kaaj a gelo.
+41 kolom ta ke dilo? 	Jeff	34
+42 Jeff shekhan theke dudh ta nilo.
+43 Jeff shekhan the kolom ta nilo.
+44 Bill dokan a gelo.
+45 Jeff rannaghor a gelo.
+46 Bill rannaghor a gelo.
+47 Jeff kolom ta Bill ke dilo.
+48 Jeff kolom ta kake dilo? 	Bill	47
+49 Jeff chad a gelo.
+50 Jeff dudh ta Mary ke dilo.
+51 Jeff ki dilo Bill ke? 	kolom	47
+1 Bill bagan a gelo.
+2 Bill rannaghor a gelo.
+3 Mary bagan a gelo.
+4 Jeff bagan a gelo.
+5 Jeff baranda te gelo
+6 Bill chad a gelo.
+7 Mary baranda te gelo
+8 Mary kaaj a gelo.
+9 Jeff kaaj a gelo.
+10 Bill baranda te gelo
+11 Mary chad a gelo.
+12 Jeff chad a gelo.
+13 Mary bagan a gelo.
+14 Fred baranda te gelo.
+15 Mary kaaj a gelo.
+16 Bill dokan a gelo.
+17 Fred dokan a gelo.
+18 Mary rannaghor a gelo.
+19 Fred baranda te gelo
+20 Mary kaaj a gelo.
+21 Mary bagan a gelo.
+22 Fred kaaj a gelo.
+23 Jeff dokan a gelo.
+24 Bill kaaj a gelo.
+25 Fred rannaghor a gelo.
+26 Fred baranda te gelo.
+27 Fred dokan a gelo.
+28 Fred chad a gelo.
+29 Mary dokan a gelo.
+30 Jeff kaaj a gelo.
+31 Fred kaaj a gelo.
+32 Mary chad a gelo.
+33 Fred chad a gelo.
+34 Jeff rannaghor a gelo.
+35 Mary dokan a gelo.
+36 Fred kaaj a gelo.
+37 Mary chad a gelo.
+38 Mary kaaj a gelo.
+39 Mary baranda te gelo.
+40 Mary dokan a gelo.
+41 Bill baranda te gelo.
+42 Bill rannaghor a gelo.
+43 Jeff dokan a gelo.
+44 Fred bagan a gelo.
+45 Bill kaaj a gelo.
+46 Fred dokan a gelo.
+47 Bill rannaghor a gelo.
+48 Jeff bagan a gelo.
+49 Fred chad a gelo.
+50 Fred rannaghor a gelo.
+51 Fred chad a gelo.
+52 Mary baranda te gelo.
+53 Fred bagan a gelo.
+54 Mary shekhan theke kola ta nilo.
+55 Mary kola ta rekhe dilo.
+56 Bill bagan a gelo.
+57 Mary dokan a gelo.
+58 Jeff chad a gelo.
+59 Fred kaaj a gelo.
+60 Bill rannaghor a gelo.
+61 Mary kaaj a gelo.
+62 Mary bagan a gelo.
+63 Bill bagan a gelo.
+64 Mary baranda te gelo.
+65 Bill kaaj a gelo.
+66 Mary chad a gelo.
+67 Fred rannaghor a gelo.
+68 Mary bagan a gelo.
+69 Bill baranda te gelo
+70 Bill shekhan the kolom ta nilo.
+71 Fred dokan a gelo.
+72 Bill kolom ta rekhe dilo.
+73 Jeff rannaghor a gelo.
+74 Bill bagan a gelo.
+75 Mary baranda te gelo.
+76 Mary chad a gelo.
+77 Mary dokan a gelo.
+78 Fred chad a gelo.
+79 Fred rannaghor a gelo.
+80 Fred kaaj a gelo.
+81 Jeff bagan a gelo.
+82 Bill kaaj a gelo.
+83 Mary bagan a gelo.
+84 Bill rannaghor a gelo.
+85 Fred dokan a gelo.
+86 Mary baranda te gelo.
+87 Jeff rannaghor a gelo.
+88 Fred bagan a gelo.
+89 Fred kaaj a gelo.
+90 Mary shekhan theke kolom ta nilo.
+91 Bill chad a gelo.
+92 Mary chad a gelo.
+93 Mary kolom ta Bill ke dilo.
+94 Bill baranda te gelo.
+95 Mary ki dilo Bill ke? 	kolom	93
+96 Fred baranda te gelo.
+97 Jeff baranda te gelo.
+98 Mary kolom ta kake dilo? 	Bill	93
+99 Jeff shekhan theke dudh ta nilo.
+100 Bill kolom ta fred ke dilo.
+101 Bill ki dilo Fred ke?? 	kolom	100
+102 Jeff dokan a gelo.
+103 Fred kolom ta Bill ke dilo.
+104 kolom ta ke nilo?? 	Bill	103
+105 Bill kolom ta fred ke dilo.
+106 Fred shekhan theke kola ta nilo.
+107 kolom ta ke nilo?? 	Fred	105
+1 Jeff chad a gelo.
+2 Bill chad a gelo.
+3 Fred bagan a gelo.
+4 Bill rannaghor a gelo.
+5 Fred shekhan theke dudh ta nilo.
+6 Bill chad a gelo.
+7 Jeff bagan a gelo.
+8 Fred dudh ta Jeff ke dilo.
+9 dudh ta ke pelo?? 	Jeff	8
+10 Jeff dokan a gelo.
+11 Mary bagan a gelo.
+12 dudh ta ke dilo?? 	Fred	8
+13 Fred dokan a gelo.
+14 Jeff dudh ta Fred ke dilo.
+15 dudh ta ke dilo?? 	Jeff	14
+16 Jeff kaaj a gelo.
+17 Fred dudh ta rakhlo.
+18 Fred ke dudh ke dilo? 	Jeff	14
+19 Mary shekhan theke kola ta nilo.
+20 Mary dokan a gelo.
+21 Jeff dudh ta kake dilo? 	Fred	14
+1 Jeff rannaghor a gelo.
+2 Bill chad a gelo.
+3 Jeff shekhan theke dudh ta nilo.
+4 Fred dokan a gelo.
+5 Jeff dudh ta Mary ke dilo.
+6 Mary dudh ta rekhe dilo.
+7 dudh ta ke dilo?? 	Jeff	5
+8 Mary chad a gelo.
+9 Jeff shekhan theke dudh ta nilo.
+10 dudh ta ke dilo? to Mary? 	Jeff	5
+11 Mary bagan a gelo.
+12 Jeff baranda te gelo.
+13 Fred bagan a gelo.
+14 Fred shekhan the kolom ta nilo.
+15 Fred kolom ta rekhe dilo.
+16 Mary dokan a gelo.
+17 Jeff dudh ta rekhe dilo.
+18 Fred rannaghor a gelo.
+19 Mary kaaj a gelo.
+20 Fred bagan a gelo.
+21 Fred rannaghor a gelo.
+22 Mary rannaghor a gelo.
+23 Bill dokan a gelo.
+24 Mary dokan a gelo.
+25 Mary rannaghor a gelo.
+26 Jeff shekhan theke dudh ta nilo.
+27 Fred kaaj a gelo.
+28 Jeff dudh ta rakhlo.
+29 Jeff bagan a gelo.
+30 Jeff shekhan theke kolom ta nilo.
+31 Fred baranda te gelo
+32 Fred kaaj a gelo.
+33 Jeff kolom ta rekhe dilo.
+34 Bill bagan a gelo.
+35 Jeff shekhan theke kolom ta nilo.
+36 Bill shekhan theke kola ta nilo.
+37 Fred chad a gelo.
+38 Fred bagan a gelo.
+39 Bill kola ta Fred ke dilo.
+40 Fred kola ta Bill ke dilo.
+41 kola ta ke nilo? 	Bill	40
+42 Bill kola ta rekhe dilo.
+43 Jeff kolom ta rekhe dilo.
+44 kola ta ke dilo? to Bill? 	Fred	40
+45 Bill shekhan theke kolom ta nilo.
+46 Jeff shekhan theke kola ta nilo.
+47 Fred kola ta kake dilo? 	Bill	40
+1 Jeff shekhan the kolom ta nilo.
+2 Mary shekhan theke kola ta nilo.
+3 Jeff kolom ta rekhe dilo.
+4 Bill shekhan theke dudh ta nilo.
+5 Jeff shekhan theke kolom ta nilo.
+6 Mary chad a gelo.
+7 Bill dudh ta Fred ke dilo.
+8 Fred dudh ta Bill ke dilo.
+9 dudh ta ke dilo?? 	Fred	8
+10 Bill dudh ta rekhe dilo.
+11 Jeff kolom ta rekhe dilo.
+12 Fred ki dilo Bill ke? 	milk	8
+13 Bill shekhan theke dudh ta nilo.
+14 Jeff shekhan a kolom ta pelo.
+15 ke did Fred give the milk to? 	Bill	8
+16 Bill dudh ta Fred ke dilo.
+17 Fred dudh ta Bill ke dilo.
+18 dudh ta ke dilo? to Bill? 	Fred	17
+19 Bill dudh ta Fred ke dilo.
+20 Mary kola ta rekhe dilo.
+21 Bill ki dilo Fred ke?? 	milk	19
+1 Mary bagan a gelo.
+2 Bill kaaj a gelo.
+3 Jeff bagan a gelo.
+4 Fred rannaghor a gelo.
+5 Bill shekhan theke kola ta nilo.
+6 Fred bagan a gelo.
+7 Bill kola ta rekhe dilo.
+8 Fred kaaj a gelo.
+9 Bill chad a gelo.
+10 Fred dokan a gelo.
+11 Bill baranda te gelo.
+12 Mary shekhan the kolom ta nilo.
+13 Jeff shekhan theke dudh ta nilo.
+14 Jeff dudh ta rekhe dilo.
+15 Bill rannaghor a gelo.
+16 Mary kolom ta rekhe dilo there.
+17 Mary rannaghor a gelo.
+18 Fred chad a gelo.
+19 Jeff shekhan theke kolom ta nilo.
+20 Jeff kolom ta rekhe dilo.
+21 Bill kaaj a gelo.
+22 Bill shekhan theke kola ta nilo.
+23 Bill dokan a gelo.
+24 Bill kaaj a gelo.
+25 Bill kola ta rekhe dilo.
+26 Bill baranda te gelo.
+27 Bill kaaj a gelo.
+28 Mary chad a gelo.
+29 Bill shekhan theke kola ta nilo.
+30 Jeff shekhan theke dudh ta nilo.
+31 Jeff chad a gelo.
+32 Jeff dudh ta Mary ke dilo.
+33 dudh ta ke dilo? to Mary? 	Jeff	32
+34 Mary dudh ta Fred ke dilo.
+35 Bill baranda te gelo.
+36 Mary kake dudh dilo? 	Fred	34
+37 Bill kola ta rekhe dilo.
+38 Fred dudh ta Mary ke dilo.
+39 Fred ki Dilo Mary ke? 	milk	38
+40 Mary dudh ta Fred ke dilo.
+41 Mary baranda te gelo
+42 dudh ta ke pelo?? 	Fred	40
+43 Fred dudh ta rekhe dilo.
+44 Mary chad a gelo.
+45 Mary ki dilo Fred ke? 	milk	40
+1 Mary shekhan theke kolom ta nilo.
+2 Fred rannaghor a gelo.
+3 Mary dokan a gelo.
+4 Bill baranda te gelo
+5 Fred shekhan theke dudh ta nilo.
+6 Bill chad a gelo.
+7 Jeff dokan a gelo.
+8 Mary kolom ta jeff ke dilo.
+9 Mary ki dilo Jeff ke? 	kolom	8
+10 Jeff kolom ta Mary ke dilo.
+11 Fred baranda te gelo
+12 ke kolom ta Mary ke dilo? 	Jeff	10
+13 Mary baranda te gelo.
+14 Mary kolom ta Fred ke dilo.
+15 Mary kolom ta kake dilo? 	Fred	14
+16 Fred kolom ta Mary ke dilo.
+17 Bill baranda te gelo.
+18 kolom ta ke nilo?? 	Mary	16
+19 Mary kolom ta rekhe dilo.
+20 Fred dudh ta rekhe dilo.
+21 kolom ta ke nilo?? 	Mary	16
+1 Bill shekhan the kolom ta nilo.
+2 Fred chad a gelo.
+3 Bill kolom ta fred ke dilo.
+4 Fred kolom ta Bill ke dilo
+5 ke kolom ta Bill ke dilo? 	Fred	4
+6 Bill kolom ta Fred ke dilo.
+7 Fred kolom ta Bill ke dilo.
+8 Fred ki dilo Bill ke? 	kolom	7
+9 Bill kolom ta rekhe dilo there.
+10 Bill shekhan theke kolom ta nilo.
+11 kolom ta ke nilo?? 	Bill	7
+12 Bill kolom ta fred ke dilo.
+13 Fred kolom ta Bill ke dilo.
+14 kolom ta ke nilo?? 	Bill	13
+15 Jeff bagan a gelo.
+16 Bill handed the kolom to Fred.
+17 Bill ki dilo Fred ke?? 	kolom	16
+1 Mary bagan a gelo.
+2 Fred rannaghor a gelo.
+3 Fred shekhan theke kola ta nilo.
+4 Fred kaaj a gelo.
+5 Bill chad a gelo.
+6 Mary dokan a gelo.
+7 Fred kola ta rekhe dilo.
+8 Mary rannaghor a gelo.
+9 Fred baranda te gelo.
+10 Jeff rannaghor a gelo.
+11 Bill baranda te gelo
+12 Jeff chad a gelo.
+13 Fred chad a gelo.
+14 Mary chad a gelo.
+15 Bill kaaj a gelo.
+16 Fred dokan a gelo.
+17 Bill dokan a gelo.
+18 Fred rannaghor a gelo.
+19 Mary bagan a gelo.
+20 Mary shekhan a kolom ta pelo.
+21 Mary kolom ta rekhe dilo.
+22 Fred baranda te gelo.
+23 Bill shekhan theke dudh ta nilo.
+24 Mary shekhan theke kolom ta nilo.
+25 Mary rannaghor a gelo.
+26 Mary dokan a gelo.
+27 Fred bagan a gelo.
+28 Mary kolom ta Bill ke dilo.
+29 Mary ki dilo Bill ke? 	kolom	28
+30 Bill kolom ta Mary ke dilo.
+31 Mary kolom ta Bill ke dilo.
+32 kolom ta ke dilo? 	Mary	31
+33 Jeff kaaj a gelo.
+34 Bill chad a gelo.
+35 Mary ki dilo Bill ke? 	kolom	31
+36 Mary bagan a gelo.
+37 Bill dudh ta rekhe dilo there.
+38 ke kolom ta Bill ke dilo? 	Mary	31
+39 Jeff shekhan theke kola ta nilo.
+40 Bill kolom ta rekhe dilo.
+41 Jeff kola ta rekhe dilo.
+42 Bill rannaghor a gelo.
+43 Jeff dokan a gelo.
+44 Bill bagan a gelo.
+45 Fred rannaghor a gelo.
+46 Fred baranda te gelo
+47 Fred dokan a gelo.
+48 Mary kaaj a gelo.
+49 Bill kaaj a gelo.
+50 Mary bagan a gelo.
+51 Jeff chad a gelo.
+52 Mary dokan a gelo.
+53 Bill baranda te gelo.
+54 Fred baranda te gelo.
+55 Bill kaaj a gelo.
+56 Jeff shekhan a kolom ta pelo.
+57 Mary kaaj a gelo.
+58 Mary rannaghor a gelo.
+59 Jeff shekhan theke dudh ta nilo.
+60 Fred dokan a gelo.
+61 Fred rannaghor a gelo.
+62 Bill chad a gelo.
+63 Jeff dudh ta rakhlo.
+64 Jeff kolom ta Bill ke dilo.
+65 Jeff ki dilo Bill ke? 	kolom	64
+1 Mary rannaghor a gelo.
+2 Bill bagan a gelo.
+3 Mary shekhan the kolom ta nilo.
+4 Jeff dokan a gelo.
+5 Jeff shekhan theke kola ta nilo.
+6 Fred chad a gelo.
+7 Jeff rannaghor a gelo.
+8 Jeff kola ta Mary ke dilo.
+9 Jeff kola ta kake dilo?? 	Mary	8
+10 Mary kolom ta rekhe dilo there.
+11 Mary kola ta rekhe dilo.
+12 kola ta ke dilo?? 	Jeff	8
+13 Mary shekhan theke kola ta nilo.
+14 Mary shekhan theke kolom ta nilo.
+15 Jeff ki dilo Mary ke? 	kola	8
+16 Mary kola ta Jeff ke dilo.
+17 Jeff handed the kola to Mary.
+18 kola ta ke dilo? to Mary? 	Jeff	17
+19 Mary kola ta Jeff ke dilo.
+20 Jeff kola ta Mary ke dilo.
+21 kola ta ke dilo?? 	Jeff	20
+1 Bill shekhan theke dudh ta nilo.
+2 Bill dudh ta rekhe dilo.
+3 Fred shekhan theke dudh ta nilo.
+4 Jeff dokan a gelo.
+5 Fred shekhan the kolom ta nilo.
+6 Fred kolom ta Bill ke dilo.
+7 kolom ta ke nilo?? 	Bill	6
+8 Bill kolom ta fred ke dilo.
+9 Fred kaaj a gelo.
+10 kolom ta ke dilo? 	Bill	8
+11 Mary baranda te gelo
+12 Mary shekhan theke kola ta nilo.
+13 kolom ta ke nilo?? 	Fred	8
+14 Mary kola ta rekhe dilo.
+15 Bill chad a gelo.
+16 Mary shekhan theke kola ta nilo.
+17 Mary kola ta rekhe dilo.
+18 Bill dokan a gelo.
+19 Fred chad a gelo.
+20 Mary shekhan theke kola ta nilo.
+21 Fred kolom ta rekhe dilo.
+22 Fred rannaghor a gelo.
+23 Mary kola ta rekhe dilo there.
+24 Mary shekhan theke kola ta nilo.
+25 Mary kola ta rekhe dilo.
+26 Bill bagan a gelo.
+27 Mary shekhan theke kola ta nilo.
+28 Fred dudh ta rakhlo.
+29 Bill rannaghor a gelo.
+30 Mary kola ta rekhe dilo.
+31 Jeff chad a gelo.
+32 Jeff dokan a gelo.
+33 Jeff baranda te gelo.
+34 Fred shekhan theke dudh ta nilo.
+35 Fred dudh ta Bill ke dilo.
+36 Fred ki dilo Bill ke? 	milk	35
+37 Mary shekhan theke kola ta nilo.
+38 Mary kola ta Jeff ke dilo.
+39 Mary ki dilo Jeff ke? 	kola	38
+1 Mary dokan a gelo.
+2 Jeff kaaj a gelo.
+3 Fred rannaghor a gelo.
+4 Jeff baranda te gelo.
+5 Fred chad a gelo.
+6 Mary chad a gelo.
+7 Mary shekhan theke dudh ta nilo.
+8 Mary baranda te gelo.
+9 Mary dudh ta Jeff ke dilo.
+10 Jeff dudh ta Mary ke dilo.
+11 Jeff ki dilo Mary ke? 	milk	10
+12 Fred bagan a gelo.
+13 Bill baranda te gelo
+14 Jeff ki dilo Mary ke? 	milk	10
+15 Mary shekhan the kolom ta nilo.
+16 Mary kolom ta Bill ke dilo.
+17 dudh ta ke dilo?? 	Jeff	10
+18 Jeff dokan a gelo.
+19 Fred baranda te gelo.
+20 Mary kolom ta kake dilo? 	Bill	16
+21 Bill shekhan theke kola ta nilo.
+22 Mary dudh ta rekhe dilo.
+23 Mary ki dilo Bill ke? 	kolom	16
+1 Fred baranda te gelo.
+2 Bill bagan a gelo.
+3 Bill shekhan theke dudh ta nilo.
+4 Mary dokan a gelo.
+5 Bill dudh ta Jeff ke dilo.
+6 Jeff dudh ta Bill ke dilo.
+7 dudh ta ke dilo?? 	Jeff	6
+8 Mary kaaj a gelo.
+9 Bill rannaghor a gelo.
+10 dudh ta ke pelo?? 	Bill	6
+11 Bill dudh ta rekhe dilo.
+12 Mary bagan a gelo.
+13 dudh ta ke dilo? to Bill? 	Jeff	6
+14 Fred bagan a gelo.
+15 Bill chad a gelo.
+16 Mary dokan a gelo.
+17 Bill bagan a gelo.
+18 Mary kaaj a gelo.
+19 Fred dokan a gelo.
+20 Mary shekhan a kolom ta pelo.
+21 Fred baranda te gelo.
+22 Mary kolom ta rekhe dilo.
+23 Jeff chad a gelo.
+24 Bill rannaghor a gelo.
+25 Mary shekhan theke kolom ta nilo.
+26 Jeff dokan a gelo.
+27 Jeff chad a gelo.
+28 Fred dokan a gelo.
+29 Jeff kaaj a gelo.
+30 Mary kolom ta rekhe dilo.
+31 Jeff shekhan a kolom ta pelo.
+32 Jeff dokan a gelo.
+33 Jeff kolom ta fred ke dilo.
+34 Jeff ki dilo Fred ke? 	kolom	33
+35 Fred kolom ta jeff ke dilo.
+36 Fred baranda te gelo.
+37 kolom ta ke dilo to Jeff? 	Fred	35
+1 Jeff baranda te gelo
+2 Jeff dokan a gelo.
+3 Fred rannaghor a gelo.
+4 Fred shekhan theke kolom ta nilo.
+5 Bill shekhan theke kola ta nilo.
+6 Billkola ta Mary ke dilo.
+7 kola ta ke nilo? 	Mary	6
+8 Fred chad a gelo.
+9 Mary bagan a gelo.
+10 Bill ki dilo Mary ke? 	kola	6
+11 Fred kaaj a gelo.
+12 Jeff shekhan theke dudh ta nilo.
+13 kola ta ke dilo?? 	Bill	6
+14 Jeff chad a gelo.
+15 Jeff dudh ta Bill ke dilo.
+16 dudh ta ke pelo?? 	Bill	15
+17 Bill dudh ta Jeff ke dilo.
+18 Jeff dudh ta Bill ke dilo.
+19 Jeff ki dilo Bill ke? 	milk	18
+1 Bill shekhan theke dudh ta nilo.
+2 Fred rannaghor a gelo.
+3 Mary kaaj a gelo.
+4 Jeff shekhan theke kola ta nilo.
+5 Jeffkola ta Mary ke dilo.
+6 Fred baranda te gelo
+7 kola ta ke nilo? 	Mary	5
+8 Mary kola ta rekhe dilo.
+9 Bill dudh ta Fred ke dilo.
+10 kola ta ke dilo?? 	Jeff	5
+11 Fred dudh ta Bill ke dilo.
+12 Fred kaaj a gelo.
+13 dudh ta ke dilo? to Bill? 	Fred	11
+14 Mary shekhan theke kola ta nilo.
+15 Jeff chad a gelo.
+16 dudh ta ke dilo? to Bill? 	Fred	11
+17 Mary kola ta Fred ke dilo.
+18 Bill chad a gelo.
+19 Mary ki dilo Fred ke? 	kola	17
+1 Fred dokan a gelo.
+2 Fred shekhan theke kola ta nilo.
+3 Mary shekhan theke dudh ta nilo.
+4 Fred shekhan theke kolom ta nilo.
+5 Mary dudh ta rekhe dilo.
+6 Bill baranda te gelo.
+7 Mary chad a gelo.
+8 Fred kola ta rekhe dilo.
+9 Mary baranda te gelo.
+10 Bill shekhan theke dudh ta nilo.
+11 Bill bagan a gelo.
+12 Fred shekhan theke kola ta nilo.
+13 Mary dokan a gelo.
+14 Fred rannaghor a gelo.
+15 Fred dokan a gelo.
+16 Fred kola ta rekhe dilo.
+17 Fred kolom ta rekhe dilo.
+18 Jeff bagan a gelo.
+19 Fred shekhan theke kola ta nilo.
+20 Bill dudh ta rekhe dilo.
+21 Fred kola ta Marye ke dilo.
+22 Mary kola ta Fred ke dilo.
+23 Mary kola ta kake dilo? 	Fred	22
+24 Bill shekhan theke dudh ta nilo.
+25 Fred shekhan theke kolom ta nilo.
+26 Mary ki dilo Fred ke? 	kola	22
+27 Bill dudh ta rekhe dilo.
+28 Fredkola ta Mary ke dilo.
+29 Fred ki Dilo Mary ke? 	kola	28
+30 Mary rannaghor a gelo.
+31 Fred kolom ta rekhe dilo there.
+32 kola ta ke dilo?? 	Fred	28
+33 Jeff dokan a gelo.
+34 Bill shekhan theke dudh ta nilo.
+35 Fred ki Dilo Mary ke? 	kola	28
+1 Bill rannaghor a gelo.
+2 Jeff shekhan theke kola ta nilo.
+3 Jeff handed the kola to Mary.
+4 Mary kola ta Bill ke dilo.
+5 Mary kola ta kake dilo? 	Bill	4
+6 Mary baranda te gelo.
+7 Bill kola ta Jeff ke dilo.
+8 kola ta ke nilo? 	Jeff	7
+9 Jeff kola ta Bill ke dilo.
+10 Bill kola ta Jeff ke dilo.
+11 Bill ki dilo Jeff ke? 	kola	10
+12 Bill baranda te gelo
+13 Mary rannaghor a gelo.
+14 Bill ki dilo Jeff ke? 	kola	10
+15 Jeff kola ta Mary ke dilo.
+16 Mary kola ta rekhe dilo there.
+17 kola ta ke dilo? to Mary? 	Jeff	15
+1 Jeff bagan a gelo.
+2 Mary kaaj a gelo.
+3 Jeff shekhan theke dudh ta nilo.
+4 Mary dokan a gelo.
+5 Jeff baranda te gelo.
+6 Jeff dokan a gelo.
+7 Fred bagan a gelo.
+8 Jeff dudh ta Mary ke dilo.
+9 Jeff dudh ta kake dilo? 	Mary	8
+10 Mary dudh ta Bill ke dilo.
+11 Jeff baranda te gelo.
+12 Mary kake dudh dilo? 	Bill	10
+13 Jeff shekhan theke kola ta nilo.
+14 Jeff kola ta rekhe dilo.
+15 dudh ta ke dilo?? 	Mary	10
+16 Bill dudh ta Mary ke dilo.
+17 Mary dudh ta Bill ke dilo.
+18 dudh ta ke dilo?? 	Mary	17
+19 Fred kaaj a gelo.
+20 Bill dudh ta Mary ke dilo.
+21 Bill ki dilo Mary ke? 	milk	20
+1 Bill baranda te gelo
+2 Jeff chad a gelo.
+3 Bill rannaghor a gelo.
+4 Mary kaaj a gelo.
+5 Fred bagan a gelo.
+6 Mary shekhan theke dudh ta nilo.
+7 Fred shekhan theke kola ta nilo.
+8 Jeff kaaj a gelo.
+9 Mary dudh ta Jeff ke dilo.
+10 Fred kola ta rekhe dilo there.
+11 dudh ta ke dilo?? 	Mary	9
+12 Fred dokan a gelo.
+13 Jeff dudh ta Mary ke dilo.
+14 Jeff dudh ta kake dilo? 	Mary	13
+15 Mary dudh ta Jeff ke dilo.
+16 Fred baranda te gelo.
+17 Mary ki dilo Jeff ke? 	milk	15
+18 Fred dokan a gelo.
+19 Jeff dudh ta Mary ke dilo.
+20 Jeff dudh ta kake dilo? 	Mary	19
+21 Mary dudh ta Jeff ke dilo.
+22 Jeff dudh ta Mary ke dilo.
+23 Jeff ki dilo Mary ke? 	milk	22
+1 Bill chad a gelo.
+2 Bill baranda te gelo.
+3 Bill dokan a gelo.
+4 Bill bagan a gelo.
+5 Bill shekhan theke kola ta nilo.
+6 Bill rannaghor a gelo.
+7 Mary dokan a gelo.
+8 Mary chad a gelo.
+9 Fred dokan a gelo.
+10 Bill kola ta rekhe dilo.
+11 Jeff bagan a gelo.
+12 Mary bagan a gelo.
+13 Jeff baranda te gelo.
+14 Bill shekhan theke kola ta nilo.
+15 Bill chad a gelo.
+16 Mary shekhan theke kolom ta nilo.
+17 Bill kola ta rekhe dilo.
+18 Mary kaaj a gelo.
+19 Mary kolom ta rekhe dilo.
+20 Jeff rannaghor a gelo.
+21 Jeff kaaj a gelo.
+22 Jeff rannaghor a gelo.
+23 Jeff chad a gelo.
+24 Bill shekhan theke kola ta nilo.
+25 Mary shekhan the kolom ta nilo.
+26 Bill kola ta Jeff ke dilo.
+27 Bill kake kola ta dilo? 	Jeff	26
+28 Jeff kaaj a gelo.
+29 Mary kolom ta rekhe dilo.
+30 kola ta ke nilo? 	Jeff	26
+31 Jeffkola ta Mary ke dilo.
+32 Mary bagan a gelo.
+33 kola ta ke dilo? to Mary? 	Jeff	31
+34 Mary dokan a gelo.
+35 Mary kola ta rekhe dilo.
+36 Jeff ki dilo Mary ke? 	kola	31
+37 Fred shekhan theke kola ta nilo.
+38 Fred kola ta Mary ke dilo.
+39 kola ta ke dilo?? 	Fred	38
+1 Mary chad a gelo.
+2 Jeff shekhan theke kola ta nilo.
+3 Jeff kola ta rekhe dilo.
+4 Fred baranda te gelo
+5 Mary shekhan theke kola ta nilo.
+6 Mary kola ta Jeff ke dilo.
+7 Mary kola ta kake dilo? 	Jeff	6
+8 Jeff kaaj a gelo.
+9 Jeff chad a gelo.
+10 Mary ki dilo Jeff ke? 	kola	6
+11 Jeffkola ta Mary ke dilo.
+12 Jeff kaaj a gelo.
+13 Jeff kola ta kake dilo?? 	Mary	11
+14 Fred rannaghor a gelo.
+15 Mary bagan a gelo.
+16 Jeff ki dilo Mary ke? 	kola	11
+17 Mary kola ta Bill ke dilo.
+18 Jeff chad a gelo.
+19 kola ta ke dilo?? 	Mary	17
+1 Jeff baranda te gelo.
+2 Jeff kaaj a gelo.
+3 Jeff dokan a gelo.
+4 Jeff kaaj a gelo.
+5 Fred bagan a gelo.
+6 Bill rannaghor a gelo.
+7 Fred shekhan theke kolom ta nilo.
+8 Jeff bagan a gelo.
+9 Fred dokan a gelo.
+10 Jeff shekhan theke kola ta nilo.
+11 Fred kolom ta rekhe dilo.
+12 Mary chad a gelo.
+13 Mary dokan a gelo.
+14 Jeff kola ta rekhe dilo.
+15 Mary shekhan the kolom ta nilo.
+16 Jeff shekhan theke kola ta nilo.
+17 Bill bagan a gelo.
+18 Jeff kola ta Bill ke dilo.
+19 Jeff ki dilo Bill ke? 	kola	18
+20 Bill kola ta Jeff ke dilo.
+21 Jeff kola ta Bill ke dilo.
+22 kola ta ke dilo?? 	Jeff	21
+23 Bill kola ta Jeff ke dilo.
+24 Jeff kola ta Bill ke dilo.
+25 Jeff ki dilo Bill ke? 	kola	24
+26 Jeff dokan a gelo.
+27 Mary kolom ta rekhe dilo.
+28 kola ta ke dilo?? 	Jeff	24
+29 Bill kola ta rekhe dilo.
+30 Jeff shekhan a kolom ta pelo.
+31 Jeff ki dilo Bill ke? 	kola	24
+1 Mary rannaghor a gelo.
+2 Mary kaaj a gelo.
+3 Bill chad a gelo.
+4 Bill shekhan theke kola ta nilo.
+5 Mary rannaghor a gelo.
+6 Bill rannaghor a gelo.
+7 Bill kola ta rekhe dilo.
+8 Bill shekhan theke kola ta nilo.
+9 Bill kola ta rekhe dilo.
+10 Fred rannaghor a gelo.
+11 Fred bagan a gelo.
+12 Jeff bagan a gelo.
+13 Jeff rannaghor a gelo.
+14 Bill dokan a gelo.
+15 Fred rannaghor a gelo.
+16 Jeff shekhan theke kola ta nilo.
+17 Jeffkola ta Mary ke dilo.
+18 Bill shekhan theke kolom ta nilo.
+19 kola ta ke nilo? 	Mary	17
+20 Mary kola ta Fred ke dilo.
+21 Fred kola ta Mary ke dilo.
+22 kola ta ke dilo?? 	Fred	21
+23 Mary kola ta rekhe dilo.
+24 Mary dokan a gelo.
+25 Fred kola ta kake dilo? 	Mary	21
+26 Bill kolom ta rekhe dilo.
+27 Bill shekhan a kolom ta pelo.
+28 Fred ki Dilo Mary ke? 	kola	21
+29 Jeff shekhan theke kola ta nilo.
+30 Jeff kola ta Fred ke dilo.
+31 kola ta ke nilo? 	Fred	30
+1 Fred shekhan theke dudh ta nilo.
+2 Mary chad a gelo.
+3 Mary kaaj a gelo.
+4 Bill dokan a gelo.
+5 Jeff baranda te gelo.
+6 Jeff kaaj a gelo.
+7 Fred dudh ta rekhe dilo.
+8 Jeff bagan a gelo.
+9 Fred shekhan theke dudh ta nilo.
+10 Fred rannaghor a gelo.
+11 Jeff shekhan theke kolom ta nilo.
+12 Jeff kaaj a gelo.
+13 Jeff kolom ta rekhe dilo.
+14 Jeff baranda te gelo.
+15 Fred dudh ta rakhlo.
+16 Fred dokan a gelo.
+17 Mary baranda te gelo
+18 Mary rannaghor a gelo.
+19 Mary chad a gelo.
+20 Bill kaaj a gelo.
+21 Bill shekhan theke kolom ta nilo.
+22 Jeff shekhan theke kola ta nilo.
+23 Jeff chad a gelo.
+24 Jeff dokan a gelo.
+25 Jeff kola ta Fred ke dilo.
+26 Bill kolom ta rekhe dilo.
+27 kola ta ke nilo? 	Fred	25
+28 Bill shekhan the kolom ta nilo.
+29 Mary kaaj a gelo.
+30 Jeff ki dilo Fred ke? 	kola	25
+31 Fred baranda te gelo.
+32 Bill kolom ta Mary ke dilo.
+33 ke kolom ta Mary ke dilo? 	Bill	32
+34 Bill chad a gelo.
+35 Bill baranda te gelo.
+36 kolom ta ke nilo?? 	Mary	32
+37 Mary kolom ta rekhe dilo.
+38 Mary shekhan the kolom ta nilo.
+39 kolom ta ke nilo?? 	Mary	32
+1 Jeff bagan a gelo.
+2 Bill kaaj a gelo.
+3 Jeff rannaghor a gelo.
+4 Bill shekhan the kolom ta nilo.
+5 Bill kolom ta rekhe dilo.
+6 Jeff dokan a gelo.
+7 Jeff shekhan theke dudh ta nilo.
+8 Bill shekhan a kolom ta pelo.
+9 Bill bagan a gelo.
+10 Bill kolom ta fred ke dilo.
+11 Bill ki dilo Fred ke?? 	kolom	10
+12 Fred kolom ta Bill ke dilo.
+13 Jeff kaaj a gelo.
+14 kolom ta ke dilo? 	Fred	12
+15 Bill kolom ta rekhe dilo.
+16 Jeff dudh ta rekhe dilo.
+17 Fred ki dilo Bill ke? 	kolom	12
+18 Bill rannaghor a gelo.
+19 Jeff shekhan theke dudh ta nilo.
+20 Mary kaaj a gelo.
+21 Mary rannaghor a gelo.
+22 Bill bagan a gelo.
+23 Bill shekhan theke kolom ta nilo.
+24 Jeff dudh ta rekhe dilo.
+25 Fred rannaghor a gelo.
+26 Bill kolom ta rekhe dilo.
+27 Jeff shekhan theke dudh ta nilo.
+28 Fred dokan a gelo.
+29 Jeff dudh ta rekhe dilo.
+30 Bill dokan a gelo.
+31 Fred kaaj a gelo.
+32 Jeff shekhan theke dudh ta nilo.
+33 Jeff dudh ta Fred ke dilo.
+34 Fred ke dudh ke dilo? 	Jeff	33
+35 Fred dudh ta Jeff ke dilo.
+36 Mary baranda te gelo.
+37 ke did Fred give the milk to? 	Jeff	35
+1 Jeff kaaj a gelo.
+2 Fred kaaj a gelo.
+3 Bill shekhan theke dudh ta nilo.
+4 Mary rannaghor a gelo.
+5 Jeff dokan a gelo.
+6 Bill baranda te gelo.
+7 Bill bagan a gelo.
+8 Bill dudh ta rekhe dilo.
+9 Fred baranda te gelo.
+10 Jeff kaaj a gelo.
+11 Bill baranda te gelo.
+12 Bill dokan a gelo.
+13 Fred shekhan a kolom ta pelo.
+14 Mary dokan a gelo.
+15 Fred kaaj a gelo.
+16 Fred kolom ta Jeff ke dilo.
+17 Fred ki dilo Jeff ke? 	kolom	16
+18 Jeff kolom ta fred ke dilo.
+19 Bill kaaj a gelo.
+20 Jeff ki dilo Fred ke? 	kolom	18
+21 Fred kolom ta Bill ke dilo
+22 Fred rannaghor a gelo.
+23 Fred footbal ta kake dilo? 	Bill	21
+24 Bill gave the kolom to Jeff.
+25 Fred kaaj a gelo.
+26 Bill ki dilo Jeff ke? 	kolom	24
+27 Jeff handed the kolom to Fred.
+28 Fred kolom ta Bill ke dilo
+29 kolom ta ke dilo? 	Fred	28
+1 Bill chad a gelo.
+2 Fred dokan a gelo.
+3 Jeff baranda te gelo.
+4 Mary dokan a gelo.
+5 Bill shekhan theke dudh ta nilo.
+6 Jeff kaaj a gelo.
+7 Bill shekhan theke kola ta nilo.
+8 Jeff dokan a gelo.
+9 Bill rannaghor a gelo.
+10 Jeff baranda te gelo.
+11 Mary bagan a gelo.
+12 Mary dokan a gelo.
+13 Bill chad a gelo.
+14 Fred baranda te gelo.
+15 Mary baranda te gelo.
+16 Bill baranda te gelo
+17 Bill handed the kola to Mary.
+18 Mary kola ta Fred ke dilo.
+19 ke kola ta Fred ke dilo. 	Mary	18
+20 Fred kola ta Marye ke dilo.
+21 Bill dudh ta rekhe dilo.
+22 kola ta ke dilo?? 	Fred	20
+23 Fred bagan a gelo.
+24 Mary kola ta Bill ke dilo.
+25 Mary ki dilo Bill ke? 	kola	24
+26 Bill handed the kola to Mary.
+27 Bill shekhan theke dudh ta nilo.
+28 Bill kake kola ta dilo? 	Mary	26
+29 Mary kaaj a gelo.
+30 Jeff rannaghor a gelo.
+31 kola ta ke dilo? to Mary? 	Bill	26
+1 Fred bagan a gelo.
+2 Jeff shekhan theke kola ta nilo.
+3 Jeff kola ta Bill ke dilo.
+4 Jeff dokan a gelo.
+5 kola ta ke dilo? to Bill? 	Jeff	3
+6 Fred baranda te gelo.
+7 Bill kola ta Fred ke dilo.
+8 Bill ki dilo Fred ke?? 	kola	7
+9 Fred kola ta Bill ke dilo.
+10 Bill kola ta Fred ke dilo.
+11 ke kola ta Fred ke dilo. 	Bill	10
+12 Fred rannaghor a gelo.
+13 Fred kola ta Marye ke dilo.
+14 Fred ki Dilo Mary ke? 	kola	13
+15 Mary dokan a gelo.
+16 Jeff bagan a gelo.
+17 kola ta ke dilo?? 	Fred	13
+1 Mary baranda te gelo
+2 Jeff kaaj a gelo.
+3 Fred rannaghor a gelo.
+4 Bill shekhan theke dudh ta nilo.
+5 Bill baranda te gelo
+6 Fred shekhan a kolom ta pelo.
+7 Bill dudh ta Mary ke dilo.
+8 Mary dudh ta Bill ke dilo.
+9 dudh ta ke dilo? to Bill? 	Mary	8
+10 Bill dudh ta Mary ke dilo.
+11 Mary dudh ta Bill ke dilo.
+12 Mary kake dudh dilo? 	Bill	11
+13 Bill dudh ta Mary ke dilo.
+14 Fred kolom ta rekhe dilo.
+15 Bill ki dilo Mary ke? 	milk	13
+16 Mary dudh ta rekhe dilo.
+17 Fred shekhan the kolom ta nilo.
+18 dudh ta ke dilo?? 	Bill	13
+19 Fred kaaj a gelo.
+20 Fred kolom ta jeff ke dilo.
+21 Fred footbal ta kake dilo? 	Jeff	20
+1 Bill baranda te gelo.
+2 Bill shekhan a kolom ta pelo.
+3 Bill kolom ta rekhe dilo.
+4 Fred kaaj a gelo.
+5 Bill rannaghor a gelo.
+6 Bill bagan a gelo.
+7 Fred rannaghor a gelo.
+8 Jeff kaaj a gelo.
+9 Fred baranda te gelo.
+10 Mary kaaj a gelo.
+11 Jeff shekhan theke dudh ta nilo.
+12 Jeff dudh ta Mary ke dilo.
+13 dudh ta ke pelo?? 	Mary	12
+14 Mary dudh ta rekhe dilo.
+15 Fred shekhan a kolom ta pelo.
+16 dudh ta ke pelo?? 	Mary	12
+17 Fred chad a gelo.
+18 Jeff shekhan theke dudh ta nilo.
+19 dudh ta ke dilo? to Mary? 	Jeff	12
+20 Jeff dudh ta Mary ke dilo.
+21 Bill shekhan theke kola ta nilo.
+22 dudh ta ke pelo?? 	Mary	20
+23 Mary dudh ta Jeff ke dilo.
+24 Fred kaaj a gelo.
+25 dudh ta ke pelo?? 	Jeff	23
+1 Mary shekhan the kolom ta nilo.
+2 Fred kaaj a gelo.
+3 Mary kolom ta rekhe dilo.
+4 Mary shekhan theke kolom ta nilo.
+5 Jeff bagan a gelo.
+6 Bill kaaj a gelo.
+7 Mary kolom ta rekhe dilo.
+8 Bill shekhan theke kola ta nilo.
+9 Bill kola ta Fred ke dilo.
+10 Fred kola ta Bill ke dilo.
+11 Fred ki dilo Bill ke? 	kola	10
+12 Bill kola ta Fred ke dilo.
+13 Fred kola ta Bill ke dilo.
+14 kola ta ke nilo? 	Bill	13
+15 Fred baranda te gelo.
+16 Mary shekhan theke kolom ta nilo.
+17 Fred kola ta kake dilo? 	Bill	13
+18 Fred dokan a gelo.
+19 Fred shekhan theke dudh ta nilo.
+20 Fred ki dilo Bill ke? 	kola	13
+21 Fred rannaghor a gelo.
+22 Jeff chad a gelo.
+23 Mary bagan a gelo.
+24 Fred kaaj a gelo.
+25 Bill kola ta Fred ke dilo.
+26 Jeff kaaj a gelo.
+27 kola ta ke dilo?? 	Bill	25
+1 Fred dokan a gelo.
+2 Jeff bagan a gelo.
+3 Jeff chad a gelo.
+4 Bill kaaj a gelo.
+5 Bill bagan a gelo.
+6 Mary shekhan theke kola ta nilo.
+7 Mary kola ta Bill ke dilo.
+8 Bill kola ta rekhe dilo.
+9 Mary kola ta kake dilo? 	Bill	7
+10 Fred kaaj a gelo.
+11 Mary shekhan theke kola ta nilo.
+12 kola ta ke dilo?? 	Mary	7
+13 Mary kola ta Bill ke dilo.
+14 Bill kola ta rekhe dilo.
+15 kola ta ke dilo?? 	Mary	13
+16 Bill shekhan theke kola ta nilo.
+17 Billkola ta Mary ke dilo.
+18 kola ta ke dilo?? 	Bill	17
+19 Mary kola ta Bill ke dilo.
+20 Bill kola ta Mary ke dilo.
+21 Bill ki dilo Mary ke? 	kola	20
+1 Fred shekhan theke dudh ta nilo.
+2 Fred dudh ta Mary ke dilo.
+3 ke did Fred give the milk to? 	Mary	2
+4 Mary dudh ta rekhe dilo.
+5 Jeff shekhan theke dudh ta nilo.
+6 ke did Fred give the milk to? 	Mary	2
+7 Bill dokan a gelo.
+8 Jeff dudh ta Mary ke dilo.
+9 Jeff ki dilo Mary ke? 	milk	8
+10 Jeff rannaghor a gelo.
+11 Bill bagan a gelo.
+12 Jeff ki dilo Mary ke? 	milk	8
+13 Mary dudh ta rekhe dilo.
+14 Fred dokan a gelo.
+15 dudh ta ke pelo?? 	Mary	8
+1 Jeff shekhan theke kolom ta nilo.
+2 Jeff kolom ta fred ke dilo.
+3 Jeff ki dilo Fred ke? 	kolom	2
+4 Fred rannaghor a gelo.
+5 Fred kolom ta Mary ke dilo.
+6 kolom ta ke nilo?? 	Mary	5
+7 Mary kolom ta fred ke dilo.
+8 Fred chad a gelo.
+9 ke kolom ta fred ke dilo? 	Mary	7
+10 Bill dokan a gelo.
+11 Fred kolom ta rekhe dilo.
+12 kolom ta ke dilo? 	Mary	7
+13 Fred kaaj a gelo.
+14 Mary shekhan theke kola ta nilo.
+15 Fred bagan a gelo.
+16 Mary chad a gelo.
+17 Bill kaaj a gelo.
+18 Mary shekhan theke kolom ta nilo.
+19 Bill rannaghor a gelo.
+20 Mary kola ta rekhe dilo.
+21 Bill chad a gelo.
+22 Mary kolom ta Bill ke dilo.
+23 Mary ki dilo Bill ke? 	kolom	22
+1 Fred shekhan theke kolom ta nilo.
+2 Mary shekhan theke dudh ta nilo.
+3 Fred kolom ta Jeff ke dilo.
+4 Mary dudh ta rekhe dilo.
+5 Fred ki dilo Jeff ke? 	kolom	3
+6 Jeff kolom ta Fred ke dilo.
+7 Fred kaaj a gelo.
+8 kolom ta ke nilo?? 	Fred	6
+9 Fred shekhan theke dudh ta nilo.
+10 Fred kolom ta Mary ke dilo.
+11 Fred footbal ta kake dilo? 	Mary	10
+12 Mary kolom ta Fred ke dilo.
+13 Fred chad a gelo.
+14 kolom ta ke nilo?? 	Fred	12
+15 Fred kolom ta jeff ke dilo.
+16 Fred bagan a gelo.
+17 Fred footbal ta kake dilo? 	Jeff	15
+1 Jeff shekhan a kolom ta pelo.
+2 Jeff kaaj a gelo.
+3 Jeff shekhan theke dudh ta nilo.
+4 Jeff kolom ta Bill ke dilo
+5 Jeff kolom ta kake dilo? 	Bill	4
+6 Bill kolom ta jeff ke dilo.
+7 Mary chad a gelo.
+8 ke did Bill give the kolom to? 	Jeff	6
+9 Jeff kolom ta Bill ke dilo.
+10 Jeff dudh ta rekhe dilo.
+11 Jeff ki dilo Bill ke? 	kolom	9
+12 Bill kolom ta jeff ke dilo.
+13 Jeff kolom ta Bill ke dilo.
+14 kolom ta ke dilo? 	Jeff	13
+15 Bill kolom ta rekhe dilo.
+16 Fred baranda te gelo
+17 Jeff kolom ta kake dilo? 	Bill	13
+1 Jeff bagan a gelo.
+2 Bill shekhan theke kola ta nilo.
+3 Jeff rannaghor a gelo.
+4 Bill kola ta Mary ke dilo.
+5 Bill ki dilo Mary ke? 	kola	4
+6 Jeff shekhan theke kolom ta nilo.
+7 Mary kola ta Bill ke dilo.
+8 kola ta ke dilo?? 	Mary	7
+9 Bill kaaj a gelo.
+10 Jeff kaaj a gelo.
+11 kola ta ke dilo?? 	Mary	7
+12 Bill kola ta Jeff ke dilo.
+13 Jeff rannaghor a gelo.
+14 kola ta ke nilo? 	Jeff	12
+15 Mary bagan a gelo.
+16 Fred kaaj a gelo.
+17 kola ta ke dilo?? 	Bill	12
+1 Fred chad a gelo.
+2 Fred bagan a gelo.
+3 Jeff chad a gelo.
+4 Bill chad a gelo.
+5 Jeff bagan a gelo.
+6 Bill shekhan theke kola ta nilo.
+7 Bill kola ta rekhe dilo.
+8 Fred dokan a gelo.
+9 Fred shekhan the kolom ta nilo.
+10 Mary bagan a gelo.
+11 Jeff dokan a gelo.
+12 Mary chad a gelo.
+13 Fred kolom ta Jeff ke dilo.
+14 Jeff handed the kolom to Fred.
+15 kolom ta ke dilo? 	Jeff	14
+16 Fred kolom ta Jeff ke dilo.
+17 Jeff handed the kolom to Fred.
+18 kolom ta ke nilo?? 	Fred	17
+19 Jeff bagan a gelo.
+20 Bill shekhan theke kola ta nilo.
+21 Jeff ki dilo Fred ke? 	kolom	17
+22 Bill kola ta rekhe dilo.
+23 Mary shekhan theke kola ta nilo.
+24 kolom ta ke dilo? 	Jeff	17
+25 Mary kola ta Bill ke dilo.
+26 Fred kolom ta rekhe dilo there.
+27 Mary ki dilo Bill ke? 	kola	25
+1 Bill chad a gelo.
+2 Jeff chad a gelo.
+3 Jeff bagan a gelo.
+4 Mary kaaj a gelo.
+5 Bill dokan a gelo.
+6 Jeff kaaj a gelo.
+7 Fred shekhan the kolom ta nilo.
+8 Jeff shekhan theke kola ta nilo.
+9 Jeff handed the kola to Mary.
+10 Mary kola ta Jeff ke dilo.
+11 Mary ki dilo Jeff ke? 	kola	10
+12 Jeffkola ta Mary ke dilo.
+13 Fred baranda te gelo.
+14 Jeff ki dilo Mary ke? 	kola	12
+15 Mary kola ta Jeff ke dilo.
+16 Jeff handed the kola to Mary.
+17 kola ta ke dilo? to Mary? 	Jeff	16
+18 Fred kolom ta rekhe dilo.
+19 Bill kaaj a gelo.
+20 Jeff ki dilo Mary ke? 	kola	16
+21 Mary kola ta Bill ke dilo.
+22 Bill kola ta Mary ke dilo.
+23 Bill ki dilo Mary ke? 	kola	22
+1 Jeff baranda te gelo.
+2 Mary kaaj a gelo.
+3 Mary bagan a gelo.
+4 Mary rannaghor a gelo.
+5 Mary shekhan theke kolom ta nilo.
+6 Mary kaaj a gelo.
+7 Mary kolom ta Fred ke dilo.
+8 Fred kolom ta Mary ke dilo.
+9 Fred ki Dilo Mary ke? 	kolom	8
+10 Mary kolom ta fred ke dilo.
+11 Fred rannaghor a gelo.
+12 kolom ta ke dilo? 	Mary	10
+13 Fred baranda te gelo.
+14 Fred gave the kolom to Jeff.
+15 kolom ta ke nilo?? 	Jeff	14
+16 Jeff handed the kolom to Fred.
+17 Jeff kaaj a gelo.
+18 ke kolom ta fred ke dilo? 	Jeff	16
+19 Jeff rannaghor a gelo.
+20 Fred chad a gelo.
+21 kolom ta ke dilo? 	Jeff	16
+1 Mary shekhan theke dudh ta nilo.
+2 Fred shekhan theke kola ta nilo.
+3 Fred kola ta rekhe dilo.
+4 Fred chad a gelo.
+5 Fred rannaghor a gelo.
+6 Mary kaaj a gelo.
+7 Mary shekhan theke kola ta nilo.
+8 Bill dokan a gelo.
+9 Bill kaaj a gelo.
+10 Mary kola ta Bill ke dilo.
+11 kola ta ke nilo? 	Bill	10
+12 Bill kola ta Mary ke dilo.
+13 Jeff chad a gelo.
+14 kola ta ke nilo? 	Mary	12
+15 Mary kola ta Bill ke dilo.
+16 Billkola ta Mary ke dilo.
+17 kola ta ke nilo? 	Mary	16
+18 Mary kola ta Bill ke dilo.
+19 Jeff rannaghor a gelo.
+20 Mary ki dilo Bill ke? 	kola	18
+21 Bill handed the kola to Mary.
+22 Mary kola ta Bill ke dilo.
+23 kola ta ke nilo? 	Bill	22
+1 Mary kaaj a gelo.
+2 Bill bagan a gelo.
+3 Bill chad a gelo.
+4 Jeff shekhan theke kolom ta nilo.
+5 Fred baranda te gelo.
+6 Fred rannaghor a gelo.
+7 Jeff kolom ta Mary ke dilo.
+8 Jeff dokan a gelo.
+9 kolom ta ke dilo? 	Jeff	7
+10 Mary kolom ta rekhe dilo.
+11 Mary shekhan the kolom ta nilo.
+12 kolom ta ke nilo?? 	Mary	7
+13 Fred kaaj a gelo.
+14 Bill shekhan theke kola ta nilo.
+15 Mary kolom ta Fred ke dilo.
+16 Fred kolom ta rekhe dilo.
+17 Mary kolom ta kake dilo? 	Fred	15
+18 Mary shekhan a kolom ta pelo.
+19 Bill kola ta rekhe dilo.
+20 kolom ta ke nilo?? 	Fred	15
+21 Bill rannaghor a gelo.
+22 Jeff baranda te gelo.
+23 Mary kolom ta Fred ke dilo.
+24 Mary chad a gelo.
+25 kolom ta ke nilo?? 	Fred	23
+1 Bill bagan a gelo.
+2 Mary rannaghor a gelo.
+3 Mary shekhan theke dudh ta nilo.
+4 Mary dudh ta rekhe dilo.
+5 Jeff dokan a gelo.
+6 Jeff shekhan theke kola ta nilo.
+7 Jeff kola ta rekhe dilo.
+8 Jeff rannaghor a gelo.
+9 Mary shekhan theke dudh ta nilo.
+10 Fred shekhan theke kolom ta nilo.
+11 Mary dudh ta Jeff ke dilo.
+12 Jeff dudh ta Mary ke dilo.
+13 Jeff ki dilo Mary ke? 	milk	12
+14 Mary dudh ta Jeff ke dilo.
+15 Jeff dudh ta rekhe dilo.
+16 Mary ki dilo Jeff ke? 	milk	14
+17 Jeff baranda te gelo.
+18 Bill chad a gelo.
+19 dudh ta ke pelo?? 	Jeff	14
+20 Fred gave the kolom to Jeff.
+21 Jeff kolom ta Fred ke dilo.
+22 Jeff ki dilo Fred ke? 	kolom	21
+23 Fred kolom ta rekhe dilo.
+24 Jeff dokan a gelo.
+25 kolom ta ke nilo?? 	Fred	21
+1 Mary dokan a gelo.
+2 Fred shekhan a kolom ta pelo.
+3 Fred kolom ta rekhe dilo.
+4 Fred bagan a gelo.
+5 Fred rannaghor a gelo.
+6 Bill kaaj a gelo.
+7 Jeff shekhan theke kola ta nilo.
+8 Bill baranda te gelo.
+9 Jeff kola ta rekhe dilo.
+10 Mary shekhan theke dudh ta nilo.
+11 Jeff shekhan theke kola ta nilo.
+12 Bill shekhan theke kolom ta nilo.
+13 Mary chad a gelo.
+14 Mary dudh ta rekhe dilo.
+15 Mary shekhan theke dudh ta nilo.
+16 Mary dudh ta rekhe dilo there.
+17 Mary rannaghor a gelo.
+18 Jeff kola ta rekhe dilo.
+19 Bill kolom ta rekhe dilo.
+20 Bill shekhan theke kolom ta nilo.
+21 Bill chad a gelo.
+22 Fred baranda te gelo.
+23 Jeff shekhan theke kola ta nilo.
+24 Jeff kola ta rekhe dilo.
+25 Jeff shekhan theke kola ta nilo.
+26 Bill kolom ta rekhe dilo there.
+27 Jeff kaaj a gelo.
+28 Jeff chad a gelo.
+29 Jeff kola ta rekhe dilo.
+30 Bill shekhan theke kola ta nilo.
+31 Bill kola ta Jeff ke dilo.
+32 Jeff kola ta Bill ke dilo.
+33 kola ta ke dilo?? 	Jeff	32
+34 Mary chad a gelo.
+35 Bill handed the kola to Mary.
+36 Bill ki dilo Mary ke? 	kola	35
+37 Bill shekhan the kolom ta nilo.
+38 Jeff shekhan theke dudh ta nilo.
+39 kola ta ke nilo? 	Mary	35
+40 Jeff dokan a gelo.
+41 Mary kola ta rekhe dilo there.
+42 kola ta ke nilo? 	Mary	35
+43 Bill kolom ta rekhe dilo.
+44 Jeff dudh ta rakhlo.
+45 Jeff shekhan theke dudh ta nilo.
+46 Bill shekhan theke kola ta nilo.
+47 Bill kola ta rekhe dilo.
+48 Bill dokan a gelo.
+49 Jeff dudh ta rekhe dilo.
+50 Mary shekhan a kolom ta pelo.
+51 Bill bagan a gelo.
+52 Mary shekhan theke kola ta nilo.
+53 Jeff shekhan theke dudh ta nilo.
+54 Bill chad a gelo.
+55 Mary rannaghor a gelo.
+56 Mary kaaj a gelo.
+57 Jeff dudh ta rekhe dilo.
+58 Jeff shekhan theke dudh ta nilo.
+59 Jeff rannaghor a gelo.
+60 Mary kola ta rekhe dilo there.
+61 Jeff dudh ta rekhe dilo there.
+62 Mary kolom ta rekhe dilo.
+63 Mary chad a gelo.
+64 Jeff shekhan theke dudh ta nilo.
+65 Fred bagan a gelo.
+66 Jeff dudh ta rekhe dilo.
+67 Fred rannaghor a gelo.
+68 Fred dokan a gelo.
+69 Jeff kaaj a gelo.
+70 Bill kaaj a gelo.
+71 Bill bagan a gelo.
+72 Fred baranda te gelo.
+73 Jeff baranda te gelo.
+74 Jeff bagan a gelo.
+75 Bill rannaghor a gelo.
+76 Jeff dokan a gelo.
+77 Mary baranda te gelo.
+78 Bill shekhan theke dudh ta nilo.
+79 Jeff bagan a gelo.
+80 Mary rannaghor a gelo.
+81 Bill dudh ta Mary ke dilo.
+82 Mary dudh ta Bill ke dilo.
+83 Mary ki dilo Bill ke? 	milk	82
+1 Fred chad a gelo.
+2 Fred bagan a gelo.
+3 Fred shekhan theke dudh ta nilo.
+4 Fred dudh ta rekhe dilo.
+5 Fred shekhan theke dudh ta nilo.
+6 Fred dudh ta rakhlo.
+7 Fred shekhan theke dudh ta nilo.
+8 Jeff chad a gelo.
+9 Mary dokan a gelo.
+10 Bill chad a gelo.
+11 Mary baranda te gelo.
+12 Mary bagan a gelo.
+13 Bill baranda te gelo
+14 Mary rannaghor a gelo.
+15 Fred dudh ta rekhe dilo.
+16 Fred dokan a gelo.
+17 Fred kaaj a gelo.
+18 Mary baranda te gelo.
+19 Mary bagan a gelo.
+20 Fred bagan a gelo.
+21 Jeff bagan a gelo.
+22 Mary rannaghor a gelo.
+23 Bill bagan a gelo.
+24 Fred shekhan theke dudh ta nilo.
+25 Fred dudh ta Bill ke dilo.
+26 Bill dudh ta Fred ke dilo.
+27 Bill ki dilo Fred ke?? 	milk	26
+28 Fred dudh ta rekhe dilo.
+29 Mary baranda te gelo.
+30 dudh ta ke pelo?? 	Fred	26
+31 Fred shekhan theke dudh ta nilo.
+32 Fred dudh ta Bill ke dilo.
+33 Fred ki dilo Bill ke? 	milk	32
+34 Fred baranda te gelo.
+35 Bill rannaghor a gelo.
+36 Fred ki dilo Bill ke? 	milk	32
+37 Fred bagan a gelo.
+38 Bill dudh ta rekhe dilo.
+39 ke did Fred give the milk to? 	Bill	32
+1 Bill kaaj a gelo.
+2 Jeff rannaghor a gelo.
+3 Fred dokan a gelo.
+4 Mary bagan a gelo.
+5 Mary baranda te gelo.
+6 Bill dokan a gelo.
+7 Fred chad a gelo.
+8 Bill kaaj a gelo.
+9 Mary rannaghor a gelo.
+10 Fred rannaghor a gelo.
+11 Bill bagan a gelo.
+12 Mary baranda te gelo.
+13 Fred chad a gelo.
+14 Fred dokan a gelo.
+15 Bill shekhan theke dudh ta nilo.
+16 Bill shekhan the kolom ta nilo.
+17 Bill kaaj a gelo.
+18 Mary rannaghor a gelo.
+19 Bill bagan a gelo.
+20 Mary baranda te gelo.
+21 Mary rannaghor a gelo.
+22 Bill kolom ta rekhe dilo.
+23 Jeff bagan a gelo.
+24 Bill dudh ta Jeff ke dilo.
+25 dudh ta ke dilo?? 	Bill	24
+26 Jeff dudh ta Bill ke dilo.
+27 Jeff shekhan a kolom ta pelo.
+28 dudh ta ke pelo?? 	Bill	26
+29 Jeff kolom ta rekhe dilo there.
+30 Bill dudh ta Jeff ke dilo.
+31 dudh ta ke dilo?? 	Bill	30
+32 Fred kaaj a gelo.
+33 Jeff dokan a gelo.
+34 Bill ki dilo Jeff ke? 	milk	30
+35 Fred chad a gelo.
+36 Jeff dudh ta rekhe dilo.
+37 Bill ki dilo Jeff ke? 	milk	30
+1 Mary kaaj a gelo.
+2 Fred kaaj a gelo.
+3 Fred chad a gelo.
+4 Jeff dokan a gelo.
+5 Bill chad a gelo.
+6 Jeff baranda te gelo.
+7 Mary baranda te gelo.
+8 Mary shekhan theke dudh ta nilo.
+9 Mary dudh ta Jeff ke dilo.
+10 Jeff dokan a gelo.
+11 dudh ta ke dilo?? 	Mary	9
+12 Jeff bagan a gelo.
+13 Jeff kaaj a gelo.
+14 dudh ta ke pelo?? 	Jeff	9
+15 Mary chad a gelo.
+16 Mary bagan a gelo.
+17 Jeff bagan a gelo.
+18 Fred baranda te gelo.
+19 Mary rannaghor a gelo.
+20 Jeff kaaj a gelo.
+21 Mary baranda te gelo.
+22 Mary kaaj a gelo.
+23 Fred kaaj a gelo.
+24 Fred rannaghor a gelo.
+25 Jeff dokan a gelo.
+26 Jeff chad a gelo.
+27 Jeff dudh ta Bill ke dilo.
+28 Bill dudh ta Jeff ke dilo.
+29 Bill ki dilo Jeff ke? 	milk	28
+30 Jeff dudh ta Bill ke dilo.
+31 Bill dudh ta Jeff ke dilo.
+32 Bill dudh ta kake dilo? 	Jeff	31
+33 Jeff dudh ta Bill ke dilo.
+34 Bill dudh ta Jeff ke dilo.
+35 Bill ki dilo Jeff ke? 	milk	34
+1 Jeff bagan a gelo.
+2 Fred kaaj a gelo.
+3 Fred shekhan theke dudh ta nilo.
+4 Fred dudh ta rekhe dilo there.
+5 Jeff shekhan the kolom ta nilo.
+6 Jeff kaaj a gelo.
+7 Mary chad a gelo.
+8 Jeff handed the kolom to Fred.
+9 Jeff ki dilo Fred ke? 	kolom	8
+10 Mary shekhan theke kola ta nilo.
+11 Fred shekhan theke dudh ta nilo.
+12 Jeff ki dilo Fred ke? 	kolom	8
+13 Jeff rannaghor a gelo.
+14 Fred kolom ta Bill ke dilo
+15 Fred ki dilo Bill ke? 	kolom	14
+16 Bill handed the kolom to Fred.
+17 Fred kolom ta Bill ke dilo.
+18 Fred ki dilo Bill ke? 	kolom	17
+19 Bill bagan a gelo.
+20 Jeff chad a gelo.
+21 ke kolom ta Bill ke dilo? 	Fred	17
+1 Bill dokan a gelo.
+2 Fred bagan a gelo.
+3 Fred chad a gelo.
+4 Bill rannaghor a gelo.
+5 Jeff kaaj a gelo.
+6 Fred dokan a gelo.
+7 Mary dokan a gelo.
+8 Bill bagan a gelo.
+9 Bill rannaghor a gelo.
+10 Jeff rannaghor a gelo.
+11 Jeff kaaj a gelo.
+12 Jeff shekhan theke dudh ta nilo.
+13 Jeff rannaghor a gelo.
+14 Bill dokan a gelo.
+15 Jeff dudh ta rekhe dilo.
+16 Fred baranda te gelo
+17 Jeff shekhan theke dudh ta nilo.
+18 Jeff kaaj a gelo.
+19 Jeff dudh ta rakhlo.
+20 Fred shekhan theke kolom ta nilo.
+21 Fred kolom ta rekhe dilo.
+22 Bill bagan a gelo.
+23 Mary chad a gelo.
+24 Mary rannaghor a gelo.
+25 Jeff baranda te gelo.
+26 Fred kaaj a gelo.
+27 Bill rannaghor a gelo.
+28 Jeff shekhan theke kolom ta nilo.
+29 Jeff kolom ta rekhe dilo.
+30 Bill bagan a gelo.
+31 Jeff shekhan the kolom ta nilo.
+32 Fred shekhan theke dudh ta nilo.
+33 Jeff kolom ta rekhe dilo.
+34 Fred shekhan theke kola ta nilo.
+35 Jeff shekhan the kolom ta nilo.
+36 Fred kola ta rekhe dilo there.
+37 Fred dudh ta rekhe dilo.
+38 Bill rannaghor a gelo.
+39 Mary dokan a gelo.
+40 Bill baranda te gelo.
+41 Jeff kolom ta Bill ke dilo
+42 Bill gave the kolom to Jeff.
+43 Bill ki dilo Jeff ke? 	kolom	42
+44 Fred rannaghor a gelo.
+45 Jeff chad a gelo.
+46 kolom ta ke dilo to Jeff? 	Bill	42
+47 Fred dokan a gelo.
+48 Jeff rannaghor a gelo.
+49 ke did Bill give the kolom to? 	Jeff	42
+50 Mary baranda te gelo.
+51 Fred chad a gelo.
+52 Mary kaaj a gelo.
+53 Jeff baranda te gelo.
+54 Fred baranda te gelo
+55 Jeff kolom ta Fred ke dilo.
+56 kolom ta ke nilo?? 	Fred	55
+57 Jeff kaaj a gelo.
+58 Fred kolom ta Bill ke dilo.
+59 Fred ki dilo Bill ke? 	kolom	58
+1 Bill dokan a gelo.
+2 Jeff bagan a gelo.
+3 Fred dokan a gelo.
+4 Bill bagan a gelo.
+5 Fred chad a gelo.
+6 Fred shekhan theke dudh ta nilo.
+7 Fred dudh ta rekhe dilo.
+8 Jeff baranda te gelo.
+9 Fred kaaj a gelo.
+10 Fred shekhan a kolom ta pelo.
+11 Jeff rannaghor a gelo.
+12 Fred kolom ta Mary ke dilo.
+13 Fred footbal ta kake dilo? 	Mary	12
+14 Mary kolom ta Fred ke dilo.
+15 Fred kolom ta Mary ke dilo.
+16 kolom ta ke nilo?? 	Mary	15
+17 Mary kolom ta Fred ke dilo.
+18 Fred kolom ta Mary ke dilo.
+19 kolom ta ke dilo? 	Fred	18
+20 Mary kolom ta rekhe dilo.
+21 Fred shekhan theke kolom ta nilo.
+22 Fred ki Dilo Mary ke? 	kolom	18
+23 Fred kolom ta Mary ke dilo.
+24 Jeff dokan a gelo.
+25 Fred footbal ta kake dilo? 	Mary	23
+1 Jeff shekhan a kolom ta pelo.
+2 Bill kaaj a gelo.
+3 Jeff kolom ta Bill ke dilo.
+4 Bill kolom ta Jeff ke dilo.
+5 kolom ta ke nilo?? 	Jeff	4
+6 Jeff kolom ta rekhe dilo.
+7 Jeff shekhan the kolom ta nilo.
+8 Bill ki dilo Jeff ke? 	kolom	4
+9 Jeff kolom ta Bill ke dilo
+10 Jeff shekhan theke kola ta nilo.
+11 Jeff ki dilo Bill ke? 	kolom	9
+12 Bill chad a gelo.
+13 Jeff kola ta rekhe dilo.
+14 ke kolom ta Bill ke dilo? 	Jeff	9
+15 Bill kolom ta rekhe dilo there.
+16 Jeff chad a gelo.
+17 Bill shekhan a kolom ta pelo.
+18 Mary shekhan theke dudh ta nilo.
+19 Jeff kaaj a gelo.
+20 Jeff shekhan theke kola ta nilo.
+21 Mary dudh ta Fred ke dilo.
+22 Bill kolom ta rekhe dilo.
+23 Mary ki dilo Fred ke? 	milk	21
+1 Mary dokan a gelo.
+2 Jeff shekhan a kolom ta pelo.
+3 Fred kaaj a gelo.
+4 Bill baranda te gelo.
+5 Mary baranda te gelo
+6 Jeff kolom ta Mary ke dilo.
+7 kolom ta ke dilo? 	Jeff	6
+8 Jeff kaaj a gelo.
+9 Mary chad a gelo.
+10 kolom ta ke nilo?? 	Mary	6
+11 Fred bagan a gelo.
+12 Mary kolom ta rekhe dilo.
+13 Jeff ki dilo Mary ke? 	kolom	6
+14 Mary kaaj a gelo.
+15 Bill chad a gelo.
+16 Jeff shekhan theke dudh ta nilo.
+17 Mary baranda te gelo.
+18 Jeff dudh ta rekhe dilo.
+19 Fred rannaghor a gelo.
+20 Fred dokan a gelo.
+21 Jeff dokan a gelo.
+22 Bill rannaghor a gelo.
+23 Bill dokan a gelo.
+24 Mary chad a gelo.
+25 Fred bagan a gelo.
+26 Jeff chad a gelo.
+27 Jeff shekhan the kolom ta nilo.
+28 Jeff kolom ta rekhe dilo.
+29 Jeff shekhan a kolom ta pelo.
+30 Fred rannaghor a gelo.
+31 Jeff kolom ta Mary ke dilo.
+32 Jeff ki dilo Mary ke? 	kolom	31
+33 Mary kolom ta rekhe dilo.
+34 Fred chad a gelo.
+35 Jeff ki dilo Mary ke? 	kolom	31
+1 Bill baranda te gelo.
+2 Jeff rannaghor a gelo.
+3 Mary bagan a gelo.
+4 Mary shekhan theke kola ta nilo.
+5 Fred baranda te gelo.
+6 Fred kaaj a gelo.
+7 Jeff bagan a gelo.
+8 Bill chad a gelo.
+9 Mary kola ta rekhe dilo there.
+10 Jeff shekhan theke kola ta nilo.
+11 Jeffkola ta Mary ke dilo.
+12 Mary kola ta Jeff ke dilo.
+13 kola ta ke dilo?? 	Mary	12
+14 Fred rannaghor a gelo.
+15 Bill shekhan theke kolom ta nilo.
+16 kola ta ke dilo?? 	Mary	12
+17 Bill kolom ta rekhe dilo.
+18 Jeff kola ta rekhe dilo there.
+19 kola ta ke nilo? 	Jeff	12
+20 Mary shekhan theke kola ta nilo.
+21 Mary kola ta Jeff ke dilo.
+22 ke kola ta Jeff ke dilo? 	Mary	21
+23 Jeff handed the kola to Mary.
+24 Bill baranda te gelo.
+25 Jeff ki dilo Mary ke? 	kola	23
+1 Jeff shekhan theke dudh ta nilo.
+2 Jeff dudh ta Mary ke dilo.
+3 dudh ta ke pelo?? 	Mary	2
+4 Mary dudh ta Bill ke dilo.
+5 Mary dokan a gelo.
+6 dudh ta ke pelo?? 	Bill	4
+7 Bill dudh ta Jeff ke dilo.
+8 Fred rannaghor a gelo.
+9 dudh ta ke pelo?? 	Jeff	7
+10 Jeff dudh ta rekhe dilo.
+11 Fred shekhan theke dudh ta nilo.
+12 dudh ta ke dilo? to Jeff? 	Bill	7
+13 Jeff kaaj a gelo.
+14 Fred kaaj a gelo.
+15 Mary chad a gelo.
+16 Bill dokan a gelo.
+17 Fred dudh ta Jeff ke dilo.
+18 Jeff dudh ta Fred ke dilo.
+19 Fred ke dudh ke dilo? 	Jeff	18
+1 Mary shekhan theke dudh ta nilo.
+2 Bill bagan a gelo.
+3 Bill rannaghor a gelo.
+4 Fred baranda te gelo.
+5 Bill shekhan theke kola ta nilo.
+6 Fred dokan a gelo.
+7 Mary rannaghor a gelo.
+8 Fred baranda te gelo.
+9 Bill kola ta Mary ke dilo.
+10 Mary baranda te gelo.
+11 Bill ki dilo Mary ke? 	kola	9
+12 Mary kola ta Fred ke dilo.
+13 Fred kola ta Mary ke dilo.
+14 Fred ki Dilo Mary ke? 	kola	13
+15 Jeff chad a gelo.
+16 Bill baranda te gelo.
+17 Fred ki Dilo Mary ke? 	kola	13
+18 Mary kola ta Fred ke dilo.
+19 Mary dokan a gelo.
+20 kola ta ke dilo?? 	Mary	18
+21 Jeff shekhan theke kolom ta nilo.
+22 Fred kola ta Bill ke dilo.
+23 kola ta ke nilo? 	Bill	22
+1 Bill shekhan a kolom ta pelo.
+2 Fred kaaj a gelo.
+3 Jeff chad a gelo.
+4 Bill kolom ta rekhe dilo.
+5 Jeff shekhan theke kola ta nilo.
+6 Jeff kola ta rekhe dilo.
+7 Jeff shekhan theke kola ta nilo.
+8 Jeff bagan a gelo.
+9 Bill baranda te gelo.
+10 Jeff kola ta rekhe dilo.
+11 Jeff shekhan theke kola ta nilo.
+12 Jeff shekhan the kolom ta nilo.
+13 Jeff kola ta rekhe dilo.
+14 Jeff kolom ta rekhe dilo.
+15 Fred bagan a gelo.
+16 Fred shekhan theke kola ta nilo.
+17 Fred kola ta rekhe dilo.
+18 Fred rannaghor a gelo.
+19 Jeff shekhan theke kola ta nilo.
+20 Jeff shekhan the kolom ta nilo.
+21 Fred chad a gelo.
+22 Bill dokan a gelo.
+23 Jeff baranda te gelo.
+24 Jeff dokan a gelo.
+25 Bill shekhan theke dudh ta nilo.
+26 Mary chad a gelo.
+27 Jeff kola ta Bill ke dilo.
+28 Mary kaaj a gelo.
+29 kola ta ke dilo?? 	Jeff	27
+30 Bill kola ta Jeff ke dilo.
+31 Jeff kolom ta rekhe dilo.
+32 Bill ki dilo Jeff ke? 	kola	30
+33 Jeff kola ta Bill ke dilo.
+34 Mary dokan a gelo.
+35 kola ta ke nilo? 	Bill	33
+36 Fred rannaghor a gelo.
+37 Bill bagan a gelo.
+38 kola ta ke nilo? 	Bill	33
+39 Mary baranda te gelo.
+40 Jeff chad a gelo.
+41 Bill kola ta rekhe dilo.
+42 Mary dokan a gelo.
+43 Mary bagan a gelo.
+44 Bill dudh ta Mary ke dilo.
+45 Bill ki dilo Mary ke? 	milk	44
+1 Bill shekhan a kolom ta pelo.
+2 Mary bagan a gelo.
+3 Jeff bagan a gelo.
+4 Bill baranda te gelo.
+5 Jeff baranda te gelo
+6 Bill kolom ta Jeff ke dilo.
+7 ke did Bill give the kolom to? 	Jeff	6
+8 Fred shekhan theke dudh ta nilo.
+9 Jeff kolom ta Bill ke dilo.
+10 Jeff ki dilo Bill ke? 	kolom	9
+11 Fred dudh ta rakhlo.
+12 Fred rannaghor a gelo.
+13 kolom ta ke dilo? 	Jeff	9
+14 Fred kaaj a gelo.
+15 Bill kolom ta jeff ke dilo.
+16 kolom ta ke nilo?? 	Jeff	15
+17 Mary baranda te gelo.
+18 Fred shekhan theke dudh ta nilo.
+19 Bill ki dilo Jeff ke? 	kolom	15
+1 Fred shekhan theke dudh ta nilo.
+2 Fred dudh ta Bill ke dilo.
+3 Fred ki dilo Bill ke? 	milk	2
+4 Jeff rannaghor a gelo.
+5 Bill dudh ta Fred ke dilo.
+6 dudh ta ke pelo?? 	Fred	5
+7 Fred dudh ta Bill ke dilo.
+8 Jeff kaaj a gelo.
+9 dudh ta ke dilo? to Bill? 	Fred	7
+10 Bill dudh ta Fred ke dilo.
+11 Fred dudh ta Bill ke dilo.
+12 Fred ki dilo Bill ke? 	milk	11
+13 Bill rannaghor a gelo.
+14 Jeff shekhan a kolom ta pelo.
+15 dudh ta ke dilo? to Bill? 	Fred	11
+1 Jeff rannaghor a gelo.
+2 Mary bagan a gelo.
+3 Bill dokan a gelo.
+4 Bill shekhan theke dudh ta nilo.
+5 Jeff chad a gelo.
+6 Mary chad a gelo.
+7 Jeff dokan a gelo.
+8 Bill kaaj a gelo.
+9 Fred rannaghor a gelo.
+10 Bill chad a gelo.
+11 Jeff chad a gelo.
+12 Mary rannaghor a gelo.
+13 Bill dudh ta rakhlo.
+14 Jeff shekhan theke dudh ta nilo.
+15 Jeff dudh ta Bill ke dilo.
+16 Jeff baranda te gelo
+17 Jeff dudh ta kake dilo? 	Bill	15
+18 Mary kaaj a gelo.
+19 Jeff dokan a gelo.
+20 dudh ta ke dilo? to Bill? 	Jeff	15
+21 Fred chad a gelo.
+22 Bill dudh ta Fred ke dilo.
+23 Fred ke dudh ke dilo? 	Bill	22
+24 Jeff baranda te gelo.
+25 Fred dudh ta Bill ke dilo.
+26 ke did Fred give the milk to? 	Bill	25
+27 Mary dokan a gelo.
+28 Bill dudh ta Fred ke dilo.
+29 Bill ki dilo Fred ke?? 	milk	28
+1 Jeff chad a gelo.
+2 Jeff dokan a gelo.
+3 Fred dokan a gelo.
+4 Fred kaaj a gelo.
+5 Mary chad a gelo.
+6 Jeff shekhan theke kolom ta nilo.
+7 Jeff kolom ta rekhe dilo.
+8 Jeff shekhan the kolom ta nilo.
+9 Jeff kolom ta rekhe dilo.
+10 Jeff shekhan theke kolom ta nilo.
+11 Bill bagan a gelo.
+12 Jeff bagan a gelo.
+13 Jeff shekhan theke kola ta nilo.
+14 Bill baranda te gelo.
+15 Mary baranda te gelo.
+16 Bill kaaj a gelo.
+17 Jeff kola ta rekhe dilo there.
+18 Jeff shekhan theke kola ta nilo.
+19 Jeff rannaghor a gelo.
+20 Mary shekhan theke dudh ta nilo.
+21 Jeff baranda te gelo.
+22 Jeff kolom ta rekhe dilo.
+23 Jeff rannaghor a gelo.
+24 Fred chad a gelo.
+25 Bill dokan a gelo.
+26 Mary shekhan a kolom ta pelo.
+27 Mary bagan a gelo.
+28 Mary dudh ta rakhlo.
+29 Jeff dokan a gelo.
+30 Mary shekhan theke dudh ta nilo.
+31 Mary kaaj a gelo.
+32 Jeff kola ta rekhe dilo.
+33 Jeff shekhan theke kola ta nilo.
+34 Jeff kaaj a gelo.
+35 Mary dudh ta rekhe dilo.
+36 Jeff kola ta rekhe dilo.
+37 Mary shekhan theke kola ta nilo.
+38 Mary kola ta Jeff ke dilo.
+39 Mary kola ta kake dilo? 	Jeff	38
+40 Mary shekhan theke dudh ta nilo.
+41 Jeff kola ta Mary ke dilo.
+42 kola ta ke nilo? 	Mary	41
+43 Mary kola ta Jeff ke dilo.
+44 Jeffkola ta Mary ke dilo.
+45 Jeff ki dilo Mary ke? 	kola	44
+46 Mary kola ta Jeff ke dilo.
+47 Jeff bagan a gelo.
+48 Mary ki dilo Jeff ke? 	kola	46
+49 Fred kaaj a gelo.
+50 Mary bagan a gelo.
+51 kola ta ke dilo?? 	Mary	46
+1 Fred shekhan theke kola ta nilo.
+2 Bill chad a gelo.
+3 Jeff shekhan the kolom ta nilo.
+4 Jeff chad a gelo.
+5 Jeff kaaj a gelo.
+6 Fred kola ta rekhe dilo there.
+7 Jeff kolom ta rekhe dilo there.
+8 Fred shekhan theke kola ta nilo.
+9 Mary shekhan theke dudh ta nilo.
+10 Mary baranda te gelo.
+11 Fredkola ta Mary ke dilo.
+12 Mary kola ta Fred ke dilo.
+13 Mary ki dilo Fred ke? 	kola	12
+14 Fred kola ta Marye ke dilo.
+15 Fred dokan a gelo.
+16 kola ta ke dilo? to Mary? 	Fred	14
+17 Mary bagan a gelo.
+18 Mary dudh ta rekhe dilo.
+19 kola ta ke dilo?? 	Fred	14
+20 Mary kola ta rekhe dilo.
+21 Mary shekhan theke dudh ta nilo.
+22 Mary shekhan theke kola ta nilo.
+23 Mary kola ta rekhe dilo.
+24 Jeff shekhan the kolom ta nilo.
+25 Mary dudh ta rekhe dilo.
+26 Bill baranda te gelo.
+27 Mary shekhan theke dudh ta nilo.
+28 Mary rannaghor a gelo.
+29 Jeff rannaghor a gelo.
+30 Mary dudh ta rekhe dilo.
+31 Mary shekhan theke dudh ta nilo.
+32 Jeff kolom ta Mary ke dilo.
+33 Mary kolom ta jeff ke dilo.
+34 kolom ta ke nilo?? 	Jeff	33
+35 Jeff kolom ta Mary ke dilo.
+36 Mary dokan a gelo.
+37 kolom ta ke nilo?? 	Mary	35
+1 Jeff bagan a gelo.
+2 Fred rannaghor a gelo.
+3 Fred kaaj a gelo.
+4 Jeff chad a gelo.
+5 Mary dokan a gelo.
+6 Mary kaaj a gelo.
+7 Mary rannaghor a gelo.
+8 Fred baranda te gelo.
+9 Mary kaaj a gelo.
+10 Fred shekhan theke kola ta nilo.
+11 Bill bagan a gelo.
+12 Fred kola ta rekhe dilo.
+13 Mary rannaghor a gelo.
+14 Bill shekhan the kolom ta nilo.
+15 Fred dokan a gelo.
+16 Mary baranda te gelo.
+17 Mary shekhan theke kola ta nilo.
+18 Bill kolom ta rekhe dilo.
+19 Bill shekhan a kolom ta pelo.
+20 Fred shekhan theke dudh ta nilo.
+21 Mary kola ta rekhe dilo.
+22 Bill kaaj a gelo.
+23 Bill bagan a gelo.
+24 Jeff kaaj a gelo.
+25 Mary bagan a gelo.
+26 Bill kolom ta Mary ke dilo.
+27 ke did Bill give the kolom to? 	Mary	26
+28 Mary kolom ta rekhe dilo.
+29 Bill kaaj a gelo.
+30 ke did Bill give the kolom to? 	Mary	26
+31 Mary shekhan theke kolom ta nilo.
+32 Bill bagan a gelo.
+33 kolom ta ke dilo? 	Bill	26
+34 Mary kolom ta Bill ke dilo
+35 Bill kolom ta Mary ke dilo.
+36 kolom ta ke dilo? 	Bill	35
+37 Fred bagan a gelo.
+38 Jeff rannaghor a gelo.
+39 Bill ki dilo Mary ke? 	kolom	35
+1 Jeff shekhan theke kola ta nilo.
+2 Jeff kola ta Bill ke dilo.
+3 kola ta ke dilo?? 	Jeff	2
+4 Bill kola ta Jeff ke dilo.
+5 Jeff kola ta Bill ke dilo.
+6 Jeff kola ta kake dilo?? 	Bill	5
+7 Bill kola ta Jeff ke dilo.
+8 Fred dokan a gelo.
+9 Bill ki dilo Jeff ke? 	kola	7
+10 Mary rannaghor a gelo.
+11 Jeff kola ta Mary ke dilo.
+12 kola ta ke dilo?? 	Jeff	11
+13 Fred shekhan theke kolom ta nilo.
+14 Jeff baranda te gelo
+15 Jeff kola ta kake dilo?? 	Mary	11
+1 Mary baranda te gelo.
+2 Mary chad a gelo.
+3 Bill chad a gelo.
+4 Jeff dokan a gelo.
+5 Mary baranda te gelo
+6 Jeff shekhan theke kolom ta nilo.
+7 Jeff shekhan theke dudh ta nilo.
+8 Mary bagan a gelo.
+9 Bill bagan a gelo.
+10 Jeff kolom ta rekhe dilo there.
+11 Jeff dudh ta rakhlo.
+12 Jeff bagan a gelo.
+13 Fred bagan a gelo.
+14 Bill baranda te gelo.
+15 Bill chad a gelo.
+16 Bill rannaghor a gelo.
+17 Bill chad a gelo.
+18 Mary rannaghor a gelo.
+19 Fred rannaghor a gelo.
+20 Jeff baranda te gelo.
+21 Jeff bagan a gelo.
+22 Fred bagan a gelo.
+23 Bill dokan a gelo.
+24 Bill shekhan a kolom ta pelo.
+25 Bill baranda te gelo.
+26 Fred dokan a gelo.
+27 Fred chad a gelo.
+28 Fred dokan a gelo.
+29 Fred rannaghor a gelo.
+30 Bill kolom ta rekhe dilo.
+31 Bill shekhan theke kolom ta nilo.
+32 Bill chad a gelo.
+33 Bill kaaj a gelo.
+34 Bill chad a gelo.
+35 Mary dokan a gelo.
+36 Bill kolom ta rekhe dilo.
+37 Mary shekhan theke dudh ta nilo.
+38 Fred kaaj a gelo.
+39 Jeff kaaj a gelo.
+40 Bill baranda te gelo
+41 Jeff shekhan theke kola ta nilo.
+42 Jeff kola ta Fred ke dilo.
+43 Jeff ki dilo Fred ke? 	kola	42
+44 Mary dudh ta rekhe dilo.
+45 Mary chad a gelo.
+46 Jeff kola ta kake dilo?? 	Fred	42
+47 Fred kola ta rekhe dilo.
+48 Mary shekhan theke kolom ta nilo.
+49 Jeff kola ta kake dilo?? 	Fred	42
+50 Fred shekhan theke kola ta nilo.
+51 Jeff chad a gelo.
+52 Mary rannaghor a gelo.
+53 Mary kolom ta rekhe dilo.
+54 Bill dokan a gelo.
+55 Jeff baranda te gelo.
+56 Mary shekhan theke kolom ta nilo.
+57 Fred kola ta rekhe dilo there.
+58 Mary chad a gelo.
+59 Fred rannaghor a gelo.
+60 Bill shekhan theke dudh ta nilo.
+61 Mary dokan a gelo.
+62 Mary kolom ta Bill ke dilo.
+63 Bill kolom ta Mary ke dilo.
+64 ke did Bill give the kolom to? 	Mary	63
+65 Jeff bagan a gelo.
+66 Mary kolom ta Bill ke dilo
+67 kolom ta ke nilo?? 	Bill	66
+1 Mary shekhan theke kolom ta nilo.
+2 Bill rannaghor a gelo.
+3 Mary kaaj a gelo.
+4 Mary kolom ta Fred ke dilo.
+5 Mary ki dilo Fred ke? 	kolom	4
+6 Fred kolom ta rekhe dilo there.
+7 Bill baranda te gelo.
+8 Mary ki dilo Fred ke? 	kolom	4
+9 Jeff shekhan theke kolom ta nilo.
+10 Mary chad a gelo.
+11 Mary kolom ta kake dilo? 	Fred	4
+12 Mary bagan a gelo.
+13 Jeff kolom ta fred ke dilo.
+14 ke kolom ta fred ke dilo? 	Jeff	13
+15 Fred kolom ta jeff ke dilo.
+16 Mary kaaj a gelo.
+17 kolom ta ke nilo?? 	Jeff	15
+1 Fred baranda te gelo
+2 Mary dokan a gelo.
+3 Mary rannaghor a gelo.
+4 Fred shekhan a kolom ta pelo.
+5 Fred kolom ta rekhe dilo.
+6 Bill chad a gelo.
+7 Fred chad a gelo.
+8 Mary kaaj a gelo.
+9 Mary dokan a gelo.
+10 Jeff dokan a gelo.
+11 Jeff shekhan theke dudh ta nilo.
+12 Jeff dudh ta Mary ke dilo.
+13 dudh ta ke pelo?? 	Mary	12
+14 Fred rannaghor a gelo.
+15 Fred kaaj a gelo.
+16 Jeff ki dilo Mary ke? 	milk	12
+17 Mary dudh ta rekhe dilo.
+18 Jeff baranda te gelo.
+19 Jeff ki dilo Mary ke? 	milk	12
+20 Mary shekhan theke dudh ta nilo.
+21 Jeff kaaj a gelo.
+22 Mary bagan a gelo.
+23 Mary shekhan theke kola ta nilo.
+24 Jeff chad a gelo.
+25 Mary kola ta rekhe dilo.
+26 Mary dudh ta rekhe dilo.
+27 Bill kaaj a gelo.
+28 Fred bagan a gelo.
+29 Bill chad a gelo.
+30 Jeff rannaghor a gelo.
+31 Mary shekhan theke kola ta nilo.
+32 Jeff chad a gelo.
+33 Bill kaaj a gelo.
+34 Fred shekhan theke dudh ta nilo.
+35 Mary kola ta Fred ke dilo.
+36 Mary ki dilo Fred ke? 	kola	35
+37 Fred dudh ta rekhe dilo.
+38 Fred kola ta rekhe dilo.
+39 kola ta ke nilo? 	Fred	35
+1 Bill shekhan a kolom ta pelo.
+2 Bill kolom ta rekhe dilo.
+3 Bill dokan a gelo.
+4 Fred kaaj a gelo.
+5 Mary dokan a gelo.
+6 Bill baranda te gelo.
+7 Bill rannaghor a gelo.
+8 Mary kaaj a gelo.
+9 Bill shekhan theke kola ta nilo.
+10 Bill chad a gelo.
+11 Bill kaaj a gelo.
+12 Bill chad a gelo.
+13 Bill kola ta rekhe dilo.
+14 Bill shekhan a kolom ta pelo.
+15 Bill shekhan theke kola ta nilo.
+16 Bill kola ta rekhe dilo.
+17 Bill rannaghor a gelo.
+18 Fred bagan a gelo.
+19 Mary rannaghor a gelo.
+20 Bill kolom ta rekhe dilo.
+21 Fred shekhan theke dudh ta nilo.
+22 Jeff rannaghor a gelo.
+23 Bill shekhan a kolom ta pelo.
+24 Bill kolom ta Mary ke dilo.
+25 Bill ki dilo Mary ke? 	kolom	24
+26 Mary kolom ta Bill ke dilo.
+27 Bill kaaj a gelo.
+28 Mary ki dilo Bill ke? 	kolom	26
+29 Fred kaaj a gelo.
+30 Fred bagan a gelo.
+31 ke kolom ta Bill ke dilo? 	Mary	26
+32 Bill kolom ta rekhe dilo.
+33 Bill shekhan a kolom ta pelo.
+34 Mary dokan a gelo.
+35 Bill bagan a gelo.
+36 Bill kolom ta fred ke dilo.
+37 Mary bagan a gelo.
+38 ke kolom ta fred ke dilo? 	Bill	36
+39 Fred kolom ta Mary ke dilo.
+40 Jeff bagan a gelo.
+41 ke kolom ta Mary ke dilo? 	Fred	39
+1 Fred kaaj a gelo.
+2 Mary kaaj a gelo.
+3 Bill shekhan theke kola ta nilo.
+4 Bill bagan a gelo.
+5 Jeff shekhan theke dudh ta nilo.
+6 Bill kola ta rekhe dilo.
+7 Mary baranda te gelo
+8 Fred dokan a gelo.
+9 Mary rannaghor a gelo.
+10 Jeff dudh ta Mary ke dilo.
+11 dudh ta ke pelo?? 	Mary	10
+12 Mary dokan a gelo.
+13 Bill shekhan theke kola ta nilo.
+14 dudh ta ke pelo?? 	Mary	10
+15 Mary dudh ta Fred ke dilo.
+16 Fred dudh ta Mary ke dilo.
+17 Fred ki Dilo Mary ke? 	milk	16
+18 Mary dudh ta rekhe dilo.
+19 Jeff kaaj a gelo.
+20 dudh ta ke dilo?? 	Fred	16
+21 Mary bagan a gelo.
+22 Mary shekhan a kolom ta pelo.
+23 dudh ta ke dilo?? 	Fred	16
+1 Jeff shekhan theke kolom ta nilo.
+2 Jeff kolom ta Bill ke dilo.
+3 Jeff ki dilo Bill ke? 	kolom	2
+4 Fred shekhan theke dudh ta nilo.
+5 Bill kolom ta rekhe dilo.
+6 Jeff ki dilo Bill ke? 	kolom	2
+7 Jeff chad a gelo.
+8 Fred dokan a gelo.
+9 Jeff ki dilo Bill ke? 	kolom	2
+10 Bill shekhan the kolom ta nilo.
+11 Bill baranda te gelo.
+12 Fred dudh ta rekhe dilo.
+13 Fred shekhan theke dudh ta nilo.
+14 Fred dudh ta rekhe dilo.
+15 Bill kolom ta rekhe dilo.
+16 Fred shekhan theke dudh ta nilo.
+17 Fred dudh ta rakhlo.
+18 Fred chad a gelo.
+19 Fred shekhan theke kola ta nilo.
+20 Mary chad a gelo.
+21 Fredkola ta Mary ke dilo.
+22 kola ta ke dilo?? 	Fred	21
+23 Bill kaaj a gelo.
+24 Mary kola ta Fred ke dilo.
+25 Mary ki dilo Fred ke? 	kola	24
+1 Mary bagan a gelo.
+2 Fred shekhan theke kola ta nilo.
+3 Mary kaaj a gelo.
+4 Bill shekhan theke dudh ta nilo.
+5 Bill dudh ta rekhe dilo.
+6 Bill shekhan theke dudh ta nilo.
+7 Fred dokan a gelo.
+8 Fred kola ta Jeff ke dilo.
+9 kola ta ke dilo?? 	Fred	8
+10 Fred rannaghor a gelo.
+11 Bill dudh ta rakhlo.
+12 Fred ki dilo Jeff ke? 	kola	8
+13 Bill shekhan theke dudh ta nilo.
+14 Bill dudh ta rekhe dilo.
+15 Fred ki dilo Jeff ke? 	kola	8
+16 Jeff kola ta rekhe dilo there.
+17 Bill shekhan theke dudh ta nilo.
+18 Fred chad a gelo.
+19 Bill dudh ta rekhe dilo.
+20 Fred dokan a gelo.
+21 Jeff shekhan theke kola ta nilo.
+22 Jeff kola ta Fred ke dilo.
+23 Jeff baranda te gelo.
+24 kola ta ke nilo? 	Fred	22
+25 Fred kola ta rekhe dilo.
+26 Jeff dokan a gelo.
+27 Jeff kola ta kake dilo?? 	Fred	22
+1 Bill shekhan theke kola ta nilo.
+2 Bill kola ta Fred ke dilo.
+3 ke kola ta Fred ke dilo. 	Bill	2
+4 Bill bagan a gelo.
+5 Bill kaaj a gelo.
+6 kola ta ke dilo?? 	Bill	2
+7 Fred kola ta rekhe dilo.
+8 Bill baranda te gelo.
+9 Bill ki dilo Fred ke?? 	kola	2
+10 Fred shekhan theke kola ta nilo.
+11 Jeff shekhan the kolom ta nilo.
+12 Jeff kolom ta rekhe dilo.
+13 Jeff rannaghor a gelo.
+14 Fred kola ta Jeff ke dilo.
+15 Jeff kola ta Fred ke dilo.
+16 Jeff kola ta kake dilo?? 	Fred	15
+17 Bill shekhan theke dudh ta nilo.
+18 Fred chad a gelo.
+19 ke kola ta Fred ke dilo. 	Jeff	15
+1 Mary shekhan theke dudh ta nilo.
+2 Fred baranda te gelo.
+3 Mary dudh ta rekhe dilo.
+4 Mary shekhan theke kolom ta nilo.
+5 Bill shekhan theke dudh ta nilo.
+6 Mary kolom ta Bill ke dilo
+7 kolom ta ke dilo? 	Mary	6
+8 Bill kolom ta Mary ke dilo.
+9 Mary kolom ta Bill ke dilo
+10 Mary ki dilo Bill ke? 	kolom	9
+11 Jeff bagan a gelo.
+12 Bill kolom ta rekhe dilo.
+13 Mary ki dilo Bill ke? 	kolom	9
+14 Bill chad a gelo.
+15 Bill kaaj a gelo.
+16 Mary ki dilo Bill ke? 	kolom	9
+17 Mary bagan a gelo.
+18 Mary baranda te gelo
+19 Bill baranda te gelo
+20 Bill dokan a gelo.
+21 Bill dudh ta rekhe dilo.
+22 Bill shekhan theke kolom ta nilo.
+23 Fred bagan a gelo.
+24 Bill shekhan theke dudh ta nilo.
+25 Bill dudh ta rekhe dilo.
+26 Mary chad a gelo.
+27 Mary baranda te gelo.
+28 Mary dokan a gelo.
+29 Mary shekhan theke dudh ta nilo.
+30 Bill kolom ta rekhe dilo.
+31 Mary dudh ta Bill ke dilo.
+32 Mary shekhan a kolom ta pelo.
+33 Mary kake dudh dilo? 	Bill	31
+1 Mary baranda te gelo.
+2 Fred chad a gelo.
+3 Mary shekhan a kolom ta pelo.
+4 Mary kolom ta jeff ke dilo.
+5 Mary kolom ta kake dilo? 	Jeff	4
+6 Jeff kolom ta Mary ke dilo.
+7 Mary kolom ta jeff ke dilo.
+8 kolom ta ke dilo? 	Mary	7
+9 Jeff kolom ta Mary ke dilo.
+10 Mary kolom ta rekhe dilo.
+11 kolom ta ke dilo? 	Jeff	9
+12 Fred bagan a gelo.
+13 Mary shekhan the kolom ta nilo.
+14 Jeff kolom ta kake dilo? 	Mary	9
+15 Bill chad a gelo.
+16 Fred dokan a gelo.
+17 Bill bagan a gelo.
+18 Mary kolom ta Jeff ke dilo.
+19 kolom ta ke nilo?? 	Jeff	18
+1 Fred baranda te gelo.
+2 Mary shekhan theke kola ta nilo.
+3 Bill rannaghor a gelo.
+4 Fred kaaj a gelo.
+5 Bill kaaj a gelo.
+6 Bill shekhan theke dudh ta nilo.
+7 Jeff chad a gelo.
+8 Bill dudh ta Fred ke dilo.
+9 dudh ta ke pelo?? 	Fred	8
+10 Jeff bagan a gelo.
+11 Fred dudh ta rakhlo.
+12 Bill ki dilo Fred ke?? 	milk	8
+13 Mary kola ta rekhe dilo.
+14 Bill shekhan theke dudh ta nilo.
+15 dudh ta ke dilo?? 	Bill	8
+16 Bill dudh ta Fred ke dilo.
+17 Fred dudh ta Bill ke dilo.
+18 dudh ta ke dilo? to Bill? 	Fred	17
+19 Mary baranda te gelo.
+20 Fred baranda te gelo.
+21 ke did Fred give the milk to? 	Bill	17
+1 Jeff bagan a gelo.
+2 Bill baranda te gelo
+3 Fred dokan a gelo.
+4 Fred shekhan theke kola ta nilo.
+5 Fred kola ta rekhe dilo there.
+6 Fred shekhan theke kola ta nilo.
+7 Mary bagan a gelo.
+8 Jeff chad a gelo.
+9 Jeff kaaj a gelo.
+10 Jeff dokan a gelo.
+11 Fred kola ta Jeff ke dilo.
+12 Jeff kola ta Fred ke dilo.
+13 ke kola ta Fred ke dilo. 	Jeff	12
+14 Fred kola ta Jeff ke dilo.
+15 Jeff kola ta Fred ke dilo.
+16 Jeff kola ta kake dilo?? 	Fred	15
+17 Mary rannaghor a gelo.
+18 Fred kola ta Jeff ke dilo.
+19 Fred ki dilo Jeff ke? 	kola	18
+20 Mary chad a gelo.
+21 Jeff kola ta Fred ke dilo.
+22 ke kola ta Fred ke dilo. 	Jeff	21
+23 Bill rannaghor a gelo.
+24 Fred kola ta Jeff ke dilo.
+25 ke kola ta Jeff ke dilo? 	Fred	24
+1 Bill baranda te gelo.
+2 Fred baranda te gelo.
+3 Mary rannaghor a gelo.
+4 Mary shekhan theke kola ta nilo.
+5 Mary dokan a gelo.
+6 Fred chad a gelo.
+7 Jeff kaaj a gelo.
+8 Bill rannaghor a gelo.
+9 Jeff dokan a gelo.
+10 Mary kola ta rekhe dilo.
+11 Bill shekhan theke kolom ta nilo.
+12 Jeff rannaghor a gelo.
+13 Fred bagan a gelo.
+14 Mary kaaj a gelo.
+15 Bill kolom ta jeff ke dilo.
+16 Jeff kaaj a gelo.
+17 Bill ki dilo Jeff ke? 	kolom	15
+18 Fred baranda te gelo.
+19 Fred rannaghor a gelo.
+20 Bill ki dilo Jeff ke? 	kolom	15
+21 Jeff kolom ta Mary ke dilo.
+22 Mary kolom ta jeff ke dilo.
+23 kolom ta ke dilo? 	Mary	22
+24 Jeff kolom ta Mary ke dilo.
+25 Bill shekhan theke dudh ta nilo.
+26 Jeff kolom ta kake dilo? 	Mary	24
+27 Fred dokan a gelo.
+28 Mary chad a gelo.
+29 Jeff ki dilo Mary ke? 	kolom	24
+1 Fred shekhan theke dudh ta nilo.
+2 Mary rannaghor a gelo.
+3 Jeff dokan a gelo.
+4 Fred baranda te gelo.
+5 Fred dokan a gelo.
+6 Fred dudh ta Bill ke dilo.
+7 dudh ta ke dilo? to Bill? 	Fred	6
+8 Bill dudh ta Fred ke dilo.
+9 Fred rannaghor a gelo.
+10 dudh ta ke dilo?? 	Bill	8
+11 Jeff bagan a gelo.
+12 Fred dudh ta Mary ke dilo.
+13 Fred ki Dilo Mary ke? 	milk	12
+14 Fred baranda te gelo
+15 Fred shekhan a kolom ta pelo.
+16 dudh ta ke dilo?? 	Fred	12
+17 Jeff rannaghor a gelo.
+18 Fred bagan a gelo.
+19 ke did Fred give the milk to? 	Mary	12
+1 Fred dokan a gelo.
+2 Mary bagan a gelo.
+3 Jeff chad a gelo.
+4 Mary rannaghor a gelo.
+5 Mary baranda te gelo.
+6 Mary kaaj a gelo.
+7 Mary shekhan theke dudh ta nilo.
+8 Fred chad a gelo.
+9 Fred rannaghor a gelo.
+10 Jeff baranda te gelo.
+11 Mary dudh ta rekhe dilo.
+12 Jeff shekhan theke kola ta nilo.
+13 Fred baranda te gelo.
+14 Jeff kola ta Fred ke dilo.
+15 Jeff kola ta kake dilo?? 	Fred	14
+16 Mary shekhan theke dudh ta nilo.
+17 Fred kola ta Jeff ke dilo.
+18 kola ta ke nilo? 	Jeff	17
+19 Jeff bagan a gelo.
+20 Jeff shekhan theke kolom ta nilo.
+21 ke kola ta Jeff ke dilo? 	Fred	17
+22 Mary dudh ta rekhe dilo.
+23 Jeff kolom ta rekhe dilo.
+24 Fred ki dilo Jeff ke? 	kola	17
+25 Mary shekhan theke dudh ta nilo.
+26 Jeff kola ta rekhe dilo.
+27 Mary bagan a gelo.
+28 Mary dudh ta Jeff ke dilo.
+29 dudh ta ke dilo?? 	Mary	28
+1 Jeff kaaj a gelo.
+2 Fred shekhan theke dudh ta nilo.
+3 Fred rannaghor a gelo.
+4 Fred dudh ta rakhlo.
+5 Jeff bagan a gelo.
+6 Mary shekhan the kolom ta nilo.
+7 Fred kaaj a gelo.
+8 Mary kolom ta rekhe dilo there.
+9 Fred baranda te gelo.
+10 Bill dokan a gelo.
+11 Jeff kaaj a gelo.
+12 Jeff bagan a gelo.
+13 Mary bagan a gelo.
+14 Fred shekhan theke kolom ta nilo.
+15 Jeff baranda te gelo.
+16 Fred gave the kolom to Jeff.
+17 Fred ki dilo Jeff ke? 	kolom	16
+18 Jeff kolom ta fred ke dilo.
+19 Fred kolom ta rekhe dilo.
+20 Jeff ki dilo Fred ke? 	kolom	18
+21 Mary rannaghor a gelo.
+22 Fred shekhan theke kolom ta nilo.
+23 ke kolom ta fred ke dilo? 	Jeff	18
+24 Fred bagan a gelo.
+25 Jeff kaaj a gelo.
+26 Fred baranda te gelo.
+27 Jeff dokan a gelo.
+28 Bill baranda te gelo.
+29 Jeff shekhan theke kola ta nilo.
+30 Fred kolom ta Bill ke dilo.
+31 Jeff bagan a gelo.
+32 Fred footbal ta kake dilo? 	Bill	30
+33 Jeff kola ta rekhe dilo.
+34 Jeff rannaghor a gelo.
+35 kolom ta ke dilo? 	Fred	30
+1 Bill chad a gelo.
+2 Mary bagan a gelo.
+3 Mary shekhan theke kola ta nilo.
+4 Bill rannaghor a gelo.
+5 Mary kola ta rekhe dilo.
+6 Jeff shekhan a kolom ta pelo.
+7 Jeff rannaghor a gelo.
+8 Jeff kolom ta fred ke dilo.
+9 Jeff ki dilo Fred ke? 	kolom	8
+10 Mary rannaghor a gelo.
+11 Fred kolom ta Mary ke dilo.
+12 Fred footbal ta kake dilo? 	Mary	11
+13 Bill chad a gelo.
+14 Bill shekhan theke dudh ta nilo.
+15 Fred ki Dilo Mary ke? 	kolom	11
+16 Bill kaaj a gelo.
+17 Mary kolom ta Fred ke dilo.
+18 kolom ta ke dilo? 	Mary	17
+19 Bill dudh ta rekhe dilo.
+20 Fred kolom ta Mary ke dilo.
+21 Fred footbal ta kake dilo? 	Mary	20
+1 Bill shekhan theke kola ta nilo.
+2 Mary dokan a gelo.
+3 Bill bagan a gelo.
+4 Mary bagan a gelo.
+5 Bill kola ta rekhe dilo there.
+6 Bill shekhan theke kola ta nilo.
+7 Billkola ta Mary ke dilo.
+8 Fred chad a gelo.
+9 kola ta ke nilo? 	Mary	7
+10 Mary kola ta rekhe dilo.
+11 Fred kaaj a gelo.
+12 Bill ki dilo Mary ke? 	kola	7
+13 Bill shekhan theke kola ta nilo.
+14 Bill kola ta Mary ke dilo.
+15 kola ta ke dilo?? 	Bill	14
+16 Fred shekhan theke kolom ta nilo.
+17 Jeff dokan a gelo.
+18 Bill ki dilo Mary ke? 	kola	14
+19 Mary kola ta Bill ke dilo.
+20 Bill handed the kola to Mary.
+21 Bill ki dilo Mary ke? 	kola	20
+1 Jeff kaaj a gelo.
+2 Mary shekhan theke dudh ta nilo.
+3 Mary baranda te gelo.
+4 Jeff dokan a gelo.
+5 Mary shekhan the kolom ta nilo.
+6 Fred rannaghor a gelo.
+7 Fred shekhan theke kola ta nilo.
+8 Fred kola ta rekhe dilo.
+9 Fred kaaj a gelo.
+10 Jeff bagan a gelo.
+11 Jeff kaaj a gelo.
+12 Bill chad a gelo.
+13 Fred dokan a gelo.
+14 Bill baranda te gelo.
+15 Mary kolom ta Bill ke dilo.
+16 Bill kolom ta Mary ke dilo.
+17 ke did Bill give the kolom to? 	Mary	16
+18 Jeff bagan a gelo.
+19 Mary kolom ta Bill ke dilo.
+20 kolom ta ke dilo? 	Mary	19
+21 Fred chad a gelo.
+22 Bill kolom ta Mary ke dilo.
+23 ke did Bill give the kolom to? 	Mary	22
+24 Mary kolom ta Bill ke dilo.
+25 Bill kolom ta Mary ke dilo.
+26 ke kolom ta Mary ke dilo? 	Bill	25
+27 Jeff dokan a gelo.
+28 Mary kolom ta Bill ke dilo.
+29 kolom ta ke nilo?? 	Bill	28
+1 Jeff shekhan theke kola ta nilo.
+2 Jeff handed the kola to Mary.
+3 kola ta ke dilo?? 	Jeff	2
+4 Bill kaaj a gelo.
+5 Mary kola ta Jeff ke dilo.
+6 Mary ki dilo Jeff ke? 	kola	5
+7 Bill dokan a gelo.
+8 Jeffkola ta Mary ke dilo.
+9 kola ta ke nilo? 	Mary	8
+10 Bill shekhan theke dudh ta nilo.
+11 Mary kola ta Jeff ke dilo.
+12 ke kola ta Jeff ke dilo? 	Mary	11
+13 Jeff kola ta Mary ke dilo.
+14 Mary kola ta Jeff ke dilo.
+15 kola ta ke dilo?? 	Mary	14
+1 Mary rannaghor a gelo.
+2 Mary chad a gelo.
+3 Bill chad a gelo.
+4 Bill kaaj a gelo.
+5 Bill shekhan theke kola ta nilo.
+6 Bill kola ta rekhe dilo.
+7 Mary baranda te gelo.
+8 Bill chad a gelo.
+9 Jeff baranda te gelo.
+10 Jeff bagan a gelo.
+11 Jeff rannaghor a gelo.
+12 Mary kaaj a gelo.
+13 Mary shekhan theke dudh ta nilo.
+14 Mary shekhan theke kola ta nilo.
+15 Fred baranda te gelo
+16 Mary kola ta rekhe dilo.
+17 Mary dudh ta rekhe dilo.
+18 Jeff bagan a gelo.
+19 Bill dokan a gelo.
+20 Bill baranda te gelo.
+21 Bill bagan a gelo.
+22 Bill kaaj a gelo.
+23 Fred bagan a gelo.
+24 Mary dokan a gelo.
+25 Fred rannaghor a gelo.
+26 Mary shekhan theke kolom ta nilo.
+27 Bill baranda te gelo.
+28 Fred chad a gelo.
+29 Jeff rannaghor a gelo.
+30 Bill rannaghor a gelo.
+31 Mary kaaj a gelo.
+32 Bill dokan a gelo.
+33 Mary kolom ta rekhe dilo.
+34 Mary shekhan theke dudh ta nilo.
+35 Jeff bagan a gelo.
+36 Mary shekhan theke kolom ta nilo.
+37 Fred baranda te gelo.
+38 Mary shekhan theke kola ta nilo.
+39 Fred rannaghor a gelo.
+40 Mary dudh ta rekhe dilo.
+41 Mary shekhan theke dudh ta nilo.
+42 Bill baranda te gelo.
+43 Fred baranda te gelo.
+44 Mary baranda te gelo.
+45 Mary kola ta Fred ke dilo.
+46 Fred kola ta rekhe dilo.
+47 kola ta ke dilo?? 	Mary	45
+48 Fred dokan a gelo.
+49 Mary kolom ta Bill ke dilo.
+50 kolom ta ke nilo?? 	Bill	49
+51 Bill kolom ta Mary ke dilo.
+52 Jeff baranda te gelo.
+53 Bill ki dilo Mary ke? 	kolom	51
+54 Mary kolom ta Bill ke dilo.
+55 Bill kolom ta Mary ke dilo.
+56 kolom ta ke dilo? 	Bill	55
+57 Jeff shekhan theke kola ta nilo.
+58 Mary bagan a gelo.
+59 ke did Bill give the kolom to? 	Mary	55
+1 Jeff baranda te gelo
+2 Bill shekhan theke dudh ta nilo.
+3 Bill dudh ta Mary ke dilo.
+4 Mary dudh ta Bill ke dilo.
+5 Mary ki dilo Bill ke? 	milk	4
+6 Jeff bagan a gelo.
+7 Bill chad a gelo.
+8 Mary kake dudh dilo? 	Bill	4
+9 Jeff dokan a gelo.
+10 Mary dokan a gelo.
+11 Mary ki dilo Bill ke? 	milk	4
+12 Fred dokan a gelo.
+13 Jeff shekhan the kolom ta nilo.
+14 Jeff kaaj a gelo.
+15 Fred bagan a gelo.
+16 Bill baranda te gelo.
+17 Jeff chad a gelo.
+18 Bill bagan a gelo.
+19 Jeff dokan a gelo.
+20 Jeff rannaghor a gelo.
+21 Mary rannaghor a gelo.
+22 Jeff kolom ta rekhe dilo.
+23 Bill dudh ta rekhe dilo.
+24 Mary shekhan theke kolom ta nilo.
+25 Jeff bagan a gelo.
+26 Fred shekhan theke dudh ta nilo.
+27 Fred dudh ta Bill ke dilo.
+28 dudh ta ke pelo?? 	Bill	27
+29 Bill dudh ta Fred ke dilo.
+30 Fred dudh ta Bill ke dilo.
+31 ke did Fred give the milk to? 	Bill	30
+1 Bill shekhan theke dudh ta nilo.
+2 Jeff bagan a gelo.
+3 Bill kaaj a gelo.
+4 Jeff kaaj a gelo.
+5 Bill dudh ta Jeff ke dilo.
+6 Jeff dudh ta Bill ke dilo.
+7 Jeff ki dilo Bill ke? 	milk	6
+8 Bill dudh ta Jeff ke dilo.
+9 Jeff dudh ta Bill ke dilo.
+10 Jeff dudh ta kake dilo? 	Bill	9
+11 Bill dudh ta Jeff ke dilo.
+12 Jeff dudh ta Bill ke dilo.
+13 Jeff dudh ta kake dilo? 	Bill	12
+14 Jeff dokan a gelo.
+15 Fred bagan a gelo.
+16 Jeff ki dilo Bill ke? 	milk	12
+17 Jeff chad a gelo.
+18 Bill dudh ta rekhe dilo.
+19 Jeff ki dilo Bill ke? 	milk	12
+1 Bill shekhan theke dudh ta nilo.
+2 Bill dudh ta rakhlo.
+3 Bill kaaj a gelo.
+4 Fred dokan a gelo.
+5 Fred chad a gelo.
+6 Mary shekhan theke kola ta nilo.
+7 Jeff chad a gelo.
+8 Mary rannaghor a gelo.
+9 Mary kola ta rekhe dilo there.
+10 Bill rannaghor a gelo.
+11 Mary shekhan theke kola ta nilo.
+12 Mary kola ta Bill ke dilo.
+13 Mary kola ta kake dilo? 	Bill	12
+14 Bill baranda te gelo.
+15 Bill kola ta rekhe dilo.
+16 kola ta ke dilo?? 	Mary	12
+17 Fred shekhan theke dudh ta nilo.
+18 Mary chad a gelo.
+19 Mary ki dilo Bill ke? 	kola	12
+20 Mary kaaj a gelo.
+21 Jeff rannaghor a gelo.
+22 Fred baranda te gelo.
+23 Mary dokan a gelo.
+24 Fred dudh ta Bill ke dilo.
+25 Bill shekhan theke kola ta nilo.
+26 dudh ta ke dilo?? 	Fred	24
+27 Bill kola ta Fred ke dilo.
+28 Bill dudh ta rekhe dilo.
+29 Fred ki dilo Bill ke? 	milk	24
+1 Fred chad a gelo.
+2 Jeff shekhan theke dudh ta nilo.
+3 Jeff bagan a gelo.
+4 Jeff shekhan theke kola ta nilo.
+5 Fred baranda te gelo
+6 Jeff dokan a gelo.
+7 Fred chad a gelo.
+8 Mary baranda te gelo
+9 Mary shekhan theke kolom ta nilo.
+10 Mary kaaj a gelo.
+11 Jeff baranda te gelo.
+12 Bill kaaj a gelo.
+13 Mary kolom ta Bill ke dilo
+14 Bill kolom ta Mary ke dilo.
+15 kolom ta ke nilo?? 	Mary	14
+16 Jeff dudh ta rekhe dilo.
+17 Mary kolom ta Bill ke dilo.
+18 kolom ta ke nilo?? 	Bill	17
+19 Jeff rannaghor a gelo.
+20 Bill kolom ta Mary ke dilo.
+21 Bill ki dilo Mary ke? 	kolom	20
+22 Mary bagan a gelo.
+23 Mary kolom ta rekhe dilo.
+24 kolom ta ke dilo? 	Bill	20
+25 Jeff chad a gelo.
+26 Jeff baranda te gelo.
+27 kolom ta ke nilo?? 	Mary	20
+1 Mary dokan a gelo.
+2 Fred shekhan the kolom ta nilo.
+3 Bill dokan a gelo.
+4 Fred chad a gelo.
+5 Jeff rannaghor a gelo.
+6 Fred shekhan theke dudh ta nilo.
+7 Jeff kaaj a gelo.
+8 Bill shekhan theke kola ta nilo.
+9 Fred kolom ta rekhe dilo.
+10 Bill handed the kola to Mary.
+11 Bill kake kola ta dilo? 	Mary	10
+12 Fred dokan a gelo.
+13 Jeff dokan a gelo.
+14 Bill ki dilo Mary ke? 	kola	10
+15 Jeff kaaj a gelo.
+16 Jeff rannaghor a gelo.
+17 kola ta ke dilo?? 	Bill	10
+18 Mary kola ta Fred ke dilo.
+19 Fred kola ta Mary ke dilo.
+20 Fred ki Dilo Mary ke? 	kola	19
+21 Fred dudh ta rekhe dilo.
+22 Mary shekhan theke dudh ta nilo.
+23 Fred ki Dilo Mary ke? 	kola	19
+1 Bill baranda te gelo.
+2 Jeff bagan a gelo.
+3 Bill shekhan theke kola ta nilo.
+4 Bill dokan a gelo.
+5 Mary shekhan theke dudh ta nilo.
+6 Fred baranda te gelo.
+7 Bill kaaj a gelo.
+8 Mary bagan a gelo.
+9 Mary dudh ta Jeff ke dilo.
+10 Jeff dudh ta rekhe dilo.
+11 Mary ki dilo Jeff ke? 	milk	9
+12 Jeff kaaj a gelo.
+13 Mary shekhan theke dudh ta nilo.
+14 Mary kake dudh dilo? 	Jeff	9
+15 Mary dudh ta rekhe dilo.
+16 Bill kola ta Jeff ke dilo.
+17 kola ta ke nilo? 	Jeff	16
+18 Jeff kola ta rekhe dilo.
+19 Bill shekhan theke kola ta nilo.
+20 Bill kake kola ta dilo? 	Jeff	16
+21 Bill kola ta Jeff ke dilo.
+22 Jeff kola ta Bill ke dilo.
+23 kola ta ke dilo? to Bill? 	Jeff	22
+1 Bill chad a gelo.
+2 Fred kaaj a gelo.
+3 Fred shekhan theke dudh ta nilo.
+4 Bill kaaj a gelo.
+5 Fred dudh ta Bill ke dilo.
+6 Bill dudh ta Fred ke dilo.
+7 dudh ta ke dilo?? 	Bill	6
+8 Fred dudh ta Bill ke dilo.
+9 Bill dudh ta rekhe dilo.
+10 dudh ta ke dilo?? 	Fred	8
+11 Bill baranda te gelo.
+12 Jeff baranda te gelo.
+13 dudh ta ke dilo?? 	Fred	8
+14 Jeff shekhan theke kola ta nilo.
+15 Jeff kola ta Bill ke dilo.
+16 Jeff kola ta kake dilo?? 	Bill	15
+17 Fred shekhan theke dudh ta nilo.
+18 Bill kola ta Jeff ke dilo.
+19 ke kola ta Jeff ke dilo? 	Bill	18
+1 Fred shekhan theke kolom ta nilo.
+2 Jeff shekhan theke dudh ta nilo.
+3 Fred kolom ta rekhe dilo.
+4 Bill bagan a gelo.
+5 Fred shekhan the kolom ta nilo.
+6 Fred kolom ta rekhe dilo.
+7 Fred shekhan the kolom ta nilo.
+8 Mary dokan a gelo.
+9 Fred dokan a gelo.
+10 Fred kolom ta Mary ke dilo.
+11 kolom ta ke nilo?? 	Mary	10
+12 Mary kolom ta Fred ke dilo.
+13 Fred kolom ta Mary ke dilo.
+14 Fred footbal ta kake dilo? 	Mary	13
+15 Mary kolom ta fred ke dilo.
+16 Fred kolom ta rekhe dilo.
+17 Mary ki dilo Fred ke? 	kolom	15
+18 Mary shekhan theke kolom ta nilo.
+19 Fred baranda te gelo.
+20 Mary kolom ta kake dilo? 	Fred	15
+21 Bill baranda te gelo.
+22 Jeff baranda te gelo.
+23 Jeff dudh ta rekhe dilo.
+24 Mary chad a gelo.
+25 Jeff bagan a gelo.
+26 Fred shekhan theke dudh ta nilo.
+27 Fred dudh ta rakhlo.
+28 Mary kolom ta rekhe dilo.
+29 Jeff baranda te gelo.
+30 Mary rannaghor a gelo.
+31 Fred shekhan theke dudh ta nilo.
+32 Fred dudh ta Bill ke dilo.
+33 dudh ta ke dilo? to Bill? 	Fred	32
+1 Fred kaaj a gelo.
+2 Jeff rannaghor a gelo.
+3 Mary bagan a gelo.
+4 Bill baranda te gelo.
+5 Jeff baranda te gelo.
+6 Fred shekhan theke dudh ta nilo.
+7 Fred dokan a gelo.
+8 Jeff rannaghor a gelo.
+9 Fred dudh ta rekhe dilo.
+10 Jeff shekhan theke kola ta nilo.
+11 Jeff dokan a gelo.
+12 Jeff rannaghor a gelo.
+13 Jeff kola ta rekhe dilo.
+14 Jeff shekhan theke kola ta nilo.
+15 Jeff bagan a gelo.
+16 Jeff kola ta Mary ke dilo.
+17 kola ta ke dilo? to Mary? 	Jeff	16
+18 Mary kola ta Jeff ke dilo.
+19 Jeff handed the kola to Mary.
+20 kola ta ke nilo? 	Mary	19
+21 Fred rannaghor a gelo.
+22 Mary shekhan theke kolom ta nilo.
+23 Jeff ki dilo Mary ke? 	kola	19
+24 Mary kola ta Jeff ke dilo.
+25 Bill kaaj a gelo.
+26 kola ta ke nilo? 	Jeff	24
+27 Jeff handed the kola to Mary.
+28 Bill bagan a gelo.
+29 Jeff kola ta kake dilo?? 	Mary	27
+1 Bill kaaj a gelo.
+2 Mary shekhan a kolom ta pelo.
+3 Mary kolom ta rekhe dilo.
+4 Bill shekhan theke kola ta nilo.
+5 Bill kola ta rekhe dilo there.
+6 Mary shekhan theke dudh ta nilo.
+7 Bill bagan a gelo.
+8 Mary dudh ta rekhe dilo.
+9 Bill rannaghor a gelo.
+10 Bill bagan a gelo.
+11 Jeff rannaghor a gelo.
+12 Mary dokan a gelo.
+13 Fred chad a gelo.
+14 Mary bagan a gelo.
+15 Fred rannaghor a gelo.
+16 Bill baranda te gelo.
+17 Jeff bagan a gelo.
+18 Fred bagan a gelo.
+19 Jeff baranda te gelo.
+20 Mary dokan a gelo.
+21 Bill dokan a gelo.
+22 Mary kaaj a gelo.
+23 Bill kaaj a gelo.
+24 Bill chad a gelo.
+25 Mary shekhan theke kola ta nilo.
+26 Bill shekhan theke kolom ta nilo.
+27 Mary bagan a gelo.
+28 Mary kola ta Fred ke dilo.
+29 ke kola ta Fred ke dilo. 	Mary	28
+30 Fred kola ta Mary ke dilo.
+31 Mary kola ta Fred ke dilo.
+32 Mary kola ta kake dilo? 	Fred	31
+33 Bill kolom ta rekhe dilo.
+34 Fred kola ta rekhe dilo.
+35 Mary kola ta kake dilo? 	Fred	31
+36 Mary baranda te gelo.
+37 Bill bagan a gelo.
+38 Mary kola ta kake dilo? 	Fred	31
+39 Mary chad a gelo.
+40 Jeff bagan a gelo.
+41 Bill kaaj a gelo.
+42 Fred chad a gelo.
+43 Mary shekhan theke kolom ta nilo.
+44 Mary kolom ta Fred ke dilo.
+45 ke kolom ta fred ke dilo? 	Mary	44
+1 Jeff baranda te gelo.
+2 Jeff shekhan the kolom ta nilo.
+3 Jeff rannaghor a gelo.
+4 Jeff kolom ta Fred ke dilo.
+5 Jeff ki dilo Fred ke? 	kolom	4
+6 Fred kolom ta rekhe dilo.
+7 Fred bagan a gelo.
+8 Jeff kolom ta kake dilo? 	Fred	4
+9 Jeff bagan a gelo.
+10 Jeff chad a gelo.
+11 Jeff kolom ta kake dilo? 	Fred	4
+12 Jeff dokan a gelo.
+13 Fred chad a gelo.
+14 Fred baranda te gelo.
+15 Mary chad a gelo.
+16 Jeff shekhan theke kola ta nilo.
+17 Jeff kola ta rekhe dilo.
+18 Mary bagan a gelo.
+19 Mary kaaj a gelo.
+20 Jeff shekhan theke kola ta nilo.
+21 Mary chad a gelo.
+22 Bill dokan a gelo.
+23 Mary baranda te gelo.
+24 Jeff kola ta Bill ke dilo.
+25 Jeff baranda te gelo.
+26 Jeff kola ta kake dilo?? 	Bill	24
+27 Bill kola ta rekhe dilo.
+28 Bill bagan a gelo.
+29 Jeff ki dilo Bill ke? 	kola	24
+1 Jeff rannaghor a gelo.
+2 Jeff kaaj a gelo.
+3 Fred rannaghor a gelo.
+4 Fred shekhan the kolom ta nilo.
+5 Jeff dokan a gelo.
+6 Bill rannaghor a gelo.
+7 Fred kolom ta Bill ke dilo.
+8 Bill kolom ta Fred ke dilo.
+9 Bill ki dilo Fred ke?? 	kolom	8
+10 Fred kolom ta rekhe dilo.
+11 Bill bagan a gelo.
+12 kolom ta ke nilo?? 	Fred	8
+13 Jeff baranda te gelo
+14 Mary chad a gelo.
+15 ke did Bill give the kolom to? 	Fred	8
+16 Mary rannaghor a gelo.
+17 Mary shekhan the kolom ta nilo.
+18 Mary bagan a gelo.
+19 Mary kolom ta Bill ke dilo.
+20 Mary kolom ta kake dilo? 	Bill	19
+21 Bill kolom ta Mary ke dilo.
+22 Bill kaaj a gelo.
+23 ke kolom ta Mary ke dilo? 	Bill	21
+1 Bill rannaghor a gelo.
+2 Fred shekhan a kolom ta pelo.
+3 Jeff baranda te gelo.
+4 Bill dokan a gelo.
+5 Jeff dokan a gelo.
+6 Jeff rannaghor a gelo.
+7 Mary bagan a gelo.
+8 Fred kolom ta rekhe dilo.
+9 Fred shekhan theke kolom ta nilo.
+10 Jeff baranda te gelo.
+11 Jeff bagan a gelo.
+12 Fred rannaghor a gelo.
+13 Fred kolom ta rekhe dilo.
+14 Jeff kaaj a gelo.
+15 Mary kaaj a gelo.
+16 Fred shekhan theke kolom ta nilo.
+17 Bill baranda te gelo.
+18 Mary chad a gelo.
+19 Bill shekhan theke dudh ta nilo.
+20 Bill rannaghor a gelo.
+21 Fred kolom ta rekhe dilo.
+22 Bill shekhan theke kolom ta nilo.
+23 Bill bagan a gelo.
+24 Bill dudh ta rekhe dilo.
+25 Bill kolom ta rekhe dilo.
+26 Bill shekhan the kolom ta nilo.
+27 Mary shekhan theke kola ta nilo.
+28 Bill chad a gelo.
+29 Jeff dokan a gelo.
+30 Mary kola ta Bill ke dilo.
+31 Mary ki dilo Bill ke? 	kola	30
+32 Billkola ta Mary ke dilo.
+33 Mary kola ta Bill ke dilo.
+34 Mary ki dilo Bill ke? 	kola	33
+35 Mary kaaj a gelo.
+36 Mary baranda te gelo.
+37 kola ta ke nilo? 	Bill	33
+38 Fred dokan a gelo.
+39 Jeff kaaj a gelo.
+40 kola ta ke dilo? to Bill? 	Mary	33
+41 Jeff bagan a gelo.
+42 Jeff shekhan theke dudh ta nilo.
+43 Bill rannaghor a gelo.
+44 Bill chad a gelo.
+45 Bill kolom ta rekhe dilo there.
+46 Mary rannaghor a gelo.
+47 Bill kola ta rekhe dilo.
+48 Bill shekhan theke kolom ta nilo.
+49 Jeff dokan a gelo.
+50 Jeff dudh ta Fred ke dilo.
+51 Fred ke dudh ke dilo? 	Jeff	50
+1 Bill dokan a gelo.
+2 Jeff shekhan theke kola ta nilo.
+3 Jeff kola ta rekhe dilo.
+4 Bill kaaj a gelo.
+5 Jeff shekhan theke dudh ta nilo.
+6 Bill bagan a gelo.
+7 Bill kaaj a gelo.
+8 Jeff dokan a gelo.
+9 Jeff dudh ta Mary ke dilo.
+10 Bill chad a gelo.
+11 dudh ta ke pelo?? 	Mary	9
+12 Fred dokan a gelo.
+13 Bill rannaghor a gelo.
+14 Jeff ki dilo Mary ke? 	milk	9
+15 Mary dudh ta rekhe dilo.
+16 Jeff chad a gelo.
+17 Mary shekhan theke dudh ta nilo.
+18 Bill baranda te gelo
+19 Mary dudh ta Fred ke dilo.
+20 Fred dudh ta Mary ke dilo.
+21 dudh ta ke dilo? to Mary? 	Fred	20
+22 Mary dudh ta Fred ke dilo.
+23 Fred dudh ta Mary ke dilo.
+24 Fred ki Dilo Mary ke? 	milk	23
+25 Mary dudh ta Fred ke dilo.
+26 Fred dudh ta Mary ke dilo.
+27 ke did Fred give the milk to? 	Mary	26
+1 Bill baranda te gelo.
+2 Bill bagan a gelo.
+3 Fred dokan a gelo.
+4 Fred rannaghor a gelo.
+5 Jeff chad a gelo.
+6 Fred kaaj a gelo.
+7 Fred shekhan theke dudh ta nilo.
+8 Mary rannaghor a gelo.
+9 Bill baranda te gelo.
+10 Fred dokan a gelo.
+11 Fred dudh ta rekhe dilo.
+12 Fred shekhan theke dudh ta nilo.
+13 Fred chad a gelo.
+14 Mary dokan a gelo.
+15 Fred dudh ta Jeff ke dilo.
+16 Jeff dokan a gelo.
+17 dudh ta ke dilo? to Jeff? 	Fred	15
+18 Jeff dudh ta rekhe dilo.
+19 Jeff shekhan theke kola ta nilo.
+20 Fred ki dilo Jeff ke? 	milk	15
+21 Mary bagan a gelo.
+22 Mary dokan a gelo.
+23 Mary shekhan theke dudh ta nilo.
+24 Mary dudh ta rekhe dilo.
+25 Jeff shekhan the kolom ta nilo.
+26 Mary baranda te gelo.
+27 Bill bagan a gelo.
+28 Fred dokan a gelo.
+29 Jeff kaaj a gelo.
+30 Bill dokan a gelo.
+31 Fred baranda te gelo.
+32 Jeff kolom ta rekhe dilo.
+33 Mary dokan a gelo.
+34 Bill shekhan theke dudh ta nilo.
+35 Bill dudh ta Mary ke dilo.
+36 Mary dudh ta Bill ke dilo.
+37 Mary ki dilo Bill ke? 	milk	36
+38 Jeff shekhan a kolom ta pelo.
+39 Bill dudh ta rekhe dilo.
+40 dudh ta ke dilo?? 	Mary	36
+41 Bill shekhan theke dudh ta nilo.
+42 Bill dudh ta Mary ke dilo.
+43 Bill dudh ta kake dilo? 	Mary	42
+1 Jeff baranda te gelo.
+2 Fred kaaj a gelo.
+3 Bill dokan a gelo.
+4 Mary dokan a gelo.
+5 Fred baranda te gelo.
+6 Fred rannaghor a gelo.
+7 Fred baranda te gelo.
+8 Jeff chad a gelo.
+9 Bill baranda te gelo.
+10 Bill kaaj a gelo.
+11 Fred chad a gelo.
+12 Jeff dokan a gelo.
+13 Jeff rannaghor a gelo.
+14 Fred kaaj a gelo.
+15 Jeff baranda te gelo.
+16 Mary bagan a gelo.
+17 Mary rannaghor a gelo.
+18 Fred baranda te gelo
+19 Jeff chad a gelo.
+20 Mary shekhan theke dudh ta nilo.
+21 Mary kaaj a gelo.
+22 Jeff baranda te gelo.
+23 Mary dudh ta Bill ke dilo.
+24 Bill dudh ta Mary ke dilo.
+25 Bill ki dilo Mary ke? 	milk	24
+26 Mary dudh ta rekhe dilo.
+27 Fred dokan a gelo.
+28 dudh ta ke dilo?? 	Bill	24
+29 Bill shekhan theke dudh ta nilo.
+30 Bill dudh ta Mary ke dilo.
+31 Bill ki dilo Mary ke? 	milk	30
+32 Mary dudh ta Bill ke dilo.
+33 Bill dudh ta Mary ke dilo.
+34 dudh ta ke pelo?? 	Mary	33
+35 Mary dudh ta Bill ke dilo.
+36 Bill dudh ta Mary ke dilo.
+37 Bill ki dilo Mary ke? 	milk	36
+1 Fred shekhan theke kola ta nilo.
+2 Jeff chad a gelo.
+3 Fred rannaghor a gelo.
+4 Jeff bagan a gelo.
+5 Mary shekhan theke kolom ta nilo.
+6 Mary baranda te gelo
+7 Fred kola ta rekhe dilo.
+8 Fred baranda te gelo.
+9 Mary kolom ta rekhe dilo.
+10 Jeff baranda te gelo.
+11 Bill baranda te gelo.
+12 Jeff kaaj a gelo.
+13 Bill shekhan theke kolom ta nilo.
+14 Bill chad a gelo.
+15 Jeff shekhan theke dudh ta nilo.
+16 Fred dokan a gelo.
+17 Fred kaaj a gelo.
+18 Jeff dudh ta Fred ke dilo.
+19 Jeff dudh ta kake dilo? 	Fred	18
+20 Fred baranda te gelo.
+21 Fred dudh ta rekhe dilo.
+22 dudh ta ke pelo?? 	Fred	18
+23 Bill kolom ta rekhe dilo.
+24 Bill shekhan theke kolom ta nilo.
+25 Jeff ki dilo Fred ke? 	milk	18
+26 Bill rannaghor a gelo.
+27 Mary shekhan theke dudh ta nilo.
+28 Mary dudh ta Fred ke dilo.
+29 Mary chad a gelo.
+30 Mary kake dudh dilo? 	Fred	28
+31 Mary rannaghor a gelo.
+32 Bill kolom ta Mary ke dilo.
+33 Fred ke dudh ke dilo? 	Mary	28
+1 Bill shekhan theke dudh ta nilo.
+2 Bill dudh ta Fred ke dilo.
+3 Bill dudh ta kake dilo? 	Fred	2
+4 Fred dudh ta Bill ke dilo.
+5 Bill dudh ta Fred ke dilo.
+6 Bill ki dilo Fred ke?? 	milk	5
+7 Fred chad a gelo.
+8 Bill chad a gelo.
+9 Bill ki dilo Fred ke?? 	milk	5
+10 Fred shekhan the kolom ta nilo.
+11 Mary rannaghor a gelo.
+12 dudh ta ke pelo?? 	Fred	5
+13 Fred kolom ta Bill ke dilo.
+14 Bill shekhan theke kola ta nilo.
+15 kolom ta ke nilo?? 	Bill	13
+1 Fred kaaj a gelo.
+2 Jeff dokan a gelo.
+3 Jeff rannaghor a gelo.
+4 Fred shekhan theke kola ta nilo.
+5 Fred dokan a gelo.
+6 Fred baranda te gelo.
+7 Fred chad a gelo.
+8 Fred kola ta rekhe dilo.
+9 Jeff shekhan the kolom ta nilo.
+10 Bill baranda te gelo
+11 Bill rannaghor a gelo.
+12 Jeff kolom ta Bill ke dilo.
+13 Jeff ki dilo Bill ke? 	kolom	12
+14 Bill kaaj a gelo.
+15 Jeff kaaj a gelo.
+16 kolom ta ke nilo?? 	Bill	12
+17 Bill gave the kolom to Jeff.
+18 Jeff kolom ta Bill ke dilo.
+19 kolom ta ke nilo?? 	Bill	18
+20 Mary rannaghor a gelo.
+21 Mary dokan a gelo.
+22 ke kolom ta Bill ke dilo? 	Jeff	18
+23 Bill kolom ta jeff ke dilo.
+24 Jeff dokan a gelo.
+25 Bill ki dilo Jeff ke? 	kolom	23
+1 Bill rannaghor a gelo.
+2 Jeff kaaj a gelo.
+3 Bill baranda te gelo.
+4 Fred chad a gelo.
+5 Jeff rannaghor a gelo.
+6 Jeff shekhan a kolom ta pelo.
+7 Bill rannaghor a gelo.
+8 Jeff kolom ta Bill ke dilo
+9 kolom ta ke dilo? 	Jeff	8
+10 Bill kolom ta Jeff ke dilo.
+11 Jeff kolom ta Bill ke dilo.
+12 ke kolom ta Bill ke dilo? 	Jeff	11
+13 Bill shekhan theke dudh ta nilo.
+14 Fred baranda te gelo.
+15 kolom ta ke dilo? 	Jeff	11
+16 Mary baranda te gelo.
+17 Bill dokan a gelo.
+18 kolom ta ke dilo? 	Jeff	11
+19 Bill bagan a gelo.
+20 Bill kolom ta rekhe dilo.
+21 Bill shekhan theke kolom ta nilo.
+22 Jeff baranda te gelo
+23 Bill baranda te gelo.
+24 Bill kolom ta Mary ke dilo.
+25 Bill ki dilo Mary ke? 	kolom	24
+1 Fred dokan a gelo.
+2 Mary baranda te gelo
+3 Jeff bagan a gelo.
+4 Jeff baranda te gelo.
+5 Bill dokan a gelo.
+6 Jeff shekhan theke dudh ta nilo.
+7 Jeff dudh ta Mary ke dilo.
+8 Mary dudh ta Jeff ke dilo.
+9 dudh ta ke dilo?? 	Mary	8
+10 Jeff dokan a gelo.
+11 Bill rannaghor a gelo.
+12 Mary kake dudh dilo? 	Jeff	8
+13 Fred chad a gelo.
+14 Mary kaaj a gelo.
+15 dudh ta ke dilo?? 	Mary	8
+16 Jeff dudh ta rekhe dilo.
+17 Jeff shekhan theke dudh ta nilo.
+18 Mary rannaghor a gelo.
+19 Bill dokan a gelo.
+20 Jeff dudh ta Bill ke dilo.
+21 Jeff baranda te gelo.
+22 Jeff ki dilo Bill ke? 	milk	20
+23 Jeff rannaghor a gelo.
+24 Mary shekhan theke kolom ta nilo.
+25 dudh ta ke dilo? to Bill? 	Jeff	20
+1 Bill chad a gelo.
+2 Fred shekhan theke kola ta nilo.
+3 Mary shekhan theke kolom ta nilo.
+4 Mary baranda te gelo
+5 Fred kola ta Jeff ke dilo.
+6 Mary shekhan theke dudh ta nilo.
+7 Fred ki dilo Jeff ke? 	kola	5
+8 Mary bagan a gelo.
+9 Jeff kola ta Fred ke dilo.
+10 ke kola ta Fred ke dilo. 	Jeff	9
+11 Fred kola ta rekhe dilo.
+12 Mary dudh ta rekhe dilo.
+13 ke kola ta Fred ke dilo. 	Jeff	9
+14 Mary shekhan theke dudh ta nilo.
+15 Jeff chad a gelo.
+16 kola ta ke nilo? 	Fred	9
+17 Jeff bagan a gelo.
+18 Mary kolom ta jeff ke dilo.
+19 kolom ta ke dilo to Jeff? 	Mary	18
+1 Bill bagan a gelo.
+2 Mary dokan a gelo.
+3 Jeff shekhan theke dudh ta nilo.
+4 Jeff dudh ta Bill ke dilo.
+5 Jeff ki dilo Bill ke? 	milk	4
+6 Bill dudh ta rekhe dilo.
+7 Fred rannaghor a gelo.
+8 Jeff ki dilo Bill ke? 	milk	4
+9 Mary chad a gelo.
+10 Jeff baranda te gelo.
+11 Jeff ki dilo Bill ke? 	milk	4
+12 Bill rannaghor a gelo.
+13 Jeff chad a gelo.
+14 Jeff rannaghor a gelo.
+15 Fred dokan a gelo.
+16 Fred bagan a gelo.
+17 Fred dokan a gelo.
+18 Jeff kaaj a gelo.
+19 Bill dokan a gelo.
+20 Mary dokan a gelo.
+21 Mary baranda te gelo.
+22 Fred kaaj a gelo.
+23 Fred shekhan theke kola ta nilo.
+24 Jeff shekhan theke kolom ta nilo.
+25 Fred kola ta Jeff ke dilo.
+26 Fred ki dilo Jeff ke? 	kola	25
+27 Jeff kola ta Fred ke dilo.
+28 Fred kola ta Jeff ke dilo.
+29 kola ta ke dilo?? 	Fred	28
+1 Mary baranda te gelo.
+2 Mary shekhan theke kolom ta nilo.
+3 Mary kolom ta Fred ke dilo.
+4 Fred kolom ta Mary ke dilo.
+5 Fred footbal ta kake dilo? 	Mary	4
+6 Jeff chad a gelo.
+7 Mary kolom ta fred ke dilo.
+8 Mary ki dilo Fred ke? 	kolom	7
+9 Fred chad a gelo.
+10 Fred kolom ta jeff ke dilo.
+11 Fred ki dilo Jeff ke? 	kolom	10
+12 Bill shekhan theke dudh ta nilo.
+13 Jeff kolom ta rekhe dilo.
+14 kolom ta ke nilo?? 	Jeff	10
+15 Mary kaaj a gelo.
+16 Bill rannaghor a gelo.
+17 Fred ki dilo Jeff ke? 	kolom	10
+1 Jeff chad a gelo.
+2 Bill baranda te gelo
+3 Jeff dokan a gelo.
+4 Jeff bagan a gelo.
+5 Mary baranda te gelo.
+6 Bill shekhan theke dudh ta nilo.
+7 Mary bagan a gelo.
+8 Jeff chad a gelo.
+9 Jeff shekhan theke kola ta nilo.
+10 Jeff kola ta rekhe dilo.
+11 Fred kaaj a gelo.
+12 Bill kaaj a gelo.
+13 Bill dudh ta rekhe dilo.
+14 Mary baranda te gelo.
+15 Mary rannaghor a gelo.
+16 Jeff kaaj a gelo.
+17 Jeff shekhan theke kolom ta nilo.
+18 Jeff handed the kolom to Fred.
+19 kolom ta ke dilo? 	Jeff	18
+20 Fred kolom ta Bill ke dilo.
+21 Jeff bagan a gelo.
+22 kolom ta ke nilo?? 	Bill	20
+23 Jeff kaaj a gelo.
+24 Mary kaaj a gelo.
+25 Fred ki dilo Bill ke? 	kolom	20
+26 Fred baranda te gelo.
+27 Jeff dokan a gelo.
+28 Bill kolom ta Mary ke dilo.
+29 Mary kolom ta Bill ke dilo
+30 ke kolom ta Bill ke dilo? 	Mary	29
+31 Bill kolom ta Mary ke dilo.
+32 Mary dokan a gelo.
+33 Bill ki dilo Mary ke? 	kolom	31
+1 Mary kaaj a gelo.
+2 Mary chad a gelo.
+3 Mary shekhan a kolom ta pelo.
+4 Mary kolom ta Fred ke dilo.
+5 kolom ta ke nilo?? 	Fred	4
+6 Fred shekhan theke dudh ta nilo.
+7 Fred kolom ta Mary ke dilo.
+8 Fred footbal ta kake dilo? 	Mary	7
+9 Jeff chad a gelo.
+10 Mary kolom ta Fred ke dilo.
+11 kolom ta ke dilo? 	Mary	10
+12 Fred kolom ta Mary ke dilo.
+13 Fred baranda te gelo.
+14 Fred ki Dilo Mary ke? 	kolom	12
+15 Fred dudh ta rekhe dilo.
+16 Mary bagan a gelo.
+17 kolom ta ke dilo? 	Fred	12
+1 Bill dokan a gelo.
+2 Bill rannaghor a gelo.
+3 Fred shekhan theke dudh ta nilo.
+4 Fred dudh ta rekhe dilo.
+5 Fred shekhan theke dudh ta nilo.
+6 Fred dudh ta rekhe dilo.
+7 Jeff bagan a gelo.
+8 Mary rannaghor a gelo.
+9 Fred shekhan theke dudh ta nilo.
+10 Fred dudh ta rakhlo.
+11 Jeff rannaghor a gelo.
+12 Jeff bagan a gelo.
+13 Bill dokan a gelo.
+14 Fred shekhan theke dudh ta nilo.
+15 Bill baranda te gelo.
+16 Fred dokan a gelo.
+17 Jeff chad a gelo.
+18 Fred dudh ta rekhe dilo.
+19 Fred shekhan theke dudh ta nilo.
+20 Jeff bagan a gelo.
+21 Mary bagan a gelo.
+22 Fred dudh ta rekhe dilo.
+23 Fred shekhan theke dudh ta nilo.
+24 Mary shekhan theke kola ta nilo.
+25 Mary baranda te gelo.
+26 Bill rannaghor a gelo.
+27 Jeff shekhan the kolom ta nilo.
+28 Jeff rannaghor a gelo.
+29 Fred chad a gelo.
+30 Jeff kolom ta Bill ke dilo.
+31 kolom ta ke dilo? 	Jeff	30
+32 Fred dudh ta rekhe dilo.
+33 Bill kolom ta Jeff ke dilo.
+34 Bill ki dilo Jeff ke? 	kolom	33
+35 Jeff kolom ta Bill ke dilo.
+36 Bill kolom ta jeff ke dilo.
+37 kolom ta ke dilo to Jeff? 	Bill	36
+38 Fred shekhan theke dudh ta nilo.
+39 Jeff kolom ta Bill ke dilo
+40 Jeff ki dilo Bill ke? 	kolom	39
+41 Bill gave the kolom to Jeff.
+42 Jeff kolom ta Bill ke dilo
+43 Jeff ki dilo Bill ke? 	kolom	42
+1 Bill rannaghor a gelo.
+2 Fred kaaj a gelo.
+3 Jeff shekhan theke dudh ta nilo.
+4 Jeff kaaj a gelo.
+5 Jeff dudh ta Fred ke dilo.
+6 Fred dudh ta Jeff ke dilo.
+7 Fred ki dilo Jeff ke? 	milk	6
+8 Jeff dudh ta Fred ke dilo.
+9 Fred dudh ta rekhe dilo.
+10 Fred ke dudh ke dilo? 	Jeff	8
+11 Jeff shekhan theke dudh ta nilo.
+12 Jeff dudh ta Fred ke dilo.
+13 Fred ke dudh ke dilo? 	Jeff	12
+14 Fred dudh ta Jeff ke dilo.
+15 Jeff dudh ta Fred ke dilo.
+16 dudh ta ke pelo?? 	Fred	15
+17 Fred dudh ta Jeff ke dilo.
+18 Jeff dudh ta Fred ke dilo.
+19 Fred ke dudh ke dilo? 	Jeff	18
+1 Mary kaaj a gelo.
+2 Mary bagan a gelo.
+3 Mary rannaghor a gelo.
+4 Fred dokan a gelo.
+5 Jeff kaaj a gelo.
+6 Mary dokan a gelo.
+7 Fred shekhan a kolom ta pelo.
+8 Fred kolom ta Mary ke dilo.
+9 ke kolom ta Mary ke dilo? 	Fred	8
+10 Fred shekhan theke dudh ta nilo.
+11 Mary kolom ta Fred ke dilo.
+12 Mary ki dilo Fred ke? 	kolom	11
+13 Jeff baranda te gelo.
+14 Fred kolom ta rekhe dilo.
+15 Mary ki dilo Fred ke? 	kolom	11
+16 Fred dudh ta Mary ke dilo.
+17 Mary dudh ta Fred ke dilo.
+18 Mary kolom ta kake dilo? 	Fred	11
+19 Fred dudh ta Mary ke dilo.
+20 Mary dudh ta rakhlo.
+21 dudh ta ke dilo?? 	Fred	19
+1 Bill chad a gelo.
+2 Fred dokan a gelo.
+3 Fred rannaghor a gelo.
+4 Jeff kaaj a gelo.
+5 Bill dokan a gelo.
+6 Fred chad a gelo.
+7 Jeff shekhan theke dudh ta nilo.
+8 Bill shekhan theke kola ta nilo.
+9 Jeff shekhan the kolom ta nilo.
+10 Mary dokan a gelo.
+11 Jeff kolom ta rekhe dilo.
+12 Jeff bagan a gelo.
+13 Fred rannaghor a gelo.
+14 Billkola ta Mary ke dilo.
+15 Bill ki dilo Mary ke? 	kola	14
+16 Mary kola ta Bill ke dilo.
+17 Mary baranda te gelo.
+18 kola ta ke dilo? to Bill? 	Mary	16
+19 Fred baranda te gelo.
+20 Jeff dudh ta rekhe dilo.
+21 kola ta ke dilo?? 	Mary	16
+22 Mary bagan a gelo.
+23 Jeff shekhan theke dudh ta nilo.
+24 Jeff dudh ta rakhlo.
+25 Fred chad a gelo.
+26 Mary shekhan theke dudh ta nilo.
+27 Fred baranda te gelo.
+28 Mary dudh ta Jeff ke dilo.
+29 Jeff dudh ta Mary ke dilo.
+30 Jeff ki dilo Mary ke? 	milk	29
+31 Bill kaaj a gelo.
+32 Jeff baranda te gelo
+33 dudh ta ke dilo? to Mary? 	Jeff	29
+1 Bill kaaj a gelo.
+2 Jeff kaaj a gelo.
+3 Fred baranda te gelo
+4 Fred kaaj a gelo.
+5 Mary shekhan theke kola ta nilo.
+6 Fred chad a gelo.
+7 Mary kola ta Fred ke dilo.
+8 Jeff bagan a gelo.
+9 Mary kola ta kake dilo? 	Fred	7
+10 Fredkola ta Mary ke dilo.
+11 Mary kola ta Fred ke dilo.
+12 Mary ki dilo Fred ke? 	kola	11
+13 Jeff baranda te gelo.
+14 Fred kola ta Marye ke dilo.
+15 Fred kola ta kake dilo? 	Mary	14
+16 Mary kola ta rekhe dilo.
+17 Bill baranda te gelo.
+18 Fred ki Dilo Mary ke? 	kola	14
+19 Fred kaaj a gelo.
+20 Fred baranda te gelo
+21 Fred kola ta kake dilo? 	Mary	14
+1 Fred kaaj a gelo.
+2 Bill bagan a gelo.
+3 Fred bagan a gelo.
+4 Mary rannaghor a gelo.
+5 Mary shekhan theke kola ta nilo.
+6 Mary kola ta Jeff ke dilo.
+7 kola ta ke nilo? 	Jeff	6
+8 Mary chad a gelo.
+9 Jeff kola ta rekhe dilo.
+10 Mary ki dilo Jeff ke? 	kola	6
+11 Fred chad a gelo.
+12 Jeff shekhan theke dudh ta nilo.
+13 kola ta ke dilo?? 	Mary	6
+14 Bill dokan a gelo.
+15 Bill shekhan theke kolom ta nilo.
+16 Bill kolom ta rekhe dilo.
+17 Jeff dudh ta rakhlo.
+18 Bill rannaghor a gelo.
+19 Bill dokan a gelo.
+20 Fred baranda te gelo.
+21 Jeff shekhan theke kola ta nilo.
+22 Mary baranda te gelo.
+23 Jeff kola ta rekhe dilo.
+24 Bill shekhan theke kolom ta nilo.
+25 Fred bagan a gelo.
+26 Jeff kaaj a gelo.
+27 Fred dokan a gelo.
+28 Mary kaaj a gelo.
+29 Bill kolom ta Fred ke dilo.
+30 kolom ta ke nilo?? 	Fred	29
+31 Fred kolom ta Bill ke dilo.
+32 Fred kaaj a gelo.
+33 kolom ta ke dilo? 	Fred	31
+1 Jeff kaaj a gelo.
+2 Jeff dokan a gelo.
+3 Fred kaaj a gelo.
+4 Mary baranda te gelo.
+5 Mary shekhan theke kola ta nilo.
+6 Jeff baranda te gelo
+7 Mary kola ta Jeff ke dilo.
+8 Jeff handed the kola to Mary.
+9 Jeff ki dilo Mary ke? 	kola	8
+10 Fred baranda te gelo.
+11 Jeff bagan a gelo.
+12 Jeff ki dilo Mary ke? 	kola	8
+13 Mary kola ta Fred ke dilo.
+14 Fred kola ta Mary ke dilo.
+15 kola ta ke dilo?? 	Fred	14
+16 Mary kola ta rekhe dilo there.
+17 Mary shekhan theke kola ta nilo.
+18 Fred ki Dilo Mary ke? 	kola	14
+19 Fred chad a gelo.
+20 Jeff rannaghor a gelo.
+21 kola ta ke dilo?? 	Fred	14
+1 Fred shekhan theke dudh ta nilo.
+2 Fred rannaghor a gelo.
+3 Fred dudh ta rekhe dilo.
+4 Mary bagan a gelo.
+5 Bill rannaghor a gelo.
+6 Fred dokan a gelo.
+7 Jeff chad a gelo.
+8 Bill bagan a gelo.
+9 Bill chad a gelo.
+10 Fred kaaj a gelo.
+11 Jeff baranda te gelo.
+12 Fred baranda te gelo
+13 Mary rannaghor a gelo.
+14 Mary chad a gelo.
+15 Bill baranda te gelo.
+16 Bill dokan a gelo.
+17 Jeff bagan a gelo.
+18 Mary bagan a gelo.
+19 Fred chad a gelo.
+20 Jeff kaaj a gelo.
+21 Jeff baranda te gelo.
+22 Fred dokan a gelo.
+23 Jeff kaaj a gelo.
+24 Jeff chad a gelo.
+25 Jeff dokan a gelo.
+26 Jeff kaaj a gelo.
+27 Jeff dokan a gelo.
+28 Mary kaaj a gelo.
+29 Mary shekhan theke kola ta nilo.
+30 Jeff kaaj a gelo.
+31 Mary bagan a gelo.
+32 Mary kola ta rekhe dilo.
+33 Mary rannaghor a gelo.
+34 Jeff baranda te gelo.
+35 Jeff rannaghor a gelo.
+36 Mary kaaj a gelo.
+37 Jeff bagan a gelo.
+38 Mary baranda te gelo.
+39 Jeff shekhan theke kola ta nilo.
+40 Jeff kola ta rekhe dilo.
+41 Jeff shekhan theke kola ta nilo.
+42 Fred bagan a gelo.
+43 Jeff kaaj a gelo.
+44 Jeff kola ta rekhe dilo.
+45 Bill baranda te gelo.
+46 Bill kaaj a gelo.
+47 Bill shekhan theke kola ta nilo.
+48 Bill kola ta rekhe dilo.
+49 Bill chad a gelo.
+50 Jeff shekhan theke kola ta nilo.
+51 Mary dokan a gelo.
+52 Mary rannaghor a gelo.
+53 Fred kaaj a gelo.
+54 Jeff kola ta rekhe dilo.
+55 Fred bagan a gelo.
+56 Jeff shekhan theke kola ta nilo.
+57 Fred baranda te gelo.
+58 Jeff bagan a gelo.
+59 Jeff kola ta rekhe dilo.
+60 Bill kaaj a gelo.
+61 Jeff shekhan theke kola ta nilo.
+62 Mary dokan a gelo.
+63 Jeff baranda te gelo.
+64 Mary rannaghor a gelo.
+65 Jeff kola ta Fred ke dilo.
+66 Bill chad a gelo.
+67 Jeff ki dilo Fred ke? 	kola	65
+68 Bill kaaj a gelo.
+69 Jeff bagan a gelo.
+70 ke kola ta Fred ke dilo. 	Jeff	65
+71 Mary dokan a gelo.
+72 Fred chad a gelo.
+73 Fred kola ta rekhe dilo.
+74 Bill dokan a gelo.
+75 Bill kaaj a gelo.
+76 Fred shekhan theke kola ta nilo.
+77 Fred kola ta rekhe dilo there.
+78 Mary chad a gelo.
+79 Fred shekhan theke kola ta nilo.
+80 Bill chad a gelo.
+81 Fred kola ta Marye ke dilo.
+82 Mary kola ta Fred ke dilo.
+83 kola ta ke dilo?? 	Mary	82
+84 Bill kaaj a gelo.
+85 Fred kola ta rekhe dilo.
+86 ke kola ta Fred ke dilo. 	Mary	82
+87 Mary shekhan theke kola ta nilo.
+88 Mary kola ta Fred ke dilo.
+89 Mary kola ta kake dilo? 	Fred	88
+1 Jeff shekhan theke kolom ta nilo.
+2 Mary dokan a gelo.
+3 Fred bagan a gelo.
+4 Jeff kolom ta rekhe dilo.
+5 Bill kaaj a gelo.
+6 Jeff shekhan the kolom ta nilo.
+7 Mary rannaghor a gelo.
+8 Jeff kolom ta fred ke dilo.
+9 Jeff ki dilo Fred ke? 	kolom	8
+10 Bill bagan a gelo.
+11 Fred kolom ta Bill ke dilo.
+12 kolom ta ke dilo? 	Fred	11
+13 Bill kolom ta fred ke dilo.
+14 Mary bagan a gelo.
+15 ke kolom ta fred ke dilo? 	Bill	13
+16 Fred kolom ta Mary ke dilo.
+17 Mary kolom ta fred ke dilo.
+18 kolom ta ke dilo? 	Mary	17
+19 Fred kolom ta rekhe dilo.
+20 Bill shekhan the kolom ta nilo.
+21 Mary ki dilo Fred ke? 	kolom	17
+1 Fred baranda te gelo.
+2 Jeff dokan a gelo.
+3 Fred shekhan theke dudh ta nilo.
+4 Mary kaaj a gelo.
+5 Jeff kaaj a gelo.
+6 Jeff chad a gelo.
+7 Jeff dokan a gelo.
+8 Jeff shekhan theke kola ta nilo.
+9 Jeff shekhan the kolom ta nilo.
+10 Fred dudh ta rekhe dilo.
+11 Jeff rannaghor a gelo.
+12 Jeff kola ta rekhe dilo there.
+13 Fred shekhan theke dudh ta nilo.
+14 Bill bagan a gelo.
+15 Fred bagan a gelo.
+16 Jeff shekhan theke kola ta nilo.
+17 Jeff kola ta rekhe dilo there.
+18 Fred dudh ta Bill ke dilo.
+19 dudh ta ke dilo?? 	Fred	18
+20 Bill dudh ta Fred ke dilo.
+21 Fred chad a gelo.
+22 Bill ki dilo Fred ke?? 	milk	20
+23 Jeff shekhan theke kola ta nilo.
+24 Jeff kola ta rekhe dilo.
+25 dudh ta ke dilo?? 	Bill	20
+26 Jeff kolom ta rekhe dilo.
+27 Bill baranda te gelo.
+28 Jeff shekhan the kolom ta nilo.
+29 Jeff kolom ta rekhe dilo.
+30 Mary chad a gelo.
+31 Mary baranda te gelo.
+32 Jeff baranda te gelo.
+33 Jeff kaaj a gelo.
+34 Bill kaaj a gelo.
+35 Bill dokan a gelo.
+36 Fred dudh ta rekhe dilo.
+37 Fred bagan a gelo.
+38 Jeff baranda te gelo.
+39 Jeff chad a gelo.
+40 Bill chad a gelo.
+41 Jeff shekhan theke dudh ta nilo.
+42 Jeff dudh ta Bill ke dilo.
+43 Bill dudh ta Jeff ke dilo.
+44 dudh ta ke dilo?? 	Bill	43
+45 Jeff dudh ta Bill ke dilo.
+46 Bill baranda te gelo.
+47 Jeff ki dilo Bill ke? 	milk	45
+1 Jeff shekhan theke kola ta nilo.
+2 Jeff dokan a gelo.
+3 Jeff kola ta rekhe dilo.
+4 Jeff shekhan theke kola ta nilo.
+5 Jeff kola ta Fred ke dilo.
+6 Fred kola ta Jeff ke dilo.
+7 Fred ki dilo Jeff ke? 	kola	6
+8 Jeff kola ta Fred ke dilo.
+9 Fred kola ta rekhe dilo.
+10 Jeff ki dilo Fred ke? 	kola	8
+11 Mary kaaj a gelo.
+12 Bill dokan a gelo.
+13 Jeff ki dilo Fred ke? 	kola	8
+14 Fred rannaghor a gelo.
+15 Jeff kaaj a gelo.
+16 Bill shekhan theke kola ta nilo.
+17 Bill bagan a gelo.
+18 Jeff chad a gelo.
+19 Jeff baranda te gelo
+20 Bill kola ta rekhe dilo.
+21 Fred chad a gelo.
+22 Fred shekhan theke dudh ta nilo.
+23 Fred dudh ta rekhe dilo.
+24 Jeff dokan a gelo.
+25 Bill shekhan theke kola ta nilo.
+26 Bill chad a gelo.
+27 Bill kola ta Fred ke dilo.
+28 kola ta ke nilo? 	Fred	27
+29 Jeff chad a gelo.
+30 Fred kola ta Bill ke dilo.
+31 Fred ki dilo Bill ke? 	kola	30
+1 Mary baranda te gelo
+2 Mary shekhan theke kola ta nilo.
+3 Fred shekhan theke kolom ta nilo.
+4 Bill rannaghor a gelo.
+5 Fred kolom ta Bill ke dilo.
+6 Bill kolom ta Fred ke dilo.
+7 ke did Bill give the kolom to? 	Fred	6
+8 Jeff chad a gelo.
+9 Fred kolom ta Bill ke dilo
+10 kolom ta ke nilo?? 	Bill	9
+11 Fred kaaj a gelo.
+12 Jeff dokan a gelo.
+13 kolom ta ke nilo?? 	Bill	9
+14 Jeff bagan a gelo.
+15 Mary bagan a gelo.
+16 kolom ta ke nilo?? 	Bill	9
+17 Jeff kaaj a gelo.
+18 Jeff chad a gelo.
+19 Fred shekhan theke dudh ta nilo.
+20 Fred bagan a gelo.
+21 Mary kola ta Fred ke dilo.
+22 Fredkola ta Mary ke dilo.
+23 kola ta ke nilo? 	Mary	22
+1 Bill bagan a gelo.
+2 Jeff shekhan theke dudh ta nilo.
+3 Jeff rannaghor a gelo.
+4 Fred dokan a gelo.
+5 Jeff dudh ta rekhe dilo.
+6 Jeff shekhan theke kola ta nilo.
+7 Jeff shekhan theke dudh ta nilo.
+8 Jeff kola ta rekhe dilo.
+9 Mary rannaghor a gelo.
+10 Jeff dudh ta Mary ke dilo.
+11 Jeff dudh ta kake dilo? 	Mary	10
+12 Mary dudh ta Jeff ke dilo.
+13 Mary shekhan theke kola ta nilo.
+14 Mary ki dilo Jeff ke? 	milk	12
+15 Jeff dudh ta rekhe dilo.
+16 Mary shekhan theke dudh ta nilo.
+17 Mary ki dilo Jeff ke? 	milk	12
+18 Fred bagan a gelo.
+19 Mary dudh ta rekhe dilo.
+20 Mary kola ta Jeff ke dilo.
+21 Jeff handed the kola to Mary.
+22 Jeff ki dilo Mary ke? 	kola	21
+23 Mary kola ta Jeff ke dilo.
+24 Mary shekhan theke dudh ta nilo.
+25 Mary kola ta kake dilo? 	Jeff	23
+1 Fred chad a gelo.
+2 Jeff baranda te gelo
+3 Fred kaaj a gelo.
+4 Jeff shekhan theke kolom ta nilo.
+5 Bill rannaghor a gelo.
+6 Bill shekhan theke kola ta nilo.
+7 Fred rannaghor a gelo.
+8 Mary rannaghor a gelo.
+9 Bill kola ta Mary ke dilo.
+10 Mary kola ta Fred ke dilo.
+11 Mary ki dilo Fred ke? 	kola	10
+12 Fredkola ta Mary ke dilo.
+13 Fred chad a gelo.
+14 kola ta ke dilo? to Mary? 	Fred	12
+15 Mary kola ta Bill ke dilo.
+16 Fred kaaj a gelo.
+17 kola ta ke nilo? 	Bill	15
+18 Bill kola ta rekhe dilo.
+19 Mary shekhan theke kola ta nilo.
+20 Mary ki dilo Bill ke? 	kola	15
+21 Jeff kolom ta rekhe dilo.
+22 Mary kaaj a gelo.
+23 Mary kola ta Fred ke dilo.
+24 Fred kola ta Marye ke dilo.
+25 Fred ki Dilo Mary ke? 	kola	24
+1 Jeff kaaj a gelo.
+2 Bill bagan a gelo.
+3 Fred shekhan theke kola ta nilo.
+4 Mary dokan a gelo.
+5 Fredkola ta Mary ke dilo.
+6 Mary kola ta Fred ke dilo.
+7 Mary ki dilo Fred ke? 	kola	6
+8 Fred kola ta Mary ke dilo.
+9 Mary kola ta Fred ke dilo.
+10 ke kola ta Fred ke dilo. 	Mary	9
+11 Fred chad a gelo.
+12 Mary bagan a gelo.
+13 Mary ki dilo Fred ke? 	kola	9
+14 Bill kaaj a gelo.
+15 Fred shekhan theke kolom ta nilo.
+16 Mary ki dilo Fred ke? 	kola	9
+17 Fred baranda te gelo
+18 Bill bagan a gelo.
+19 Jeff chad a gelo.
+20 Fred chad a gelo.
+21 Fred kola ta Jeff ke dilo.
+22 Jeff kola ta Fred ke dilo.
+23 Jeff kola ta kake dilo?? 	Fred	22
+1 Fred shekhan a kolom ta pelo.
+2 Fred kolom ta rekhe dilo.
+3 Fred shekhan theke kolom ta nilo.
+4 Fred kolom ta rekhe dilo.
+5 Bill shekhan theke kola ta nilo.
+6 Mary kaaj a gelo.
+7 Fred bagan a gelo.
+8 Bill kaaj a gelo.
+9 Bill kola ta Mary ke dilo.
+10 Mary shekhan theke dudh ta nilo.
+11 Bill ki dilo Mary ke? 	kola	9
+12 Mary kola ta Bill ke dilo.
+13 Bill kola ta rekhe dilo.
+14 kola ta ke nilo? 	Bill	12
+15 Mary dudh ta rekhe dilo.
+16 Mary shekhan theke dudh ta nilo.
+17 Mary ki dilo Bill ke? 	kola	12
+18 Jeff chad a gelo.
+19 Mary shekhan theke kola ta nilo.
+20 Mary kola ta Bill ke dilo.
+21 Bill kola ta rekhe dilo.
+22 Mary ki dilo Bill ke? 	kola	20
+23 Mary dudh ta Bill ke dilo.
+24 Bill dudh ta Mary ke dilo.
+25 Bill dudh ta kake dilo? 	Mary	24
+1 Mary dokan a gelo.
+2 Bill rannaghor a gelo.
+3 Bill kaaj a gelo.
+4 Bill shekhan theke kolom ta nilo.
+5 Mary rannaghor a gelo.
+6 Bill handed the kolom to Fred.
+7 ke did Bill give the kolom to? 	Fred	6
+8 Fred kolom ta Bill ke dilo.
+9 Bill rannaghor a gelo.
+10 kolom ta ke nilo?? 	Bill	8
+11 Bill kolom ta Mary ke dilo.
+12 Mary dokan a gelo.
+13 Bill ki dilo Mary ke? 	kolom	11
+14 Jeff baranda te gelo.
+15 Jeff dokan a gelo.
+16 ke did Bill give the kolom to? 	Mary	11
+17 Mary gave the kolom to Jeff.
+18 Jeff kolom ta Mary ke dilo.
+19 Jeff ki dilo Mary ke? 	kolom	18
+1 Fred dokan a gelo.
+2 Bill dokan a gelo.
+3 Bill baranda te gelo.
+4 Jeff kaaj a gelo.
+5 Bill dokan a gelo.
+6 Fred kaaj a gelo.
+7 Fred shekhan theke kolom ta nilo.
+8 Jeff baranda te gelo.
+9 Mary kaaj a gelo.
+10 Fred chad a gelo.
+11 Fred kolom ta rekhe dilo there.
+12 Jeff shekhan theke kola ta nilo.
+13 Jeff kaaj a gelo.
+14 Jeff handed the kola to Mary.
+15 Jeff ki dilo Mary ke? 	kola	14
+16 Mary kola ta rekhe dilo.
+17 Mary chad a gelo.
+18 kola ta ke dilo? to Mary? 	Jeff	14
+19 Fred shekhan the kolom ta nilo.
+20 Fred kolom ta Mary ke dilo.
+21 Fred ki Dilo Mary ke? 	kolom	20
+22 Mary kolom ta Fred ke dilo.
+23 Jeff chad a gelo.
+24 kolom ta ke dilo? 	Mary	22
+25 Fred kolom ta Mary ke dilo.
+26 Mary kolom ta rekhe dilo.
+27 kolom ta ke nilo?? 	Mary	25
+1 Jeff shekhan the kolom ta nilo.
+2 Jeff kolom ta Bill ke dilo.
+3 kolom ta ke nilo?? 	Bill	2
+4 Fred dokan a gelo.
+5 Jeff baranda te gelo.
+6 kolom ta ke nilo?? 	Bill	2
+7 Jeff shekhan theke kola ta nilo.
+8 Bill kolom ta rekhe dilo there.
+9 kolom ta ke dilo? 	Jeff	2
+10 Jeff kola ta rekhe dilo.
+11 Jeff shekhan theke kola ta nilo.
+12 Jeff dokan a gelo.
+13 Fred shekhan theke dudh ta nilo.
+14 Bill shekhan the kolom ta nilo.
+15 Fred baranda te gelo.
+16 Fred bagan a gelo.
+17 Jeff chad a gelo.
+18 Jeff kola ta rekhe dilo there.
+19 Bill bagan a gelo.
+20 Jeff shekhan theke kola ta nilo.
+21 Jeff dokan a gelo.
+22 Bill kolom ta rekhe dilo.
+23 Bill kaaj a gelo.
+24 Fred dudh ta rekhe dilo.
+25 Jeff bagan a gelo.
+26 Jeff kola ta Fred ke dilo.
+27 Fred kola ta rekhe dilo there.
+28 Jeff kola ta kake dilo?? 	Fred	26
+29 Fred shekhan theke dudh ta nilo.
+30 Fred baranda te gelo.
+31 kola ta ke dilo?? 	Jeff	26
